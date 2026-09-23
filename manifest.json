@@ -1,6 +1,21 @@
 {
- "gerado_em": "2026-09-23 12:14:20",
+ "gerado_em": "2026-09-23 12:15:05",
  "integracoes": {
+  "acemusic": {
+   "1": {
+    "arquivo": "acemusic/1.0.0.pack",
+    "conteudo": "beccff45a142bfb21e0eaa730f3f46effd1d583092c71db2673945f67c3c7218",
+    "notas": "Versao inicial, espelho do motor do AceMusic Automations 1.0.9 (23/09/2026).",
+    "publicada_em": "2026-09-23",
+    "requer": [
+     "selenium"
+    ],
+    "revogadas": [],
+    "sha256": "6d0630212423a932c031c902f2392f667246cc9a5224ab4a08965d4d71fcdd5a",
+    "tamanho": 20322,
+    "versao": "1.0.0"
+   }
+  },
   "facebook_uploader": {
    "1": {
     "arquivo": "facebook_uploader/1.0.0.pack",
@@ -51,5 +66,5 @@
    }
   }
  },
- "serie": 3
+ "serie": 4
 }
