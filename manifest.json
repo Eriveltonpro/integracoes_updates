@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-23 13:53:09",
+ "gerado_em": "2026-09-23 13:55:42",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,9 +64,9 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.5.pack",
-    "conteudo": "c61d061e885d0b3ac8171faba899a3881fcc0fb357088b7b92dc1f4915fd91c7",
-    "notas": "estado() devolve a parede (idade/consentimento) para a lista de contas nao mandar reconectar a toa",
+    "arquivo": "flow/1.0.6.pack",
+    "conteudo": "9514ced91e400d42c2ac3084dc86217d045eaca653a90b31c89a8e8553db3b49",
+    "notas": "Espera da camada de carregamento manda desenhar um quadro por volta (antes so a cada 6 s): tela escondida pronta sem atraso",
     "publicada_em": "2026-09-23",
     "requer": [
      "selenium",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "9f5a38f0db8010526458ed87b79dfbf196c0c39c453568fd8686ea420e310201",
-    "tamanho": 116445,
-    "versao": "1.0.5"
+    "sha256": "ddd68a77bf84df3f3412a3201715b1c3349f92e0c439b3a2251705a930a90a5e",
+    "tamanho": 116447,
+    "versao": "1.0.6"
    }
   },
   "instagram_uploader": {
@@ -129,5 +129,5 @@
    }
   }
  },
- "serie": 13
+ "serie": 14
 }
