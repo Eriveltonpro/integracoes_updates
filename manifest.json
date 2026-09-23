@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-23 13:50:35",
+ "gerado_em": "2026-09-23 13:52:10",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,9 +64,9 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.3.pack",
-    "conteudo": "788faa47fcaf95ac218efde258a2cf08f709a51deb4a9e6bfaa71eddc3329967",
-    "notas": "Aviso do Google (Next) e conta barrada por idade de volta: consentimento passa sozinho, nunca clica em Sign out; idade vira parede com recado certo e sai do rodizio (sem_conta+parede); tela que nao obedece pergunta se a conta caiu; composer 'O que voce deseja criar?'",
+    "arquivo": "flow/1.0.4.pack",
+    "conteudo": "3a5a9c75d602a567669710aa71295663a69638b429c4498c4637f58f655a9e9f",
+    "notas": "Novo projeto com clique de mouse de verdade (o botao do Flow abre no mousedown; com o clique de JavaScript a janela ficava na home e toda cena morria em 'o campo de texto nao voltou')",
     "publicada_em": "2026-09-23",
     "requer": [
      "selenium",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "8cb5d4bb486451d105cfa2f80bf71f3fb5624922492a0cdd3d07ffccc9d6c38e",
-    "tamanho": 116373,
-    "versao": "1.0.3"
+    "sha256": "4974a1c3f25beeebb91037938f37ce8d96754daeaca9f0232a6c765df12f73e1",
+    "tamanho": 116404,
+    "versao": "1.0.4"
    }
   },
   "instagram_uploader": {
@@ -129,5 +129,5 @@
    }
   }
  },
- "serie": 11
+ "serie": 12
 }
