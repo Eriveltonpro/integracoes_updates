@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-23 13:52:10",
+ "gerado_em": "2026-09-23 13:53:09",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,9 +64,9 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.4.pack",
-    "conteudo": "3a5a9c75d602a567669710aa71295663a69638b429c4498c4637f58f655a9e9f",
-    "notas": "Novo projeto com clique de mouse de verdade (o botao do Flow abre no mousedown; com o clique de JavaScript a janela ficava na home e toda cena morria em 'o campo de texto nao voltou')",
+    "arquivo": "flow/1.0.5.pack",
+    "conteudo": "c61d061e885d0b3ac8171faba899a3881fcc0fb357088b7b92dc1f4915fd91c7",
+    "notas": "estado() devolve a parede (idade/consentimento) para a lista de contas nao mandar reconectar a toa",
     "publicada_em": "2026-09-23",
     "requer": [
      "selenium",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "4974a1c3f25beeebb91037938f37ce8d96754daeaca9f0232a6c765df12f73e1",
-    "tamanho": 116404,
-    "versao": "1.0.4"
+    "sha256": "9f5a38f0db8010526458ed87b79dfbf196c0c39c453568fd8686ea420e310201",
+    "tamanho": 116445,
+    "versao": "1.0.5"
    }
   },
   "instagram_uploader": {
@@ -129,5 +129,5 @@
    }
   }
  },
- "serie": 12
+ "serie": 13
 }
