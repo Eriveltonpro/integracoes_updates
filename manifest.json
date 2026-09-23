@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-23 13:55:42",
+ "gerado_em": "2026-09-23 13:57:23",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -114,20 +114,20 @@
   },
   "youtube_uploader": {
    "1": {
-    "arquivo": "youtube_uploader/1.0.0.pack",
-    "conteudo": "fbbf8522f8e0af3de50db3819acdf2b5579d4947b4a6ce28ccceda99cc351cfe",
-    "notas": "Versao inicial, espelho do Auto Uploader YouTube Projetos (21/09/2026).",
+    "arquivo": "youtube_uploader/1.0.1.pack",
+    "conteudo": "3bc70dc890d2d5752e6b2fa06fa4e40ad77f8422a8273dae70e9068bb2fc24f6",
+    "notas": "leitor de dados do pacote (_integ); mesmo motor do Auto Uploader 1.2.12",
     "publicada_em": "2026-09-23",
     "requer": [
      "selenium",
      "requests"
     ],
     "revogadas": [],
-    "sha256": "4d9e0cbb9e858e15918e96a995fabca29463f0b69311564a4245bef6a8ecb4a9",
-    "tamanho": 86229,
-    "versao": "1.0.0"
+    "sha256": "e280e273907e084915f463287aefbf0f59aebc0864efe9049c6bfb3f491bef31",
+    "tamanho": 86524,
+    "versao": "1.0.1"
    }
   }
  },
- "serie": 14
+ "serie": 15
 }
