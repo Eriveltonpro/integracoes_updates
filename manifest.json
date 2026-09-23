@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-23 13:41:05",
+ "gerado_em": "2026-09-23 13:50:35",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,9 +64,9 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.2.pack",
-    "conteudo": "3d11b60cadeb053a4671640927495799de6bf5cc4d5970b484b169dd08225815",
-    "notas": "Bandeiras de volta: sem_credito e recusado no video e na imagem (o rodizio do app decide por bandeira, nunca pelo texto do erro)",
+    "arquivo": "flow/1.0.3.pack",
+    "conteudo": "788faa47fcaf95ac218efde258a2cf08f709a51deb4a9e6bfaa71eddc3329967",
+    "notas": "Aviso do Google (Next) e conta barrada por idade de volta: consentimento passa sozinho, nunca clica em Sign out; idade vira parede com recado certo e sai do rodizio (sem_conta+parede); tela que nao obedece pergunta se a conta caiu; composer 'O que voce deseja criar?'",
     "publicada_em": "2026-09-23",
     "requer": [
      "selenium",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "8d1d25f4a176b2d4c6247b346bf76da5dcbe217d812b1c37cee389ef640b7676",
-    "tamanho": 114349,
-    "versao": "1.0.2"
+    "sha256": "8cb5d4bb486451d105cfa2f80bf71f3fb5624922492a0cdd3d07ffccc9d6c38e",
+    "tamanho": 116373,
+    "versao": "1.0.3"
    }
   },
   "instagram_uploader": {
@@ -129,5 +129,5 @@
    }
   }
  },
- "serie": 10
+ "serie": 11
 }
