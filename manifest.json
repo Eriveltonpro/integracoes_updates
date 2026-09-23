@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-23 12:16:57",
+ "gerado_em": "2026-09-23 13:35:18",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,9 +64,9 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.0.pack",
-    "conteudo": "98c130bc8ab4705ee0b6d0000d0c97282d7964131634b60103d079e9e7e7844e",
-    "notas": "Versao inicial: Flow_kit/flow + flow_media (flow.media), com os consertos do MCP de 23/09/2026 (acordar sem roubar foco, abrir projeto insistindo).",
+    "arquivo": "flow/1.0.1.pack",
+    "conteudo": "32fd613418ab2ddc4e90ded71b7337f4ee72a1d60bff9203843c98132a9074b1",
+    "notas": "Janela escondida nao desenha: forcar_quadro (captura 4x4) termina o fade da camada que engolia todo clique; Esc de teclado; painel de opcoes fecha e o campo do prompt volta",
     "publicada_em": "2026-09-23",
     "requer": [
      "selenium",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "98711b90a19648888cf74e501d02a366cdfcf00474f01664e6a0947ce2482bd1",
-    "tamanho": 113765,
-    "versao": "1.0.0"
+    "sha256": "fe3d51af6a4ad2bfc1cdcd9a95710a5557304be0b84c13008b041ac1b602c712",
+    "tamanho": 114279,
+    "versao": "1.0.1"
    }
   },
   "instagram_uploader": {
@@ -129,5 +129,5 @@
    }
   }
  },
- "serie": 8
+ "serie": 9
 }
