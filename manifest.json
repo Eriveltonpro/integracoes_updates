@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-23 12:15:27",
+ "gerado_em": "2026-09-23 12:15:49",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -13,6 +13,21 @@
     "revogadas": [],
     "sha256": "6d0630212423a932c031c902f2392f667246cc9a5224ab4a08965d4d71fcdd5a",
     "tamanho": 20322,
+    "versao": "1.0.0"
+   }
+  },
+  "bilibili_uploader": {
+   "1": {
+    "arquivo": "bilibili_uploader/1.0.0.pack",
+    "conteudo": "47375c594bbc379d230db5110b5b6af67885918be370a2ca2d1bf0c472fcea85",
+    "notas": "Versao inicial, espelho do Auto Uploader Bilibili.tv (23/09/2026) + consertos da linhagem biliupload: login so' por cookie, mouseMoved no clique, erro de gente no card, studio so' com sessao provada.",
+    "publicada_em": "2026-09-23",
+    "requer": [
+     "selenium"
+    ],
+    "revogadas": [],
+    "sha256": "645734ae8305ed647699e7eb8228bcc5731949703118db08d07034c7bc3ee77a",
+    "tamanho": 25600,
     "versao": "1.0.0"
    }
   },
@@ -81,5 +96,5 @@
    }
   }
  },
- "serie": 5
+ "serie": 6
 }
