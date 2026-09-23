@@ -1,6 +1,21 @@
 {
- "gerado_em": "2026-09-23 07:49:50",
+ "gerado_em": "2026-09-23 12:13:18",
  "integracoes": {
+  "facebook_uploader": {
+   "1": {
+    "arquivo": "facebook_uploader/1.0.0.pack",
+    "conteudo": "c0436abad56d40e7fbe4389c347d65e1df7429827ba9c378f038024a3bc8ab82",
+    "notas": "Versao inicial, espelho do Auto Uploader Facebook / Facebook_uploader_kit (23/09/2026).",
+    "publicada_em": "2026-09-23",
+    "requer": [
+     "selenium"
+    ],
+    "revogadas": [],
+    "sha256": "dbe1927c0ab332c533dd8a58e5297574aa15368c8c48bc8294879d7d2481f73c",
+    "tamanho": 18890,
+    "versao": "1.0.0"
+   }
+  },
   "youtube_uploader": {
    "1": {
     "arquivo": "youtube_uploader/1.0.0.pack",
@@ -18,5 +33,5 @@
    }
   }
  },
- "serie": 1
+ "serie": 2
 }
