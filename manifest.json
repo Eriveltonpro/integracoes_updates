@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-23 12:15:05",
+ "gerado_em": "2026-09-23 12:15:27",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -49,6 +49,21 @@
     "versao": "1.0.0"
    }
   },
+  "instagram_uploader": {
+   "1": {
+    "arquivo": "instagram_uploader/1.0.0.pack",
+    "conteudo": "d847ca7bac0e94db7547611393851167daf74704755b200750749c12c1c944e9",
+    "notas": "Versao inicial: linhagem core/igupload (GTA6 23/09/2026) + login provado pela API do site + recado amigavel no erro (Fluxo Musical).",
+    "publicada_em": "2026-09-23",
+    "requer": [
+     "selenium"
+    ],
+    "revogadas": [],
+    "sha256": "a9dcf18653073e844e515b498959508a79c81fd7221cc499e790a6e4cb81b1a9",
+    "tamanho": 18209,
+    "versao": "1.0.0"
+   }
+  },
   "youtube_uploader": {
    "1": {
     "arquivo": "youtube_uploader/1.0.0.pack",
@@ -66,5 +81,5 @@
    }
   }
  },
- "serie": 4
+ "serie": 5
 }
