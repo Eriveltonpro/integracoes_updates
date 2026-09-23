@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-23 13:57:23",
+ "gerado_em": "2026-09-23 14:34:17",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,9 +64,9 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.6.pack",
-    "conteudo": "9514ced91e400d42c2ac3084dc86217d045eaca653a90b31c89a8e8553db3b49",
-    "notas": "Espera da camada de carregamento manda desenhar um quadro por volta (antes so a cada 6 s): tela escondida pronta sem atraso",
+    "arquivo": "flow/1.0.7.pack",
+    "conteudo": "721886f1f0ec433a8248946d76ed707dc9e808fefd72b2bac16634cdad1756ed",
+    "notas": "",
     "publicada_em": "2026-09-23",
     "requer": [
      "selenium",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "ddd68a77bf84df3f3412a3201715b1c3349f92e0c439b3a2251705a930a90a5e",
-    "tamanho": 116447,
-    "versao": "1.0.6"
+    "sha256": "2c0a686ab7be9fee8f79faf6ab415fa82eb898ab2371892634328df3a20248cb",
+    "tamanho": 117200,
+    "versao": "1.0.7"
    }
   },
   "instagram_uploader": {
@@ -129,5 +129,5 @@
    }
   }
  },
- "serie": 15
+ "serie": 16
 }
