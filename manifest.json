@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-23 12:16:33",
+ "gerado_em": "2026-09-23 12:16:57",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -95,6 +95,23 @@
     "versao": "1.0.0"
    }
   },
+  "meta_ai": {
+   "1": {
+    "arquivo": "meta_ai/1.0.0.pack",
+    "conteudo": "376d295adac66e874262dda4fe31b65acad814f73bded4865365620a31c3a643",
+    "notas": "Versao inicial, espelho do Meta Explosion 1.1.6 (providers + motor do meta.ai do app.py, 23/09/2026).",
+    "publicada_em": "2026-09-23",
+    "requer": [
+     "selenium",
+     "requests",
+     "PIL"
+    ],
+    "revogadas": [],
+    "sha256": "708a537d2f3bb6687b4a19914e300d8b10daac1e845a7a2b865c03de0fa659f1",
+    "tamanho": 68725,
+    "versao": "1.0.0"
+   }
+  },
   "youtube_uploader": {
    "1": {
     "arquivo": "youtube_uploader/1.0.0.pack",
@@ -112,5 +129,5 @@
    }
   }
  },
- "serie": 7
+ "serie": 8
 }
