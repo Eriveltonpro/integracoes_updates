@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-23 13:35:18",
+ "gerado_em": "2026-09-23 13:41:05",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,9 +64,9 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.1.pack",
-    "conteudo": "32fd613418ab2ddc4e90ded71b7337f4ee72a1d60bff9203843c98132a9074b1",
-    "notas": "Janela escondida nao desenha: forcar_quadro (captura 4x4) termina o fade da camada que engolia todo clique; Esc de teclado; painel de opcoes fecha e o campo do prompt volta",
+    "arquivo": "flow/1.0.2.pack",
+    "conteudo": "3d11b60cadeb053a4671640927495799de6bf5cc4d5970b484b169dd08225815",
+    "notas": "Bandeiras de volta: sem_credito e recusado no video e na imagem (o rodizio do app decide por bandeira, nunca pelo texto do erro)",
     "publicada_em": "2026-09-23",
     "requer": [
      "selenium",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "fe3d51af6a4ad2bfc1cdcd9a95710a5557304be0b84c13008b041ac1b602c712",
-    "tamanho": 114279,
-    "versao": "1.0.1"
+    "sha256": "8d1d25f4a176b2d4c6247b346bf76da5dcbe217d812b1c37cee389ef640b7676",
+    "tamanho": 114349,
+    "versao": "1.0.2"
    }
   },
   "instagram_uploader": {
@@ -129,5 +129,5 @@
    }
   }
  },
- "serie": 9
+ "serie": 10
 }
