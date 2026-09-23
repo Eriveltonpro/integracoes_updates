@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-23 12:15:49",
+ "gerado_em": "2026-09-23 12:16:33",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -28,6 +28,22 @@
     "revogadas": [],
     "sha256": "645734ae8305ed647699e7eb8228bcc5731949703118db08d07034c7bc3ee77a",
     "tamanho": 25600,
+    "versao": "1.0.0"
+   }
+  },
+  "chatgpt_imagens": {
+   "1": {
+    "arquivo": "chatgpt_imagens/1.0.0.pack",
+    "conteudo": "a44929815c8c36159d6bfde7d47f986330a8621e919da28dd86eec5a0ca5a29f",
+    "notas": "Versao inicial, espelho do GPT Imagens Automate 0.3.1 (23/09/2026) + rotulo de progresso nao e resposta + corte no maxlength + fechar janela por gancho.",
+    "publicada_em": "2026-09-23",
+    "requer": [
+     "selenium",
+     "PIL"
+    ],
+    "revogadas": [],
+    "sha256": "b03f79f2caf828e591be7082921ef13624c2c3bde035a607ee056e667b0ecf72",
+    "tamanho": 19493,
     "versao": "1.0.0"
    }
   },
@@ -96,5 +112,5 @@
    }
   }
  },
- "serie": 6
+ "serie": 7
 }
