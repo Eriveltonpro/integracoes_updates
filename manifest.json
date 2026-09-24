@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-24 15:16:47",
+ "gerado_em": "2026-09-24 15:32:35",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,9 +64,9 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.9.pack",
-    "conteudo": "6ec94d61068134c9ce2500b6b1eaefb26d04dc448805fbccd430983064d8d411",
-    "notas": "24/09/2026: captcha fantasma, menu cobrindo o Aprovar, download 401, cena enviada varias vezes, lista falha != vazio, pronto = arquivo baixado, fila do Google (espera estendida), aprovar so pergunta viva, janela escondida nao pula na frente",
+    "arquivo": "flow/1.0.10.pack",
+    "conteudo": "b3a1b41df50d9e528812e065cdf2102027cbbceefe176f7006ffd9915555c3f2",
+    "notas": "",
     "publicada_em": "2026-09-24",
     "requer": [
      "selenium",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "11f51b4513220157f614a490c3684ea8455c637871a4f68083f61e13ad89c84d",
-    "tamanho": 120185,
-    "versao": "1.0.9"
+    "sha256": "28fd166125539a8a3d5a4d764044e1d5830ab0881a6cf9ecc144624a94d35e6b",
+    "tamanho": 120318,
+    "versao": "1.0.10"
    }
   },
   "instagram_uploader": {
@@ -129,5 +129,5 @@
    }
   }
  },
- "serie": 19
+ "serie": 20
 }
