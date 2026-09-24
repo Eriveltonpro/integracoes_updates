@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-24 18:46:05",
+ "gerado_em": "2026-09-24 18:47:06",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -49,24 +49,24 @@
   },
   "facebook_uploader": {
    "1": {
-    "arquivo": "facebook_uploader/1.0.2.pack",
-    "conteudo": "1abfc92bcd4eeeb172e84242d6bd86037c06b521232fa19781e83134fd11bd46",
-    "notas": "Post programado respeita 30 min a 29 dias do Facebook",
+    "arquivo": "facebook_uploader/1.0.1.pack",
+    "conteudo": "0319b37924439110946e6bc01679777c0f24b463d2f4362d55b1e5bedf344b77",
+    "notas": "Agendar espera Data/Hora liberarem (o Facebook trava ate o video terminar de subir); motor igual ao Fluxo Musical 1.5.59",
     "publicada_em": "2026-09-24",
     "requer": [
      "selenium"
     ],
     "revogadas": [],
-    "sha256": "309d3dc2adcad85456d72fe2627a91ecbdce47584f55b5957bdec3233b53fcc5",
-    "tamanho": 20930,
-    "versao": "1.0.2"
+    "sha256": "7a84ee61831facaa11b8aa27d7970d1fdaf4eed13492fcd247868daa2e639954",
+    "tamanho": 20178,
+    "versao": "1.0.1"
    }
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.12.pack",
-    "conteudo": "643b075ecfc27b241227b1b728bc639e660969cd02f6fc0b4ed16d36a9052dbd",
-    "notas": "Midia gerada voltava a ser baixada (o download pelo id nunca saia: bug da tupla). Imagem gerada sem download nao troca mais de conta nem cobra de novo. 24/09/2026.",
+    "arquivo": "flow/1.0.13.pack",
+    "conteudo": "d884397856350a04c0d0c9775da6ee623530f338e1b11867f3207c4e2bfd3a5e",
+    "notas": "Troca de conta so quando a conta e o problema; video gerado sem download volta pendente; diario do motor nao some mais calado",
     "publicada_em": "2026-09-24",
     "requer": [
      "selenium",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "791b8d0d996f6e786ad0ad6eff4e8ba9c0522921c7cf35217bcda240c8a85465",
-    "tamanho": 120539,
-    "versao": "1.0.12"
+    "sha256": "ced8a54a762623d942b83c1834041f3b26e74dba1fafd732b129f73d026658be",
+    "tamanho": 120744,
+    "versao": "1.0.13"
    }
   },
   "instagram_uploader": {
