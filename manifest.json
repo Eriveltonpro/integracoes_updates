@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-24 18:47:06",
+ "gerado_em": "2026-09-24 19:54:18",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,9 +64,9 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.13.pack",
-    "conteudo": "d884397856350a04c0d0c9775da6ee623530f338e1b11867f3207c4e2bfd3a5e",
-    "notas": "Troca de conta so quando a conta e o problema; video gerado sem download volta pendente; diario do motor nao some mais calado",
+    "arquivo": "flow/1.0.14.pack",
+    "conteudo": "89540db05e72ded6de03c488fb8a0ad14147d5021a54c8f92d54d64b717c2fb4",
+    "notas": "Das 3 retentativas do Tentar de novo so uma era gastada: a espera saia do laco antes da janela de 45s e o cliente lia 'nao ficou pronto' em vez de trocar de conta. Cada retentativa estica o prazo da cena.",
     "publicada_em": "2026-09-24",
     "requer": [
      "selenium",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "ced8a54a762623d942b83c1834041f3b26e74dba1fafd732b129f73d026658be",
-    "tamanho": 120744,
-    "versao": "1.0.13"
+    "sha256": "ff3cc3031ca978cc1394a5c427cb645aabeffd45b506c15a62e9bfb528452205",
+    "tamanho": 120759,
+    "versao": "1.0.14"
    }
   },
   "instagram_uploader": {
@@ -129,5 +129,5 @@
    }
   }
  },
- "serie": 23
+ "serie": 24
 }
