@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-23 15:32:25",
+ "gerado_em": "2026-09-24 14:05:07",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -49,17 +49,17 @@
   },
   "facebook_uploader": {
    "1": {
-    "arquivo": "facebook_uploader/1.0.0.pack",
-    "conteudo": "c0436abad56d40e7fbe4389c347d65e1df7429827ba9c378f038024a3bc8ab82",
-    "notas": "Versao inicial, espelho do Auto Uploader Facebook / Facebook_uploader_kit (23/09/2026).",
-    "publicada_em": "2026-09-23",
+    "arquivo": "facebook_uploader/1.0.1.pack",
+    "conteudo": "0319b37924439110946e6bc01679777c0f24b463d2f4362d55b1e5bedf344b77",
+    "notas": "Agendar espera Data/Hora liberarem (o Facebook trava ate o video terminar de subir); motor igual ao Fluxo Musical 1.5.59",
+    "publicada_em": "2026-09-24",
     "requer": [
      "selenium"
     ],
     "revogadas": [],
-    "sha256": "dbe1927c0ab332c533dd8a58e5297574aa15368c8c48bc8294879d7d2481f73c",
-    "tamanho": 18890,
-    "versao": "1.0.0"
+    "sha256": "7a84ee61831facaa11b8aa27d7970d1fdaf4eed13492fcd247868daa2e639954",
+    "tamanho": 20178,
+    "versao": "1.0.1"
    }
   },
   "flow": {
@@ -129,5 +129,5 @@
    }
   }
  },
- "serie": 17
+ "serie": 18
 }
