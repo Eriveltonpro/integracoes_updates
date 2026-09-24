@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-24 15:35:36",
+ "gerado_em": "2026-09-24 18:08:17",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,9 +64,9 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.11.pack",
-    "conteudo": "cf4072eb246f6f5116a734ed970b1e62e59c8cdd8a8c82c0fe74db3fb021505a",
-    "notas": "",
+    "arquivo": "flow/1.0.12.pack",
+    "conteudo": "643b075ecfc27b241227b1b728bc639e660969cd02f6fc0b4ed16d36a9052dbd",
+    "notas": "Midia gerada voltava a ser baixada (o download pelo id nunca saia: bug da tupla). Imagem gerada sem download nao troca mais de conta nem cobra de novo. 24/09/2026.",
     "publicada_em": "2026-09-24",
     "requer": [
      "selenium",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "0ef7c2e774360f1bfb942ee8232e7dc86e92464588872e989744fb1925be617e",
-    "tamanho": 120417,
-    "versao": "1.0.11"
+    "sha256": "791b8d0d996f6e786ad0ad6eff4e8ba9c0522921c7cf35217bcda240c8a85465",
+    "tamanho": 120539,
+    "versao": "1.0.12"
    }
   },
   "instagram_uploader": {
@@ -129,5 +129,5 @@
    }
   }
  },
- "serie": 21
+ "serie": 22
 }
