@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-25 10:11:47",
+ "gerado_em": "2026-09-25 11:32:19",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -49,17 +49,17 @@
   },
   "facebook_uploader": {
    "1": {
-    "arquivo": "facebook_uploader/1.0.1.pack",
-    "conteudo": "0319b37924439110946e6bc01679777c0f24b463d2f4362d55b1e5bedf344b77",
-    "notas": "Agendar espera Data/Hora liberarem (o Facebook trava ate o video terminar de subir); motor igual ao Fluxo Musical 1.5.59",
-    "publicada_em": "2026-09-24",
+    "arquivo": "facebook_uploader/1.0.2.pack",
+    "conteudo": "98ef72fbb6819433b298a44d65200c4b1fa988a83b0a0c62c81db0f5fa35a019",
+    "notas": "tela de reel em pagina unica: Programar abre o painel, botao final Programar post (agendamento parava 4 h)",
+    "publicada_em": "2026-09-25",
     "requer": [
      "selenium"
     ],
     "revogadas": [],
-    "sha256": "7a84ee61831facaa11b8aa27d7970d1fdaf4eed13492fcd247868daa2e639954",
-    "tamanho": 20178,
-    "versao": "1.0.1"
+    "sha256": "bcb55284aa29d25c184ed6abc302eb57abf395d17500375c75ee9917c770a31a",
+    "tamanho": 21563,
+    "versao": "1.0.2"
    }
   },
   "flow": {
@@ -129,5 +129,5 @@
    }
   }
  },
- "serie": 28
+ "serie": 29
 }
