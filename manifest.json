@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-25 11:32:19",
+ "gerado_em": "2026-09-25 15:39:48",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,10 +64,10 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.15.pack",
-    "conteudo": "c553766325a4013677403ce7afa48d35ce8c92745d2df4680915870d3c71bc24",
-    "notas": "Foto do personagem volta a anexar: Flow trocou o botao + (add), o campo de arquivo e a caixa de direitos de uso; imagem com referencia nao baixa mais a propria foto",
-    "publicada_em": "2026-09-24",
+    "arquivo": "flow/1.0.16.pack",
+    "conteudo": "e88a109ba492ef060553ebe86dc5854d88caec7c1a5ace74c5a3bd05f67c2791",
+    "notas": "",
+    "publicada_em": "2026-09-25",
     "requer": [
      "selenium",
      "requests",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "8873eba64566bae708dba988180dc10c5bac33cc7bcbfefed52674ea03613048",
-    "tamanho": 122335,
-    "versao": "1.0.15"
+    "sha256": "a89a6c92e7221623c34980b5882c1ce504d2a7925e1dbbbeb09e37b36f0713bf",
+    "tamanho": 122668,
+    "versao": "1.0.16"
    }
   },
   "instagram_uploader": {
@@ -129,5 +129,5 @@
    }
   }
  },
- "serie": 29
+ "serie": 30
 }
