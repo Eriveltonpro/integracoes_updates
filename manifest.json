@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-25 06:43:21",
+ "gerado_em": "2026-09-25 10:11:47",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -33,18 +33,18 @@
   },
   "chatgpt_imagens": {
    "1": {
-    "arquivo": "chatgpt_imagens/1.0.0.pack",
-    "conteudo": "a44929815c8c36159d6bfde7d47f986330a8621e919da28dd86eec5a0ca5a29f",
-    "notas": "Versao inicial, espelho do GPT Imagens Automate 0.3.1 (23/09/2026) + rotulo de progresso nao e resposta + corte no maxlength + fechar janela por gancho.",
-    "publicada_em": "2026-09-23",
+    "arquivo": "chatgpt_imagens/1.1.0.pack",
+    "conteudo": "52b313ddc71b35d1a010cc6c210fc31653aa78b9adb4a38000a95afa5a32bf23",
+    "notas": "verificacao \"confirme que voce e humano\" (Cloudflare) reconhecida: o kit avisa a tela, traz a janela pra frente 1x e espera o clique do cliente em vez de queimar a fila; esperar_login so diz OK quando da pra digitar; abrir() nao rouba mais o foco",
+    "publicada_em": "2026-09-25",
     "requer": [
      "selenium",
      "PIL"
     ],
     "revogadas": [],
-    "sha256": "b03f79f2caf828e591be7082921ef13624c2c3bde035a607ee056e667b0ecf72",
-    "tamanho": 19493,
-    "versao": "1.0.0"
+    "sha256": "baa7378f4eca78c706ecfe522d2bc28f2664d4d322f4bf7744c7619ee64e7c2d",
+    "tamanho": 22749,
+    "versao": "1.1.0"
    }
   },
   "facebook_uploader": {
@@ -129,5 +129,5 @@
    }
   }
  },
- "serie": 27
+ "serie": 28
 }
