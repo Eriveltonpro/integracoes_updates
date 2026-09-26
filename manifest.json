@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-25 15:39:48",
+ "gerado_em": "2026-09-26 09:44:33",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -114,20 +114,20 @@
   },
   "youtube_uploader": {
    "1": {
-    "arquivo": "youtube_uploader/1.0.2.pack",
-    "conteudo": "eca2b03922d88da36a426a8c9150c6c2aad41202484487ae9d2595fae9357f10",
-    "notas": "Uso de IA (conteudo alterado) remapeado ao vivo: abre o Mostrar mais se preciso, marca e confere",
-    "publicada_em": "2026-09-24",
+    "arquivo": "youtube_uploader/1.0.3.pack",
+    "conteudo": "9b2a1f8f253b916eaace3ac013597713761df4cfa5658d7e4189eeca59b2d33a",
+    "notas": "Definir como Estreia no agendamento (options premiere)",
+    "publicada_em": "2026-09-26",
     "requer": [
      "selenium",
      "requests"
     ],
     "revogadas": [],
-    "sha256": "ae9d9c423678280554b16a368be91afa705fc2ca1f21ab5985f7e10ea1311166",
-    "tamanho": 87312,
-    "versao": "1.0.2"
+    "sha256": "1346c6db286c9123ff579255ba368d1f611c8bdd9f82db368b331819789b22c4",
+    "tamanho": 89279,
+    "versao": "1.0.3"
    }
   }
  },
- "serie": 30
+ "serie": 31
 }
