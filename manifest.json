@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-26 15:38:34",
+ "gerado_em": "2026-09-26 21:44:26",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -114,20 +114,20 @@
   },
   "youtube_uploader": {
    "1": {
-    "arquivo": "youtube_uploader/1.0.3.pack",
-    "conteudo": "9b2a1f8f253b916eaace3ac013597713761df4cfa5658d7e4189eeca59b2d33a",
-    "notas": "Definir como Estreia no agendamento (options premiere)",
+    "arquivo": "youtube_uploader/1.0.4.pack",
+    "conteudo": "e862876a5e8af8c8d57a4bc20aaa407913171e275e57e477ecec17ff325980f6",
+    "notas": "Login do Google sem driver anexado: cookies_da_janela(endereco) + entrou_no_google(cookies). Com o Selenium pendurado na aba o Google recusava o login ('navegador pode nao ser seguro'). 26/09/2026.",
     "publicada_em": "2026-09-26",
     "requer": [
      "selenium",
      "requests"
     ],
     "revogadas": [],
-    "sha256": "1346c6db286c9123ff579255ba368d1f611c8bdd9f82db368b331819789b22c4",
-    "tamanho": 89279,
-    "versao": "1.0.3"
+    "sha256": "bfa9add6eafb97d0b6f7b0961c8e4b940846b4ffd93273af9a50e58fa012eea4",
+    "tamanho": 89990,
+    "versao": "1.0.4"
    }
   }
  },
- "serie": 34
+ "serie": 35
 }
