@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-26 21:44:26",
+ "gerado_em": "2026-09-27 09:08:31",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -114,20 +114,20 @@
   },
   "youtube_uploader": {
    "1": {
-    "arquivo": "youtube_uploader/1.0.4.pack",
-    "conteudo": "e862876a5e8af8c8d57a4bc20aaa407913171e275e57e477ecec17ff325980f6",
-    "notas": "Login do Google sem driver anexado: cookies_da_janela(endereco) + entrou_no_google(cookies). Com o Selenium pendurado na aba o Google recusava o login ('navegador pode nao ser seguro'). 26/09/2026.",
-    "publicada_em": "2026-09-26",
+    "arquivo": "youtube_uploader/1.0.5.pack",
+    "conteudo": "e30d4c94c2c10e5b0c999e432d6aba660dce2962c1398aa8add0ed57c2abc823",
+    "notas": "1.0.5 (27/09/2026): aviso 'Voce perdeu o acesso aos recursos avancados' fechado com 'Ok, entendi' e o envio segue (antes o modal travava capa/agendamento).",
+    "publicada_em": "2026-09-27",
     "requer": [
      "selenium",
      "requests"
     ],
     "revogadas": [],
-    "sha256": "bfa9add6eafb97d0b6f7b0961c8e4b940846b4ffd93273af9a50e58fa012eea4",
-    "tamanho": 89990,
-    "versao": "1.0.4"
+    "sha256": "26c9a40730ac03ee3dabb30124086773f99bd4028cccc7497a84700c91e99776",
+    "tamanho": 90893,
+    "versao": "1.0.5"
    }
   }
  },
- "serie": 35
+ "serie": 36
 }
