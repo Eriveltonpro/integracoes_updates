@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-28 09:15:27",
+ "gerado_em": "2026-09-28 10:05:59",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,9 +64,9 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.24.pack",
-    "conteudo": "af45aadc25826a4ef4caa701a21d93a867af097226ebc23f52bcc6294a921df8",
-    "notas": "Testar agora: conta que o Google ainda recusa ganha recado claro (nao foi banida, testa de novo as HH:MM) em vez do erro cru da tela.",
+    "arquivo": "flow/1.0.25.pack",
+    "conteudo": "cab8307d48c59b33dd6b799a77614ec0ac5c00ab4f2031c1f1b9ba9ff53d7948",
+    "notas": "",
     "publicada_em": "2026-09-28",
     "requer": [
      "selenium",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "9a4da82fbe3b215392a6ac71403517b793ab30380426ca3c6b7583ae8c910f3f",
-    "tamanho": 127072,
-    "versao": "1.0.24"
+    "sha256": "e3ba402dbf8d5413b2ad9cd1b78946a111d2f21868c52bedae7a0a03961048ec",
+    "tamanho": 157050,
+    "versao": "1.0.25"
    }
   },
   "instagram_uploader": {
@@ -129,5 +129,5 @@
    }
   }
  },
- "serie": 41
+ "serie": 42
 }
