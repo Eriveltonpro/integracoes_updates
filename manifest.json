@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-28 18:34:39",
+ "gerado_em": "2026-09-28 18:42:54",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -49,17 +49,17 @@
   },
   "facebook_uploader": {
    "1": {
-    "arquivo": "facebook_uploader/1.0.2.pack",
-    "conteudo": "98ef72fbb6819433b298a44d65200c4b1fa988a83b0a0c62c81db0f5fa35a019",
-    "notas": "tela de reel em pagina unica: Programar abre o painel, botao final Programar post (agendamento parava 4 h)",
-    "publicada_em": "2026-09-25",
+    "arquivo": "facebook_uploader/1.0.3.pack",
+    "conteudo": "94575ba1f36e769ef3c4c8483d87828594d365d2cd9c33c21d092aaea8d8f40e",
+    "notas": "Carrossel de fotos num post so (perfil e Pagina), vindo do Bombar no Insta.",
+    "publicada_em": "2026-09-28",
     "requer": [
      "selenium"
     ],
     "revogadas": [],
-    "sha256": "bcb55284aa29d25c184ed6abc302eb57abf395d17500375c75ee9917c770a31a",
-    "tamanho": 21563,
-    "versao": "1.0.2"
+    "sha256": "c257103beaeb811737834c87b753995601e8eb75e3c08034b07dc49c8171031d",
+    "tamanho": 22235,
+    "versao": "1.0.3"
    }
   },
   "flow": {
@@ -129,5 +129,5 @@
    }
   }
  },
- "serie": 49
+ "serie": 50
 }
