@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-28 18:42:54",
+ "gerado_em": "2026-09-28 18:50:59",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -114,20 +114,20 @@
   },
   "youtube_uploader": {
    "1": {
-    "arquivo": "youtube_uploader/1.0.5.pack",
-    "conteudo": "e30d4c94c2c10e5b0c999e432d6aba660dce2962c1398aa8add0ed57c2abc823",
-    "notas": "1.0.5 (27/09/2026): aviso 'Voce perdeu o acesso aos recursos avancados' fechado com 'Ok, entendi' e o envio segue (antes o modal travava capa/agendamento).",
-    "publicada_em": "2026-09-27",
+    "arquivo": "youtube_uploader/1.0.6.pack",
+    "conteudo": "1fe913aee9dc43552c6b9d5dec5958ce2d2c2722d8c2908b85ae3b6a8af62da6",
+    "notas": "1.0.6 (28/09/2026): log do kit tinha falta de autopsia/ui_do_youtube (AttributeError na falha de tags/Uso de IA); agora repassa qualquer funcao de log ao app.",
+    "publicada_em": "2026-09-28",
     "requer": [
      "selenium",
      "requests"
     ],
     "revogadas": [],
-    "sha256": "26c9a40730ac03ee3dabb30124086773f99bd4028cccc7497a84700c91e99776",
-    "tamanho": 90893,
-    "versao": "1.0.5"
+    "sha256": "24536b569a8d60aa48a981fddd75261fa30a5151f703575ae1555019568dc25c",
+    "tamanho": 91009,
+    "versao": "1.0.6"
    }
   }
  },
- "serie": 50
+ "serie": 51
 }
