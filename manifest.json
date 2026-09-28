@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-28 08:08:03",
+ "gerado_em": "2026-09-28 08:27:51",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,9 +64,9 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.22.pack",
-    "conteudo": "d6dc91d8f3cfff61df1533ef4a59802bf1d170cb6288c6a9adba53b884c2f053",
-    "notas": "Conta que o Google parou fica marcada por 2 horas em todos os programas, e pulada na hora; o programa testa de novo sozinho depois.",
+    "arquivo": "flow/1.0.23.pack",
+    "conteudo": "558fa8e77238e02015b598976c843129d069b506fa767a1c16a67eb2326ab4fa",
+    "notas": "Testar agora (conta parada pelo Google) agora testa SO a conta pedida: sem sessao nela avisa Entrar de novo em vez de gerar em outra conta e dar falso liberada.",
     "publicada_em": "2026-09-28",
     "requer": [
      "selenium",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "e5f7ada4db880648dfa1b13f2d9464798e33d0e883ade1c97863ea2798d7e05a",
-    "tamanho": 126733,
-    "versao": "1.0.22"
+    "sha256": "7bb25a050afd494afb2359dc3f1375f836ebee94d3d33b0ac7202b706c745f1c",
+    "tamanho": 126917,
+    "versao": "1.0.23"
    }
   },
   "instagram_uploader": {
@@ -129,5 +129,5 @@
    }
   }
  },
- "serie": 39
+ "serie": 40
 }
