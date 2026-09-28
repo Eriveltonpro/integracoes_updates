@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-28 08:27:51",
+ "gerado_em": "2026-09-28 09:15:27",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,9 +64,9 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.23.pack",
-    "conteudo": "558fa8e77238e02015b598976c843129d069b506fa767a1c16a67eb2326ab4fa",
-    "notas": "Testar agora (conta parada pelo Google) agora testa SO a conta pedida: sem sessao nela avisa Entrar de novo em vez de gerar em outra conta e dar falso liberada.",
+    "arquivo": "flow/1.0.24.pack",
+    "conteudo": "af45aadc25826a4ef4caa701a21d93a867af097226ebc23f52bcc6294a921df8",
+    "notas": "Testar agora: conta que o Google ainda recusa ganha recado claro (nao foi banida, testa de novo as HH:MM) em vez do erro cru da tela.",
     "publicada_em": "2026-09-28",
     "requer": [
      "selenium",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "7bb25a050afd494afb2359dc3f1375f836ebee94d3d33b0ac7202b706c745f1c",
-    "tamanho": 126917,
-    "versao": "1.0.23"
+    "sha256": "9a4da82fbe3b215392a6ac71403517b793ab30380426ca3c6b7583ae8c910f3f",
+    "tamanho": 127072,
+    "versao": "1.0.24"
    }
   },
   "instagram_uploader": {
@@ -129,5 +129,5 @@
    }
   }
  },
- "serie": 40
+ "serie": 41
 }
