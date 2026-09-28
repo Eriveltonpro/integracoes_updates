@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-28 06:56:25",
+ "gerado_em": "2026-09-28 07:39:43",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,9 +64,9 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.20.pack",
-    "conteudo": "ac8151b127980bfcbfb0199ae7977854e96d54195dc8adb2bc8c3e5fa196f8b2",
-    "notas": "Imagem voltou a baixar (estado da imagem lido pelo formato, nao pela consulta de video); modelo de imagem certo e x1 (nao gera 2 por cena); painel lateral fechado e projeto recarregado antes de enviar; video nao baixa a imagem chave do modo Agente. 28/09/2026.",
+    "arquivo": "flow/1.0.21.pack",
+    "conteudo": "04bf7aa753aff99da0f00ddf0923d6b1253dc6273509887bbc7f1702607f229c",
+    "notas": "Erro rapido do Flow (Algo deu errado) agora e visto na hora: pede de novo e troca de conta em vez de esperar 5 minutos.",
     "publicada_em": "2026-09-28",
     "requer": [
      "selenium",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "d0946a4ea598aacbaf39f9d75d7f63ae0b995f88a2631fe5e6747c8f3ec3f7eb",
-    "tamanho": 123809,
-    "versao": "1.0.20"
+    "sha256": "ce97c6a3351d25095264369ebb66a33aab0808278a09ec04830802de33dee2f7",
+    "tamanho": 123930,
+    "versao": "1.0.21"
    }
   },
   "instagram_uploader": {
@@ -129,5 +129,5 @@
    }
   }
  },
- "serie": 37
+ "serie": 38
 }
