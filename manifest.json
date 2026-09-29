@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-29 12:16:02",
+ "gerado_em": "2026-09-29 12:26:31",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -114,18 +114,18 @@
   },
   "vids": {
    "1": {
-    "arquivo": "vids/1.0.0.pack",
-    "conteudo": "8396051833309043e1519c1021c4e2565201c85b1232753a544dd98666267e4f",
-    "notas": "Primeira versao: texto->video, imagem->video (Animar), imagem, cota do dia por conta e rodizio. 29/09/2026.",
+    "arquivo": "vids/1.0.1.pack",
+    "conteudo": "37eb6b2070f8833f0e7539fd9c87c958feb49b210ea94bf61a6b35e7826fa5cd",
+    "notas": "",
     "publicada_em": "2026-09-29",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "aaf451b4a12a86040ae33bc76b3143ca289cf33ab3bcdd29248d3298fa0a7b77",
-    "tamanho": 39544,
-    "versao": "1.0.0"
+    "sha256": "07574a830557313ead507f28ef94e80eca51a06fb045ee127b7c3c3808517805",
+    "tamanho": 39748,
+    "versao": "1.0.1"
    }
   },
   "youtube_uploader": {
@@ -145,5 +145,5 @@
    }
   }
  },
- "serie": 60
+ "serie": 61
 }
