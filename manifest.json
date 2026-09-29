@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-29 11:59:48",
+ "gerado_em": "2026-09-29 12:00:44",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -130,20 +130,20 @@
   },
   "youtube_uploader": {
    "1": {
-    "arquivo": "youtube_uploader/1.0.6.pack",
-    "conteudo": "1fe913aee9dc43552c6b9d5dec5958ce2d2c2722d8c2908b85ae3b6a8af62da6",
-    "notas": "1.0.6 (28/09/2026): log do kit tinha falta de autopsia/ui_do_youtube (AttributeError na falha de tags/Uso de IA); agora repassa qualquer funcao de log ao app.",
-    "publicada_em": "2026-09-28",
+    "arquivo": "youtube_uploader/1.0.7.pack",
+    "conteudo": "adaf62b4c111a9765f954bbd18a39f0c88789cb7e2f703231edb437c127e560b",
+    "notas": "1.0.7 (29/09/2026): canal achado pelo ID (UC...) - renomear o canal no YouTube nao quebra mais o envio; list_channels devolve channel_id; select_channel(channel_id=) e escolher_canal(channel_id=).",
+    "publicada_em": "2026-09-29",
     "requer": [
      "selenium",
      "requests"
     ],
     "revogadas": [],
-    "sha256": "24536b569a8d60aa48a981fddd75261fa30a5151f703575ae1555019568dc25c",
-    "tamanho": 91009,
-    "versao": "1.0.6"
+    "sha256": "6e9e6274e3dbcfd2f83cb68c07f668e4ca101af26578c581e97c5f46f1321651",
+    "tamanho": 91883,
+    "versao": "1.0.7"
    }
   }
  },
- "serie": 57
+ "serie": 58
 }
