@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-29 14:37:26",
+ "gerado_em": "2026-09-29 14:55:41",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -97,9 +97,9 @@
   },
   "meta_ai": {
    "1": {
-    "arquivo": "meta_ai/1.0.2.pack",
-    "conteudo": "09f700568998729dd82bf448d324e13148fd0ff584c092ea1333c3f4749ba18c",
-    "notas": "meta.ai: mesma imagem baixada 2x (inline + ur-image-tile) e imagem re-assinada voltando como nova - agora so o tile e identidade pelo caminho da URL; vibes: idade pela URL VibesAgeRestricted; falha anunciada pelo site encerra a espera apos 120s de retentativa. Meta Explosion 1.1.9 passa a usar o kit. 29/09/2026.",
+    "arquivo": "meta_ai/1.0.3.pack",
+    "conteudo": "fc454fa50b80a80d41ba70b0a4acdb90b5cea57eddd05ac22438601880c0f70e",
+    "notas": "seletor gravado invalido nao trava mais a fila; auto-descoberta sem class",
     "publicada_em": "2026-09-29",
     "requer": [
      "selenium",
@@ -107,9 +107,9 @@
      "PIL"
     ],
     "revogadas": [],
-    "sha256": "861e82edac72a0d185fe4473f93ebeef49fe405d6024b4ed69842aefaa30e5e3",
-    "tamanho": 71870,
-    "versao": "1.0.2"
+    "sha256": "308c51593fc12692472ee65a668931a18dae5b663419c0f77a580431f9f6ce01",
+    "tamanho": 72353,
+    "versao": "1.0.3"
    }
   },
   "vids": {
@@ -145,5 +145,5 @@
    }
   }
  },
- "serie": 63
+ "serie": 64
 }
