@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-29 10:15:54",
+ "gerado_em": "2026-09-29 10:33:41",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -18,17 +18,17 @@
   },
   "bilibili_uploader": {
    "1": {
-    "arquivo": "bilibili_uploader/1.0.0.pack",
-    "conteudo": "47375c594bbc379d230db5110b5b6af67885918be370a2ca2d1bf0c472fcea85",
-    "notas": "Versao inicial, espelho do Auto Uploader Bilibili.tv (23/09/2026) + consertos da linhagem biliupload: login so' por cookie, mouseMoved no clique, erro de gente no card, studio so' com sessao provada.",
-    "publicada_em": "2026-09-23",
+    "arquivo": "bilibili_uploader/1.0.1.pack",
+    "conteudo": "5d027a95f4525341ca00a8b53943fee7b7292a18bfc417dab8c1db01f7fc4a01",
+    "notas": "Janela de agendamento do Bilibili (agora+2h ate +15 dias): publicar() recusa data fora antes de mandar o arquivo; agendar_rascunhos para na 1a data fora; novos cabe_na_janela/sobe_a_partir_de/janela_de_agendamento pra fila segurar o video.",
+    "publicada_em": "2026-09-29",
     "requer": [
      "selenium"
     ],
     "revogadas": [],
-    "sha256": "645734ae8305ed647699e7eb8228bcc5731949703118db08d07034c7bc3ee77a",
-    "tamanho": 25600,
-    "versao": "1.0.0"
+    "sha256": "233424680a0f9bff9d827696d61329efb2289df41d8e20bb22f308ff8fec83a9",
+    "tamanho": 26482,
+    "versao": "1.0.1"
    }
   },
   "chatgpt_imagens": {
@@ -129,5 +129,5 @@
    }
   }
  },
- "serie": 53
+ "serie": 54
 }
