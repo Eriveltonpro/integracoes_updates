@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-29 11:11:39",
+ "gerado_em": "2026-09-29 11:17:13",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,9 +64,9 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.35.pack",
-    "conteudo": "e117ed54d3e9f47f8b8389a27886d08923dd29286581aff7dc52c2f8188f812f",
-    "notas": "Foto de referencia (personagem) anexada pela tela no modo Lote: video/imagem com foto sai com o rosto da foto; anexo de cena anterior e' tirado sozinho",
+    "arquivo": "flow/1.0.36.pack",
+    "conteudo": "26013495c878608a6a07ddcbb9f1da9316493d6e7567fc5eb0b9df3378768793",
+    "notas": "Modelo gratuito que a conta nao tem nao cai mais no pago sem avisar; fila economica respeitada no modo Lote; nao cria projeto duplicado no Flow",
     "publicada_em": "2026-09-29",
     "requer": [
      "selenium",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "7e13003dc99a499a82585e2251eecafdac640c378ff86b0b0d09b0fcf10c6332",
-    "tamanho": 172293,
-    "versao": "1.0.35"
+    "sha256": "a756b0d428fb17ad4656e7ef804eb2cf562a529cf265b04253346c8ae39a0930",
+    "tamanho": 173273,
+    "versao": "1.0.36"
    }
   },
   "instagram_uploader": {
@@ -129,5 +129,5 @@
    }
   }
  },
- "serie": 55
+ "serie": 56
 }
