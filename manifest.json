@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-29 10:33:41",
+ "gerado_em": "2026-09-29 11:11:39",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,9 +64,9 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.34.pack",
-    "conteudo": "4bf05f693773494ad5315348aeadd86156173236fe0eb5e48db339c99e98e77b",
-    "notas": "Modo Lote vira o caminho principal (agente desligado); atividade incomum detectada em segundos; alta demanda reenvia sozinha; download por flow.google.com/asb (video 720p =m22, imagem original =d; capa nunca vira .mp4); 'operation data for media not found' deixa de derrubar a cena. 29/09/2026.",
+    "arquivo": "flow/1.0.35.pack",
+    "conteudo": "e117ed54d3e9f47f8b8389a27886d08923dd29286581aff7dc52c2f8188f812f",
+    "notas": "Foto de referencia (personagem) anexada pela tela no modo Lote: video/imagem com foto sai com o rosto da foto; anexo de cena anterior e' tirado sozinho",
     "publicada_em": "2026-09-29",
     "requer": [
      "selenium",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "c7cf0cbbfba0ab920fb01b8ec321aa8eddb88c475718078858330bee6348e116",
-    "tamanho": 168897,
-    "versao": "1.0.34"
+    "sha256": "7e13003dc99a499a82585e2251eecafdac640c378ff86b0b0d09b0fcf10c6332",
+    "tamanho": 172293,
+    "versao": "1.0.35"
    }
   },
   "instagram_uploader": {
@@ -129,5 +129,5 @@
    }
   }
  },
- "serie": 54
+ "serie": 55
 }
