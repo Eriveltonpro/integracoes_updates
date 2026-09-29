@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-29 15:03:46",
+ "gerado_em": "2026-09-29 15:10:11",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -130,20 +130,20 @@
   },
   "youtube_uploader": {
    "1": {
-    "arquivo": "youtube_uploader/1.0.7.pack",
-    "conteudo": "adaf62b4c111a9765f954bbd18a39f0c88789cb7e2f703231edb437c127e560b",
-    "notas": "1.0.7 (29/09/2026): canal achado pelo ID (UC...) - renomear o canal no YouTube nao quebra mais o envio; list_channels devolve channel_id; select_channel(channel_id=) e escolher_canal(channel_id=).",
+    "arquivo": "youtube_uploader/1.0.8.pack",
+    "conteudo": "d2f401441c4cb70fe34e183ee2770028f5bbf5f1c14c434543d857ad911be94e",
+    "notas": "1.0.8 (29/09/2026): consertos do Viral Studio Pro AI no motor central: envio grande nao morre no relogio de 1h (desiste so parado 15 min) e nao agenda arquivo incompleto; confere o canal antes de anexar; prova de teclado falha antes de anexar; link do video nao pega video antigo; deteccao de canais le menu + pagina Todos os canais + lista JSON de contas (conta com 100+ canais, e-mail nao vira @handle); sessao dona do canal (authuser) antes do switcher; espera o dono concluir verificacao de identidade.",
     "publicada_em": "2026-09-29",
     "requer": [
      "selenium",
      "requests"
     ],
     "revogadas": [],
-    "sha256": "6e9e6274e3dbcfd2f83cb68c07f668e4ca101af26578c581e97c5f46f1321651",
-    "tamanho": 91883,
-    "versao": "1.0.7"
+    "sha256": "10041af8755feb32e77bffd2b975ff740fa6204b11fbb782db88ca216bee2729",
+    "tamanho": 100528,
+    "versao": "1.0.8"
    }
   }
  },
- "serie": 65
+ "serie": 66
 }
