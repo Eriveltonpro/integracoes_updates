@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-29 14:55:41",
+ "gerado_em": "2026-09-29 15:03:46",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -97,9 +97,9 @@
   },
   "meta_ai": {
    "1": {
-    "arquivo": "meta_ai/1.0.3.pack",
-    "conteudo": "fc454fa50b80a80d41ba70b0a4acdb90b5cea57eddd05ac22438601880c0f70e",
-    "notas": "seletor gravado invalido nao trava mais a fila; auto-descoberta sem class",
+    "arquivo": "meta_ai/1.0.4.pack",
+    "conteudo": "cbea82cfa5f5279d025ea68c5f28fb0200ad9e09036a0b5e68d0d83e00084e0c",
+    "notas": "consertos do Viral Studio fundidos: imagem vertical (image_aspect), destrava dialogo morto do upload + grade no painel, tela de entrar sem clicar continuar generico, espera estica enquanto o Meta produz",
     "publicada_em": "2026-09-29",
     "requer": [
      "selenium",
@@ -107,9 +107,9 @@
      "PIL"
     ],
     "revogadas": [],
-    "sha256": "308c51593fc12692472ee65a668931a18dae5b663419c0f77a580431f9f6ce01",
-    "tamanho": 72353,
-    "versao": "1.0.3"
+    "sha256": "64729383ba157edb5749e976b758a7891e35f2f7b53adee8c665ed5b9db50bf7",
+    "tamanho": 73624,
+    "versao": "1.0.4"
    }
   },
   "vids": {
@@ -145,5 +145,5 @@
    }
   }
  },
- "serie": 64
+ "serie": 65
 }
