@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-29 15:22:58",
+ "gerado_em": "2026-09-30 08:40:31",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,10 +64,10 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.37.pack",
-    "conteudo": "8b03757449a1fe99fda62ae0b1cba869f5dcbd75861bfbf0e82dd8cc9d672311",
-    "notas": "Aviso claro quando o Google Flow cai (espera e tenta de novo); modelo que a conta nao tem cai no parecido avisando; conta deslogada detectada na hora; download do caminho antigo consertado",
-    "publicada_em": "2026-09-29",
+    "arquivo": "flow/1.0.38.pack",
+    "conteudo": "d37a6385d9b7ceb93410e174332fcea60bd92ff7f48af6c1a4b9d31dc1e6d41a",
+    "notas": "Janela ja fechada nao enche mais o relatorio de erros com 'falha de JS na pagina' (centenas por dia escondiam os avisos que importam). 30/09/2026.",
+    "publicada_em": "2026-09-30",
     "requer": [
      "selenium",
      "requests",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "f54829247ee04be01c8df381b0b04d1b4c96abeb9c9369e926036862bc3d7ae9",
-    "tamanho": 174884,
-    "versao": "1.0.37"
+    "sha256": "fa4450ae5f5bb94363c7bb84cb3e61204907e944af042b2457d5fb5de90e97b7",
+    "tamanho": 174888,
+    "versao": "1.0.38"
    }
   },
   "instagram_uploader": {
@@ -145,5 +145,5 @@
    }
   }
  },
- "serie": 67
+ "serie": 68
 }
