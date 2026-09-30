@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-30 09:15:05",
+ "gerado_em": "2026-09-30 09:25:56",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -130,20 +130,20 @@
   },
   "youtube_uploader": {
    "1": {
-    "arquivo": "youtube_uploader/1.0.10.pack",
-    "conteudo": "63400749b0ea2c4ea37e34a7b653fae00faad7140377c96d07f0c81ea146848c",
-    "notas": "Canal de marca: o id da URL batia mas o Studio atuava como o canal PRINCIPAL e o video subia la'. Agora confere o nome do menu lateral e troca de canal antes de enviar; sem conseguir trocar, nao envia. Conserta tambem a 1.0.9 (faltava nome_no_menu_lateral). 30/09/2026.",
+    "arquivo": "youtube_uploader/1.0.11.pack",
+    "conteudo": "f4963bc220df40915c7dd09717f64970ac83813aaf90bf44f76998edc52db9f6",
+    "notas": "1.0.11: tela nova de 'Confirme sua identidade' (trust-tiers) reconhecida; texto escondido nao conta como verificacao. 30/09/2026.",
     "publicada_em": "2026-09-30",
     "requer": [
      "selenium",
      "requests"
     ],
     "revogadas": [],
-    "sha256": "0c5167c0a99fceb13eeae24c9382ba8498d9721838fb95fd780c5ece5fd3e185",
-    "tamanho": 110148,
-    "versao": "1.0.10"
+    "sha256": "8ce90d08df55ff2339ef7917ea6c6f5ea898f839fb0e78e0343d5632621cf007",
+    "tamanho": 110302,
+    "versao": "1.0.11"
    }
   }
  },
- "serie": 71
+ "serie": 72
 }
