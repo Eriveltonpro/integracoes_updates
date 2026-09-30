@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-30 08:56:39",
+ "gerado_em": "2026-09-30 09:15:05",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -130,20 +130,20 @@
   },
   "youtube_uploader": {
    "1": {
-    "arquivo": "youtube_uploader/1.0.8.pack",
-    "conteudo": "d2f401441c4cb70fe34e183ee2770028f5bbf5f1c14c434543d857ad911be94e",
-    "notas": "1.0.8 (29/09/2026): consertos do Viral Studio Pro AI no motor central: envio grande nao morre no relogio de 1h (desiste so parado 15 min) e nao agenda arquivo incompleto; confere o canal antes de anexar; prova de teclado falha antes de anexar; link do video nao pega video antigo; deteccao de canais le menu + pagina Todos os canais + lista JSON de contas (conta com 100+ canais, e-mail nao vira @handle); sessao dona do canal (authuser) antes do switcher; espera o dono concluir verificacao de identidade.",
-    "publicada_em": "2026-09-29",
+    "arquivo": "youtube_uploader/1.0.10.pack",
+    "conteudo": "63400749b0ea2c4ea37e34a7b653fae00faad7140377c96d07f0c81ea146848c",
+    "notas": "Canal de marca: o id da URL batia mas o Studio atuava como o canal PRINCIPAL e o video subia la'. Agora confere o nome do menu lateral e troca de canal antes de enviar; sem conseguir trocar, nao envia. Conserta tambem a 1.0.9 (faltava nome_no_menu_lateral). 30/09/2026.",
+    "publicada_em": "2026-09-30",
     "requer": [
      "selenium",
      "requests"
     ],
     "revogadas": [],
-    "sha256": "10041af8755feb32e77bffd2b975ff740fa6204b11fbb782db88ca216bee2729",
-    "tamanho": 100528,
-    "versao": "1.0.8"
+    "sha256": "0c5167c0a99fceb13eeae24c9382ba8498d9721838fb95fd780c5ece5fd3e185",
+    "tamanho": 110148,
+    "versao": "1.0.10"
    }
   }
  },
- "serie": 69
+ "serie": 71
 }
