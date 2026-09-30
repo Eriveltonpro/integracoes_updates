@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-30 08:40:31",
+ "gerado_em": "2026-09-30 08:56:39",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,9 +64,9 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.38.pack",
-    "conteudo": "d37a6385d9b7ceb93410e174332fcea60bd92ff7f48af6c1a4b9d31dc1e6d41a",
-    "notas": "Janela ja fechada nao enche mais o relatorio de erros com 'falha de JS na pagina' (centenas por dia escondiam os avisos que importam). 30/09/2026.",
+    "arquivo": "flow/1.0.39.pack",
+    "conteudo": "590a5c91f9579ba92016048bbc1ea909bc38f91ab6165308f26ad07d35062600",
+    "notas": "Foto de referencia (manter o mesmo visual) nao volta mais como se fosse a cena gerada: o pedido com foto devolvia a propria foto e todas as cenas saiam iguais. 30/09/2026.",
     "publicada_em": "2026-09-30",
     "requer": [
      "selenium",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "fa4450ae5f5bb94363c7bb84cb3e61204907e944af042b2457d5fb5de90e97b7",
-    "tamanho": 174888,
-    "versao": "1.0.38"
+    "sha256": "0908c957ab4a1dfc612889f9b649907dead0ad14f5d839cb28ccf9b30724692c",
+    "tamanho": 175009,
+    "versao": "1.0.39"
    }
   },
   "instagram_uploader": {
@@ -145,5 +145,5 @@
    }
   }
  },
- "serie": 68
+ "serie": 69
 }
