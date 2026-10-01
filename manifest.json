@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-30 17:11:19",
+ "gerado_em": "2026-09-30 21:39:20",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -33,18 +33,18 @@
   },
   "chatgpt_imagens": {
    "1": {
-    "arquivo": "chatgpt_imagens/1.1.0.pack",
-    "conteudo": "52b313ddc71b35d1a010cc6c210fc31653aa78b9adb4a38000a95afa5a32bf23",
-    "notas": "verificacao \"confirme que voce e humano\" (Cloudflare) reconhecida: o kit avisa a tela, traz a janela pra frente 1x e espera o clique do cliente em vez de queimar a fila; esperar_login so diz OK quando da pra digitar; abrir() nao rouba mais o foco",
-    "publicada_em": "2026-09-25",
+    "arquivo": "chatgpt_imagens/1.1.1.pack",
+    "conteudo": "577b188b8a0272adaed58b9810128b9207da034addb9d458cb4754d0f0dee9e4",
+    "notas": "Layout de 30/09/2026: a conversa nao marca turno; o card generated-image-gallery conta como resposta. Capa pronta era ignorada e a fila esperava 4x150 s.",
+    "publicada_em": "2026-09-30",
     "requer": [
      "selenium",
      "PIL"
     ],
     "revogadas": [],
-    "sha256": "baa7378f4eca78c706ecfe522d2bc28f2664d4d322f4bf7744c7619ee64e7c2d",
-    "tamanho": 22749,
-    "versao": "1.1.0"
+    "sha256": "b2556521dcdeee0d8ca7efe6aa41ffc83621a95f1700097d0ee0ab5c12ac9e63",
+    "tamanho": 23072,
+    "versao": "1.1.1"
    }
   },
   "facebook_uploader": {
@@ -160,5 +160,5 @@
    }
   }
  },
- "serie": 77
+ "serie": 78
 }
