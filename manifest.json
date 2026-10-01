@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-01 12:09:47",
+ "gerado_em": "2026-10-01 12:39:50",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -80,6 +80,38 @@
     "versao": "1.0.39"
    }
   },
+  "gemini_imagens": {
+   "1": {
+    "arquivo": "gemini_imagens/1.0.1.pack",
+    "conteudo": "491cb6788a981ba5c4052d35866858cf2033b4705ea85877dd0aa9d94d3cddbb",
+    "notas": "Entrada de conta presa (01/10/2026): clicar em Entrar/Adicionar dizia 'Ja existe uma entrada em andamento' sem janela nenhuma na tela. Agora a trava sem janela viva recomeca sozinha, a janela viva vem pra frente, Chrome que sobe depois de a entrada ser recomecada e' fechado, e cada passo da abertura vai pro log.",
+    "publicada_em": "2026-10-01",
+    "requer": [
+     "websocket",
+     "psutil"
+    ],
+    "revogadas": [],
+    "sha256": "9eb3d1728ef6a38811b5dcdb436bde23733b2d640c500acfba0cae557aca7e0b",
+    "tamanho": 37858,
+    "versao": "1.0.1"
+   }
+  },
+  "grok": {
+   "1": {
+    "arquivo": "grok/1.0.1.pack",
+    "conteudo": "8ba48c0629b02af36f8f979beb37f0e8822fa87ffea53a78b3b0f599bc879985",
+    "notas": "Entrada de conta presa (01/10/2026): clicar em Entrar/Adicionar dizia 'Ja existe uma entrada em andamento' sem janela nenhuma na tela. Agora a trava sem janela viva recomeca sozinha, a janela viva vem pra frente, Chrome que sobe depois de a entrada ser recomecada e' fechado, e cada passo da abertura vai pro log.",
+    "publicada_em": "2026-10-01",
+    "requer": [
+     "websocket",
+     "psutil"
+    ],
+    "revogadas": [],
+    "sha256": "f97ce24526c73e80e19acb1e2957fad907b96913f2cf39bc04c0cc4feb33d91c",
+    "tamanho": 38950,
+    "versao": "1.0.1"
+   }
+  },
   "instagram_uploader": {
    "1": {
     "arquivo": "instagram_uploader/1.0.0.pack",
@@ -112,6 +144,22 @@
     "versao": "1.0.4"
    }
   },
+  "piclumen": {
+   "1": {
+    "arquivo": "piclumen/1.0.1.pack",
+    "conteudo": "d3eddfe7b14d0488d850bc3546ded11e9618447e0b0f7cf2dbfcf8b0d335ced9",
+    "notas": "Entrada de conta presa (01/10/2026): clicar em Entrar/Adicionar dizia 'Ja existe uma entrada em andamento' sem janela nenhuma na tela. Agora a trava sem janela viva recomeca sozinha, a janela viva vem pra frente, Chrome que sobe depois de a entrada ser recomecada e' fechado, e cada passo da abertura vai pro log.",
+    "publicada_em": "2026-10-01",
+    "requer": [
+     "websocket",
+     "psutil"
+    ],
+    "revogadas": [],
+    "sha256": "3ea46a7b6d25c12aad051dfb8992b29041a6ed15e50d88f3d90438a96c6f2ca8",
+    "tamanho": 35698,
+    "versao": "1.0.1"
+   }
+  },
   "treblo": {
    "1": {
     "arquivo": "treblo/1.0.0.pack",
@@ -125,6 +173,22 @@
     "sha256": "c38660871d02ac0c82320e80f6361d24a7461b095bde771bf73e377a482272c4",
     "tamanho": 21519,
     "versao": "1.0.0"
+   }
+  },
+  "vibes": {
+   "1": {
+    "arquivo": "vibes/1.0.1.pack",
+    "conteudo": "9ce68dcbc8eb6c0bad4f89800f130d8abb4e8109f1808a959e7320953607b1a3",
+    "notas": "Entrada de conta presa (01/10/2026): clicar em Entrar/Adicionar dizia 'Ja existe uma entrada em andamento' sem janela nenhuma na tela. Agora a trava sem janela viva recomeca sozinha, a janela viva vem pra frente, Chrome que sobe depois de a entrada ser recomecada e' fechado, e cada passo da abertura vai pro log.",
+    "publicada_em": "2026-10-01",
+    "requer": [
+     "websocket",
+     "psutil"
+    ],
+    "revogadas": [],
+    "sha256": "815cd135d81e26ee7acec597a16e85d389a324fd468cc6f1bfe3b9c923d2f79a",
+    "tamanho": 39028,
+    "versao": "1.0.1"
    }
   },
   "vids": {
@@ -160,5 +224,5 @@
    }
   }
  },
- "serie": 81
+ "serie": 82
 }
