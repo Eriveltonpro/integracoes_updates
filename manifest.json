@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-01 12:39:50",
+ "gerado_em": "2026-10-01 12:59:06",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,10 +64,10 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.39.pack",
-    "conteudo": "590a5c91f9579ba92016048bbc1ea909bc38f91ab6165308f26ad07d35062600",
-    "notas": "Foto de referencia (manter o mesmo visual) nao volta mais como se fosse a cena gerada: o pedido com foto devolvia a propria foto e todas as cenas saiam iguais. 30/09/2026.",
-    "publicada_em": "2026-09-30",
+    "arquivo": "flow/1.0.40.pack",
+    "conteudo": "f57d3a4c923cf4c891b2c9cc2539346b339119111caa82145348e63b16afa246",
+    "notas": "",
+    "publicada_em": "2026-10-01",
     "requer": [
      "selenium",
      "requests",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "0908c957ab4a1dfc612889f9b649907dead0ad14f5d839cb28ccf9b30724692c",
-    "tamanho": 175009,
-    "versao": "1.0.39"
+    "sha256": "6beba1094c2ebd3f0865676cfb82e6c48633e4740dbe48a945444497e57e48c7",
+    "tamanho": 175098,
+    "versao": "1.0.40"
    }
   },
   "gemini_imagens": {
@@ -224,5 +224,5 @@
    }
   }
  },
- "serie": 82
+ "serie": 83
 }
