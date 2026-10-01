@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-01 09:08:08",
+ "gerado_em": "2026-10-01 10:28:48",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -145,20 +145,20 @@
   },
   "youtube_uploader": {
    "1": {
-    "arquivo": "youtube_uploader/1.0.12.pack",
-    "conteudo": "e9d6b140c9c0d28cbfc6a989fd6500699293280ae12130a7ae9706ee54f9226d",
-    "notas": "Trocar capa: o app dizia 'capa trocada' e salvava so' o titulo/descricao. O SEO preenchido antes acendia o Salvar e isso contava como capa aceita. Agora a capa vai antes do SEO, so' conta como trocada quando a imagem nova aparece na tela, e capa acima de 2 MB e' convertida (o YouTube recusava calado). 01/10/2026.",
+    "arquivo": "youtube_uploader/1.0.13.pack",
+    "conteudo": "97c29962a48d87ce80dab85ae264a2008d52398334d832d4bb0c14e4abf7134b",
+    "notas": "Canal sem capa personalizada liberada (o YouTube exige verificar o canal): o app le isso na pagina do Studio, avisa com o caminho (youtube.com/verify) e nao tenta mandar a capa nem regravar o titulo. 01/10/2026.",
     "publicada_em": "2026-10-01",
     "requer": [
      "selenium",
      "requests"
     ],
     "revogadas": [],
-    "sha256": "1c12c4ab65ccf94efd43602abba8e9b328ae5aa2cc8dfc4d38e9d1af6923c824",
-    "tamanho": 110613,
-    "versao": "1.0.12"
+    "sha256": "87b2e82a66b0d0b2b586fb681819beb8b3a6c5cde42729cdb6f3b503d5427568",
+    "tamanho": 111484,
+    "versao": "1.0.13"
    }
   }
  },
- "serie": 79
+ "serie": 80
 }
