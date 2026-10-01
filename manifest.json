@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-30 21:39:20",
+ "gerado_em": "2026-10-01 09:08:08",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -145,20 +145,20 @@
   },
   "youtube_uploader": {
    "1": {
-    "arquivo": "youtube_uploader/1.0.11.pack",
-    "conteudo": "f4963bc220df40915c7dd09717f64970ac83813aaf90bf44f76998edc52db9f6",
-    "notas": "1.0.11: tela nova de 'Confirme sua identidade' (trust-tiers) reconhecida; texto escondido nao conta como verificacao. 30/09/2026.",
-    "publicada_em": "2026-09-30",
+    "arquivo": "youtube_uploader/1.0.12.pack",
+    "conteudo": "e9d6b140c9c0d28cbfc6a989fd6500699293280ae12130a7ae9706ee54f9226d",
+    "notas": "Trocar capa: o app dizia 'capa trocada' e salvava so' o titulo/descricao. O SEO preenchido antes acendia o Salvar e isso contava como capa aceita. Agora a capa vai antes do SEO, so' conta como trocada quando a imagem nova aparece na tela, e capa acima de 2 MB e' convertida (o YouTube recusava calado). 01/10/2026.",
+    "publicada_em": "2026-10-01",
     "requer": [
      "selenium",
      "requests"
     ],
     "revogadas": [],
-    "sha256": "8ce90d08df55ff2339ef7917ea6c6f5ea898f839fb0e78e0343d5632621cf007",
-    "tamanho": 110302,
-    "versao": "1.0.11"
+    "sha256": "1c12c4ab65ccf94efd43602abba8e9b328ae5aa2cc8dfc4d38e9d1af6923c824",
+    "tamanho": 110613,
+    "versao": "1.0.12"
    }
   }
  },
- "serie": 78
+ "serie": 79
 }
