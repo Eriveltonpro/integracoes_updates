@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-01 12:59:06",
+ "gerado_em": "2026-10-01 19:23:03",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -146,18 +146,18 @@
   },
   "piclumen": {
    "1": {
-    "arquivo": "piclumen/1.0.1.pack",
-    "conteudo": "d3eddfe7b14d0488d850bc3546ded11e9618447e0b0f7cf2dbfcf8b0d335ced9",
-    "notas": "Entrada de conta presa (01/10/2026): clicar em Entrar/Adicionar dizia 'Ja existe uma entrada em andamento' sem janela nenhuma na tela. Agora a trava sem janela viva recomeca sozinha, a janela viva vem pra frente, Chrome que sobe depois de a entrada ser recomecada e' fechado, e cada passo da abertura vai pro log.",
+    "arquivo": "piclumen/1.0.2.pack",
+    "conteudo": "f1ba83fc8ca37bf0449af9b40485bc1ade8a5925d6d3706220d8f64935749453",
+    "notas": "",
     "publicada_em": "2026-10-01",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "3ea46a7b6d25c12aad051dfb8992b29041a6ed15e50d88f3d90438a96c6f2ca8",
-    "tamanho": 35698,
-    "versao": "1.0.1"
+    "sha256": "3bfd6b61308877a5956bbc3fb761890d2eb418478f77ad1d240e449f04948ab9",
+    "tamanho": 35709,
+    "versao": "1.0.2"
    }
   },
   "treblo": {
@@ -224,5 +224,5 @@
    }
   }
  },
- "serie": 83
+ "serie": 84
 }
