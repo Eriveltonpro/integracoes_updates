@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-02 11:12:29",
+ "gerado_em": "2026-10-02 15:40:02",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -193,18 +193,18 @@
   },
   "vids": {
    "1": {
-    "arquivo": "vids/1.0.8.pack",
-    "conteudo": "c239b176921803a91b9d86c7ea411f2a38d8d30a2b366c8a69ca29d6e26817b3",
-    "notas": "",
-    "publicada_em": "2026-10-01",
+    "arquivo": "vids/1.0.9.pack",
+    "conteudo": "0a3b7f8a023772b7453d051a13e88ff8fd4bf426f9e9a5b1b185e362cfb79c9f",
+    "notas": "rodizio: mesmo pedido passa por todas as contas (antes so 4); conta que descansou mais vai primeiro; Vids lembra conta sem cota",
+    "publicada_em": "2026-10-02",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "8cba883a96aa88f3db47ccf6fe5f804e535fb29f954439d46ce2e402239f3d72",
-    "tamanho": 44532,
-    "versao": "1.0.8"
+    "sha256": "035f686d708492e1cc6985ca27f11e67ede49172c753389fb1aec2eb4bf548ea",
+    "tamanho": 44802,
+    "versao": "1.0.9"
    }
   },
   "youtube_uploader": {
@@ -224,5 +224,5 @@
    }
   }
  },
- "serie": 85
+ "serie": 86
 }
