@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-02 15:40:33",
+ "gerado_em": "2026-10-02 15:40:43",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -146,18 +146,18 @@
   },
   "piclumen": {
    "1": {
-    "arquivo": "piclumen/1.0.2.pack",
-    "conteudo": "f1ba83fc8ca37bf0449af9b40485bc1ade8a5925d6d3706220d8f64935749453",
-    "notas": "",
-    "publicada_em": "2026-10-01",
+    "arquivo": "piclumen/1.0.3.pack",
+    "conteudo": "b7805c9e0848634bb24d401a8e6dbe43672c32887744fc18056b22047258fae0",
+    "notas": "rodizio: mesmo pedido passa por todas as contas (antes so 4); conta que descansou mais vai primeiro; Vids lembra conta sem cota",
+    "publicada_em": "2026-10-02",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "3bfd6b61308877a5956bbc3fb761890d2eb418478f77ad1d240e449f04948ab9",
-    "tamanho": 35709,
-    "versao": "1.0.2"
+    "sha256": "2daedfdf54bc574e55b5b68c4a18db88ad471a50e29d6316fc8474b818f444b0",
+    "tamanho": 35765,
+    "versao": "1.0.3"
    }
   },
   "treblo": {
@@ -224,5 +224,5 @@
    }
   }
  },
- "serie": 89
+ "serie": 90
 }
