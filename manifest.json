@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-02 16:46:43",
+ "gerado_em": "2026-10-02 17:11:30",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,9 +64,9 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.42.pack",
-    "conteudo": "44caa5a4598d0c9142a26db88c1602b6a0b3249034be81747ca0d30fbf4f51bc",
-    "notas": "Imagem pronta nao fica mais presa em 'gerando' (o Flow mudou a lista do projeto em 02/10/2026; a cena caia em 'nao ficou pronta a tempo' depois de 10 min); clique de enviar so com o botao parado e descoberto; volta da visao de item para a grade; largura de computador em janela estreita; avisos passageiros do Flow lidos; falha reconhecida em 8 idiomas; foto de referencia grande reduzida. 02/10/2026.",
+    "arquivo": "flow/1.0.43.pack",
+    "conteudo": "7eeb5df5f1744940720753b2553e8353d5649fb016b1bfb0ea8e6a4bec7052d3",
+    "notas": "1.0.43: 2-3 pedidos no ar por conta (trava so na escrita), recibo enviando/aceito + achar_enviado, modo Frames (imagem inicial/final), resgatar de imagem; chips so dentro da caixa do pedido (lista dos lotes colocava foto no pedido), unusual activity no agente = travada (nao chama o cliente). 02/10/2026.",
     "publicada_em": "2026-10-02",
     "requer": [
      "selenium",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "4da75a6ce717839cd66205fcedfae1dee7c7c175b084a1b29ea08b0a7dbcad17",
-    "tamanho": 177262,
-    "versao": "1.0.42"
+    "sha256": "208e83ac88da647ee0f822768a8cccadb9b755f9b568c26f3da07e76a7b9505e",
+    "tamanho": 180632,
+    "versao": "1.0.43"
    }
   },
   "gemini_imagens": {
@@ -224,5 +224,5 @@
    }
   }
  },
- "serie": 94
+ "serie": 95
 }
