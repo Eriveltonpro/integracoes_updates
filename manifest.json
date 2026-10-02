@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-02 16:43:38",
+ "gerado_em": "2026-10-02 16:46:43",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -193,18 +193,18 @@
   },
   "vids": {
    "1": {
-    "arquivo": "vids/1.0.10.pack",
-    "conteudo": "4d59a8c94638e60c25a0767982ac9ffcf2b58af565e2a9f15de049a25a934278",
-    "notas": "Musica (Lyria, 30 s ou inteira) e narracao sintetica (37 vozes) em MP3 ou WAV: gerar_musica, gerar_narracao, vozes(); audio vem pela rede, sem linha do tempo; conta sem o trilho Musica e pulada e lembrada por 24 h. 02/10/2026.",
+    "arquivo": "vids/1.0.11.pack",
+    "conteudo": "358d1861b4cc89275122f277a82385f09de68ee9abab5ee36c78f2d4ac98e053",
+    "notas": "Musica/narracao: conta que tem musica mas esta gerando conta como ocupada (antes caia em 'sem cota'); todas sem o recurso -> mensagem clara. 02/10/2026.",
     "publicada_em": "2026-10-02",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "2e959632d0cc8343b44919a4588744edc8c5e31e123f3d6e0ad26a29d509e006",
-    "tamanho": 51268,
-    "versao": "1.0.10"
+    "sha256": "b64e785cba85c4442294facdcaa9042a5a8f2fe1abaee55cd172dd05277d4e68",
+    "tamanho": 51312,
+    "versao": "1.0.11"
    }
   },
   "youtube_uploader": {
@@ -224,5 +224,5 @@
    }
   }
  },
- "serie": 93
+ "serie": 94
 }
