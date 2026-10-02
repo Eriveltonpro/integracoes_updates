@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-02 15:40:02",
+ "gerado_em": "2026-10-02 15:40:13",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -177,18 +177,18 @@
   },
   "vibes": {
    "1": {
-    "arquivo": "vibes/1.0.1.pack",
-    "conteudo": "9ce68dcbc8eb6c0bad4f89800f130d8abb4e8109f1808a959e7320953607b1a3",
-    "notas": "Entrada de conta presa (01/10/2026): clicar em Entrar/Adicionar dizia 'Ja existe uma entrada em andamento' sem janela nenhuma na tela. Agora a trava sem janela viva recomeca sozinha, a janela viva vem pra frente, Chrome que sobe depois de a entrada ser recomecada e' fechado, e cada passo da abertura vai pro log.",
-    "publicada_em": "2026-10-01",
+    "arquivo": "vibes/1.0.2.pack",
+    "conteudo": "13c51607fa34aa57afafd8e448c486fa6864b08e315a5ba2f14edd6a91313d93",
+    "notas": "rodizio: mesmo pedido passa por todas as contas (antes so 4); conta que descansou mais vai primeiro; Vids lembra conta sem cota",
+    "publicada_em": "2026-10-02",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "815cd135d81e26ee7acec597a16e85d389a324fd468cc6f1bfe3b9c923d2f79a",
-    "tamanho": 39028,
-    "versao": "1.0.1"
+    "sha256": "aa878554dcb92779d5fd574ecf8dfb90f4d97e5ea679173bf9411a40b97dfdc4",
+    "tamanho": 39084,
+    "versao": "1.0.2"
    }
   },
   "vids": {
@@ -224,5 +224,5 @@
    }
   }
  },
- "serie": 86
+ "serie": 87
 }
