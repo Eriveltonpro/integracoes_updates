@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-02 15:40:43",
+ "gerado_em": "2026-10-02 16:18:47",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,9 +64,9 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.41.pack",
-    "conteudo": "420949f6c113e1cac9f34278bf52caa25a6d44a016d21142193e23dd4773a2f0",
-    "notas": "",
+    "arquivo": "flow/1.0.42.pack",
+    "conteudo": "44caa5a4598d0c9142a26db88c1602b6a0b3249034be81747ca0d30fbf4f51bc",
+    "notas": "Imagem pronta nao fica mais presa em 'gerando' (o Flow mudou a lista do projeto em 02/10/2026; a cena caia em 'nao ficou pronta a tempo' depois de 10 min); clique de enviar so com o botao parado e descoberto; volta da visao de item para a grade; largura de computador em janela estreita; avisos passageiros do Flow lidos; falha reconhecida em 8 idiomas; foto de referencia grande reduzida. 02/10/2026.",
     "publicada_em": "2026-10-02",
     "requer": [
      "selenium",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "fea57df73be972cbdba7a1451e2c81b47ab3bfc5590f74693000cfe159dfbb49",
-    "tamanho": 175175,
-    "versao": "1.0.41"
+    "sha256": "4da75a6ce717839cd66205fcedfae1dee7c7c175b084a1b29ea08b0a7dbcad17",
+    "tamanho": 177262,
+    "versao": "1.0.42"
    }
   },
   "gemini_imagens": {
@@ -224,5 +224,5 @@
    }
   }
  },
- "serie": 90
+ "serie": 91
 }
