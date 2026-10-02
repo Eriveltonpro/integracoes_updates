@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-02 16:18:47",
+ "gerado_em": "2026-10-02 16:28:06",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -162,17 +162,17 @@
   },
   "treblo": {
    "1": {
-    "arquivo": "treblo/1.0.0.pack",
-    "conteudo": "40c731af052d3af50cf733982f8babdded09a27396cb2dc012d1eeabd784398b",
-    "notas": "Versao inicial, espelho do motor do Treblo Automations 1.0.1 (30/09/2026).",
-    "publicada_em": "2026-09-30",
+    "arquivo": "treblo/1.0.1.pack",
+    "conteudo": "c31f0649f444dbd38d1e1b2aac1206111c47d3874e54872c93226b331f8166d7",
+    "notas": "",
+    "publicada_em": "2026-10-02",
     "requer": [
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "c38660871d02ac0c82320e80f6361d24a7461b095bde771bf73e377a482272c4",
-    "tamanho": 21519,
-    "versao": "1.0.0"
+    "sha256": "62751e59cf97c80a0fa5b4686889c8242ba741a3526d28f2a2f57ed1c69a69aa",
+    "tamanho": 21648,
+    "versao": "1.0.1"
    }
   },
   "vibes": {
@@ -224,5 +224,5 @@
    }
   }
  },
- "serie": 91
+ "serie": 92
 }
