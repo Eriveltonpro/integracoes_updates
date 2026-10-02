@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-02 17:11:30",
+ "gerado_em": "2026-10-02 18:59:02",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,9 +64,9 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.43.pack",
-    "conteudo": "7eeb5df5f1744940720753b2553e8353d5649fb016b1bfb0ea8e6a4bec7052d3",
-    "notas": "1.0.43: 2-3 pedidos no ar por conta (trava so na escrita), recibo enviando/aceito + achar_enviado, modo Frames (imagem inicial/final), resgatar de imagem; chips so dentro da caixa do pedido (lista dos lotes colocava foto no pedido), unusual activity no agente = travada (nao chama o cliente). 02/10/2026.",
+    "arquivo": "flow/1.0.44.pack",
+    "conteudo": "adf1b59cb0ee907b70ae6835281202160d6fc1fe92d8f5d717efb0472360176a",
+    "notas": "lipsync Omni 1.1 Flash: separacao de voz, trechos, montagem; aviso de direitos de uso",
     "publicada_em": "2026-10-02",
     "requer": [
      "selenium",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "208e83ac88da647ee0f822768a8cccadb9b755f9b568c26f3da07e76a7b9505e",
-    "tamanho": 180632,
-    "versao": "1.0.43"
+    "sha256": "ac54c225bc163efe65ffa548549ac779177ab999d0f0ba09d697980106e925c6",
+    "tamanho": 188365,
+    "versao": "1.0.44"
    }
   },
   "gemini_imagens": {
@@ -224,5 +224,5 @@
    }
   }
  },
- "serie": 95
+ "serie": 96
 }
