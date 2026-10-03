@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-03 10:17:57",
+ "gerado_em": "2026-10-03 11:57:52",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,10 +64,10 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.44.pack",
-    "conteudo": "adf1b59cb0ee907b70ae6835281202160d6fc1fe92d8f5d717efb0472360176a",
-    "notas": "lipsync Omni 1.1 Flash: separacao de voz, trechos, montagem; aviso de direitos de uso",
-    "publicada_em": "2026-10-02",
+    "arquivo": "flow/1.0.45.pack",
+    "conteudo": "20a8cde357fbc9d3f14320cc5c26002eb9e202100867c67dd9989be92be43641",
+    "notas": "direitos de uso em fila (uma conta por vez, janela na frente uma vez, faixa com quantas faltam); 720p ausente nao derruba o item",
+    "publicada_em": "2026-10-03",
     "requer": [
      "selenium",
      "requests",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "ac54c225bc163efe65ffa548549ac779177ab999d0f0ba09d697980106e925c6",
-    "tamanho": 188365,
-    "versao": "1.0.44"
+    "sha256": "ec953215a3e89bac1ab76d90b84459e8bd6cef97d15741a4683726a18539052f",
+    "tamanho": 188765,
+    "versao": "1.0.45"
    }
   },
   "gemini_imagens": {
@@ -224,5 +224,5 @@
    }
   }
  },
- "serie": 97
+ "serie": 98
 }
