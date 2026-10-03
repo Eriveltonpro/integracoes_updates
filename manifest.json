@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-03 12:24:35",
+ "gerado_em": "2026-10-03 14:27:38",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -33,18 +33,18 @@
   },
   "chatgpt_imagens": {
    "1": {
-    "arquivo": "chatgpt_imagens/1.1.1.pack",
-    "conteudo": "577b188b8a0272adaed58b9810128b9207da034addb9d458cb4754d0f0dee9e4",
-    "notas": "Layout de 30/09/2026: a conversa nao marca turno; o card generated-image-gallery conta como resposta. Capa pronta era ignorada e a fila esperava 4x150 s.",
-    "publicada_em": "2026-09-30",
+    "arquivo": "chatgpt_imagens/1.2.0.pack",
+    "conteudo": "fcce37042833ea18e21a83fbd6701d6bac6473db38183b9e5f81ebca3a7caea8",
+    "notas": "Capa nao entra mais em laco: o rascunho some da tela antes da imagem final; o motor espera ate 75 s (recarrega a mesma conversa 1x) em vez de desistir em 10 s e reenviar o pedido.",
+    "publicada_em": "2026-10-03",
     "requer": [
      "selenium",
      "PIL"
     ],
     "revogadas": [],
-    "sha256": "b2556521dcdeee0d8ca7efe6aa41ffc83621a95f1700097d0ee0ab5c12ac9e63",
-    "tamanho": 23072,
-    "versao": "1.1.1"
+    "sha256": "fde2c2e028051f062df696282a14224292a751e0cfd3a001dd63ed4df3848bf5",
+    "tamanho": 24394,
+    "versao": "1.2.0"
    }
   },
   "facebook_uploader": {
@@ -224,5 +224,5 @@
    }
   }
  },
- "serie": 99
+ "serie": 100
 }
