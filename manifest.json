@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-03 14:29:31",
+ "gerado_em": "2026-10-03 14:58:57",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -209,20 +209,20 @@
   },
   "youtube_uploader": {
    "1": {
-    "arquivo": "youtube_uploader/1.0.13.pack",
-    "conteudo": "97c29962a48d87ce80dab85ae264a2008d52398334d832d4bb0c14e4abf7134b",
-    "notas": "Canal sem capa personalizada liberada (o YouTube exige verificar o canal): o app le isso na pagina do Studio, avisa com o caminho (youtube.com/verify) e nao tenta mandar a capa nem regravar o titulo. 01/10/2026.",
-    "publicada_em": "2026-10-01",
+    "arquivo": "youtube_uploader/1.0.14.pack",
+    "conteudo": "8337e3cf00c0a36d41151b7817cb8a7eacbe86bb2ae396744bc534c187b7677f",
+    "notas": "Tags: limpa as que ja estavam no campo (padrao do canal) pelo botao remover todas / X de cada tag - Backspace era ignorado e 44 tags somavam por cima; confere o total que ficou e tira do fim ate caber em 500 (campo vermelho travava o Avancar e o envio ficava preso). 03/10/2026.",
+    "publicada_em": "2026-10-03",
     "requer": [
      "selenium",
      "requests"
     ],
     "revogadas": [],
-    "sha256": "87b2e82a66b0d0b2b586fb681819beb8b3a6c5cde42729cdb6f3b503d5427568",
-    "tamanho": 111484,
-    "versao": "1.0.13"
+    "sha256": "f34d2d1ffc1f9c382ce24b2be859228137bc96850b61dd54f5361516524e0117",
+    "tamanho": 112322,
+    "versao": "1.0.14"
    }
   }
  },
- "serie": 101
+ "serie": 102
 }
