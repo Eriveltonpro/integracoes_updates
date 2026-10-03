@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-02 18:59:02",
+ "gerado_em": "2026-10-03 10:17:57",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -193,18 +193,18 @@
   },
   "vids": {
    "1": {
-    "arquivo": "vids/1.0.11.pack",
-    "conteudo": "358d1861b4cc89275122f277a82385f09de68ee9abab5ee36c78f2d4ac98e053",
-    "notas": "Musica/narracao: conta que tem musica mas esta gerando conta como ocupada (antes caia em 'sem cota'); todas sem o recurso -> mensagem clara. 02/10/2026.",
-    "publicada_em": "2026-10-02",
+    "arquivo": "vids/1.0.12.pack",
+    "conteudo": "7c13002f0b186551c0351e2ab4fca6c7e4fd267643e145c092472ab4894797ad",
+    "notas": "Janela parada fecha sozinha (2 min) e conferir fecha o que abriu; conta sem Video com IA vira estado proprio (sem_ia) fora do rodizio; saldo negativo vira esgotada; mensagens de cota com a data de renovar",
+    "publicada_em": "2026-10-03",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "b64e785cba85c4442294facdcaa9042a5a8f2fe1abaee55cd172dd05277d4e68",
-    "tamanho": 51312,
-    "versao": "1.0.11"
+    "sha256": "be0b302f0ea537bccaea007bc87cde4cb32479dd855cf744604d25b2afcd5ca1",
+    "tamanho": 52333,
+    "versao": "1.0.12"
    }
   },
   "youtube_uploader": {
@@ -224,5 +224,5 @@
    }
   }
  },
- "serie": 96
+ "serie": 97
 }
