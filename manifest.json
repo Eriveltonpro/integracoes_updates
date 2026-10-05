@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-05 09:04:39",
+ "gerado_em": "2026-10-05 09:06:05",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -33,18 +33,18 @@
   },
   "chatgpt_imagens": {
    "1": {
-    "arquivo": "chatgpt_imagens/1.2.1.pack",
-    "conteudo": "fcce37042833ea18e21a83fbd6701d6bac6473db38183b9e5f81ebca3a7caea8",
-    "notas": "Capa nao entra mais em laco: o rascunho some da tela antes da imagem final; o motor espera ate 75 s (recarrega a mesma conversa 1x) em vez de desistir em 10 s e reenviar o pedido.",
-    "publicada_em": "2026-10-03",
+    "arquivo": "chatgpt_imagens/1.3.0.pack",
+    "conteudo": "210b7c846c9c6e2f78ab01de9c0e65211729c71cf86162d9eb4ef23131194819",
+    "notas": "",
+    "publicada_em": "2026-10-05",
     "requer": [
      "selenium",
      "PIL"
     ],
     "revogadas": [],
-    "sha256": "f4fab32ef0f8009441074209755c80df2b0c58f8a0ef91f045d1b3b20868cd1f",
-    "tamanho": 24384,
-    "versao": "1.2.1"
+    "sha256": "4ba777ffa0a6b2612d0e9166d1e0c53c33c26f4913e0922aae2aa5eb31732358",
+    "tamanho": 30383,
+    "versao": "1.3.0"
    }
   },
   "facebook_uploader": {
@@ -224,5 +224,5 @@
    }
   }
  },
- "serie": 105
+ "serie": 106
 }
