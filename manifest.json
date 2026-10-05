@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-05 09:06:05",
+ "gerado_em": "2026-10-05 09:34:47",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -129,19 +129,19 @@
   },
   "meta_ai": {
    "1": {
-    "arquivo": "meta_ai/1.0.4.pack",
-    "conteudo": "cbea82cfa5f5279d025ea68c5f28fb0200ad9e09036a0b5e68d0d83e00084e0c",
-    "notas": "consertos do Viral Studio fundidos: imagem vertical (image_aspect), destrava dialogo morto do upload + grade no painel, tela de entrar sem clicar continuar generico, espera estica enquanto o Meta produz",
-    "publicada_em": "2026-09-29",
+    "arquivo": "meta_ai/1.0.5.pack",
+    "conteudo": "31384c84a14758098b20044f9d63751beca1779bf582d5c3de1fef29b79137aa",
+    "notas": "meta_ai 1.0.5: quadro inicial do vibes vira FOTO (meta.ai negava 'video generation isn't available' e o motor insistia pedindo video: 35 min sem quadro); insistencia pede imagem (force_img_text); sem quadro + so 16:9 nao abre o vibes (cada tentativa deixava projeto 'Sem titulo' vazio na conta); retentativa do composer reaproveita o projeto recem-criado. 05/10/2026.",
+    "publicada_em": "2026-10-05",
     "requer": [
      "selenium",
      "requests",
      "PIL"
     ],
     "revogadas": [],
-    "sha256": "64729383ba157edb5749e976b758a7891e35f2f7b53adee8c665ed5b9db50bf7",
-    "tamanho": 73624,
-    "versao": "1.0.4"
+    "sha256": "a3404eead939b359a6ff14aa353e34f70f581b8c5c59441733a4eed87d47197b",
+    "tamanho": 74303,
+    "versao": "1.0.5"
    }
   },
   "piclumen": {
@@ -224,5 +224,5 @@
    }
   }
  },
- "serie": 106
+ "serie": 107
 }
