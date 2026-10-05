@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-03 20:45:39",
+ "gerado_em": "2026-10-05 08:55:02",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -209,20 +209,20 @@
   },
   "youtube_uploader": {
    "1": {
-    "arquivo": "youtube_uploader/1.0.14.pack",
-    "conteudo": "8337e3cf00c0a36d41151b7817cb8a7eacbe86bb2ae396744bc534c187b7677f",
-    "notas": "Tags: limpa as que ja estavam no campo (padrao do canal) pelo botao remover todas / X de cada tag - Backspace era ignorado e 44 tags somavam por cima; confere o total que ficou e tira do fim ate caber em 500 (campo vermelho travava o Avancar e o envio ficava preso). 03/10/2026.",
-    "publicada_em": "2026-10-03",
+    "arquivo": "youtube_uploader/1.0.15.pack",
+    "conteudo": "765e016a954ab57ecf36d4a3581557df8ceb3f1ecd8b2017f7a4097ba029c13a",
+    "notas": "Canal provado antes de subir (garantir_canal): conta com varios canais sem canal pedido recusa em vez de cair no canal padrao; aceita canal_nome; e-mail da conta de marca pelo menu de contas. 05/10/2026.",
+    "publicada_em": "2026-10-05",
     "requer": [
      "selenium",
      "requests"
     ],
     "revogadas": [],
-    "sha256": "f34d2d1ffc1f9c382ce24b2be859228137bc96850b61dd54f5361516524e0117",
-    "tamanho": 112322,
-    "versao": "1.0.14"
+    "sha256": "1f64b060a374e17ef0bcf393dee93d9a5323346f4232e8ec93edadfac063c12a",
+    "tamanho": 113940,
+    "versao": "1.0.15"
    }
   }
  },
- "serie": 103
+ "serie": 104
 }
