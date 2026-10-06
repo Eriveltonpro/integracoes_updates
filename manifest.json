@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-06 09:44:39",
+ "gerado_em": "2026-10-06 16:10:49",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -49,17 +49,17 @@
   },
   "facebook_uploader": {
    "1": {
-    "arquivo": "facebook_uploader/1.0.3.pack",
-    "conteudo": "94575ba1f36e769ef3c4c8483d87828594d365d2cd9c33c21d092aaea8d8f40e",
-    "notas": "Carrossel de fotos num post so (perfil e Pagina), vindo do Bombar no Insta.",
-    "publicada_em": "2026-09-28",
+    "arquivo": "facebook_uploader/1.0.4.pack",
+    "conteudo": "56b2170f820a7fd4383fcd430da8f8e39f864422fa88c836177f224c82e5b8ee",
+    "notas": "",
+    "publicada_em": "2026-10-06",
     "requer": [
      "selenium"
     ],
     "revogadas": [],
-    "sha256": "c257103beaeb811737834c87b753995601e8eb75e3c08034b07dc49c8171031d",
-    "tamanho": 22235,
-    "versao": "1.0.3"
+    "sha256": "56f3e0aabb98ce9b371b9bae1ac215f2f32c831b5ffb041916608947f0a3910c",
+    "tamanho": 22883,
+    "versao": "1.0.4"
    }
   },
   "flow": {
@@ -224,5 +224,5 @@
    }
   }
  },
- "serie": 109
+ "serie": 110
 }
