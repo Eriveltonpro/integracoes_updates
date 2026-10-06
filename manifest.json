@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-06 16:10:49",
+ "gerado_em": "2026-10-06 16:11:30",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -18,17 +18,17 @@
   },
   "bilibili_uploader": {
    "1": {
-    "arquivo": "bilibili_uploader/1.0.1.pack",
-    "conteudo": "5d027a95f4525341ca00a8b53943fee7b7292a18bfc417dab8c1db01f7fc4a01",
-    "notas": "Janela de agendamento do Bilibili (agora+2h ate +15 dias): publicar() recusa data fora antes de mandar o arquivo; agendar_rascunhos para na 1a data fora; novos cabe_na_janela/sobe_a_partir_de/janela_de_agendamento pra fila segurar o video.",
-    "publicada_em": "2026-09-29",
+    "arquivo": "bilibili_uploader/1.0.2.pack",
+    "conteudo": "4479550a7c56284e79a2f34ff18f4c85bbf3578f5959802d53f6e40376df6d6b",
+    "notas": "",
+    "publicada_em": "2026-10-06",
     "requer": [
      "selenium"
     ],
     "revogadas": [],
-    "sha256": "233424680a0f9bff9d827696d61329efb2289df41d8e20bb22f308ff8fec83a9",
-    "tamanho": 26482,
-    "versao": "1.0.1"
+    "sha256": "ba4d008725fab4be874b6a3913d3bd9fb92bb27adfb782786332dbbb4dc98f38",
+    "tamanho": 26663,
+    "versao": "1.0.2"
    }
   },
   "chatgpt_imagens": {
@@ -224,5 +224,5 @@
    }
   }
  },
- "serie": 110
+ "serie": 111
 }
