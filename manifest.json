@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-05 11:26:39",
+ "gerado_em": "2026-10-06 09:44:39",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -209,20 +209,20 @@
   },
   "youtube_uploader": {
    "1": {
-    "arquivo": "youtube_uploader/1.0.16.pack",
-    "conteudo": "956240c84392fe1e5d7ecdca5585507ddaddc74a1e49c5b1d6adc395671d016d",
-    "notas": "Trava de canal mora no upload (vale pra app que chama uploader.upload direto: fila, Viral Studio, Fluxo Musical): canal provado antes de abrir o envio; varios canais sem canal pedido = recusa. 05/10/2026.",
-    "publicada_em": "2026-10-05",
+    "arquivo": "youtube_uploader/1.0.17.pack",
+    "conteudo": "a88e28fe7142704261607237c4adc61697e34b52a2044a9b1a539371bc51fe29",
+    "notas": "",
+    "publicada_em": "2026-10-06",
     "requer": [
      "selenium",
      "requests"
     ],
     "revogadas": [],
-    "sha256": "369e671250f5e00c97f2af4f0f505bc2504e89a69d85d2e5cb13880e85cb63ae",
-    "tamanho": 113980,
-    "versao": "1.0.16"
+    "sha256": "3c31fc1ee9e66c9f518e8ad8f8767e53cdb335456f7f0b2a8c61e73306fb04b5",
+    "tamanho": 114060,
+    "versao": "1.0.17"
    }
   }
  },
- "serie": 108
+ "serie": 109
 }
