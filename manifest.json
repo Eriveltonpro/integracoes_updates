@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-07 13:41:49",
+ "gerado_em": "2026-10-07 13:42:03",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -82,18 +82,18 @@
   },
   "gemini_imagens": {
    "1": {
-    "arquivo": "gemini_imagens/1.0.2.pack",
-    "conteudo": "e040db4b5ada54687e431cb799c6949dbf8c4626bf51f108a3fd5771d1e4e2e8",
-    "notas": "rodizio: mesmo pedido passa por todas as contas (antes so 4); conta que descansou mais vai primeiro; Vids lembra conta sem cota",
-    "publicada_em": "2026-10-02",
+    "arquivo": "gemini_imagens/1.0.3.pack",
+    "conteudo": "4143b3bd804b27f2f1a4f4fbf8baf98d1ccd7540c1ebdbd06ba9d1bdea58cbe1",
+    "notas": "janela aberta pelo WMI nao fica mais em uso por WmiPrvSE; Chrome que fecha ao abrir tenta de novo",
+    "publicada_em": "2026-10-07",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "c8adb5479cc6abcda5fe750f1f28f018e8b0679dcf6a3b00a20f971e30cf21c7",
-    "tamanho": 37915,
-    "versao": "1.0.2"
+    "sha256": "872e58b922a1dcae4c22f8b3e155b754d7a4d36347430e6e7fae00d233923b5c",
+    "tamanho": 38807,
+    "versao": "1.0.3"
    }
   },
   "grok": {
@@ -244,5 +244,5 @@
    }
   }
  },
- "serie": 114
+ "serie": 115
 }
