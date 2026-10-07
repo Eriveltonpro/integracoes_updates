@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-07 09:30:35",
+ "gerado_em": "2026-10-07 09:46:04",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -160,6 +160,26 @@
     "versao": "1.0.3"
    }
   },
+  "transcricao_local": {
+   "1": {
+    "arquivo": "transcricao_local/1.0.0.pack",
+    "conteudo": "26c614fe0d414df623f30cae55577349cb1ccf0f2bb8d16d0b93a444dedbf415",
+    "notas": "1.0.0: legenda (SRT) e palavra a palavra no proprio PC, de graca. Modelo escolhido pelo hardware (tiny/base/small; large-v3-turbo em PC forte ou GPU NVIDIA pronta), baixado na primeira vez para %LOCALAPPDATA%\\LikePoints\\modelos_transcricao (compartilhado entre os apps), com progresso, retomada e conferencia SHA-256. Modo musica: sem VAD, sem contexto anterior, filtro de banda no ffmpeg e corte de frases fantasma.",
+    "publicada_em": "2026-10-07",
+    "requer": [
+     "faster_whisper",
+     "ctranslate2",
+     "av",
+     "tokenizers",
+     "huggingface_hub",
+     "numpy"
+    ],
+    "revogadas": [],
+    "sha256": "2a9a3640d824459a5776aeecb8fcebda173c828ac7db4e36a4fab596fc184946",
+    "tamanho": 13443,
+    "versao": "1.0.0"
+   }
+  },
   "treblo": {
    "1": {
     "arquivo": "treblo/1.0.1.pack",
@@ -224,5 +244,5 @@
    }
   }
  },
- "serie": 112
+ "serie": 113
 }
