@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-07 09:46:04",
+ "gerado_em": "2026-10-07 13:41:49",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -213,18 +213,18 @@
   },
   "vids": {
    "1": {
-    "arquivo": "vids/1.0.12.pack",
-    "conteudo": "7c13002f0b186551c0351e2ab4fca6c7e4fd267643e145c092472ab4894797ad",
-    "notas": "Janela parada fecha sozinha (2 min) e conferir fecha o que abriu; conta sem Video com IA vira estado proprio (sem_ia) fora do rodizio; saldo negativo vira esgotada; mensagens de cota com a data de renovar",
-    "publicada_em": "2026-10-03",
+    "arquivo": "vids/1.0.13.pack",
+    "conteudo": "415503e1606918d981f5bca391fc76190bca7f9cf0aaab4412561db513a1a69e",
+    "notas": "janela aberta pelo WMI nao fica mais em uso por WmiPrvSE; Chrome que fecha ao abrir tenta de novo",
+    "publicada_em": "2026-10-07",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "be0b302f0ea537bccaea007bc87cde4cb32479dd855cf744604d25b2afcd5ca1",
-    "tamanho": 52333,
-    "versao": "1.0.12"
+    "sha256": "2037a7e80ae39370fdc30c488a19df86e94dcb69e67f1db7aef87e5ac16d53d5",
+    "tamanho": 53369,
+    "versao": "1.0.13"
    }
   },
   "youtube_uploader": {
@@ -244,5 +244,5 @@
    }
   }
  },
- "serie": 113
+ "serie": 114
 }
