@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-07 13:42:03",
+ "gerado_em": "2026-10-07 13:42:15",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -98,18 +98,18 @@
   },
   "grok": {
    "1": {
-    "arquivo": "grok/1.0.2.pack",
-    "conteudo": "569385a9a3f7e1a2ad03acc7e7b96e95270a1c57d6e3fdc986d76a3db86eeea2",
-    "notas": "rodizio: mesmo pedido passa por todas as contas (antes so 4); conta que descansou mais vai primeiro; Vids lembra conta sem cota",
-    "publicada_em": "2026-10-02",
+    "arquivo": "grok/1.0.3.pack",
+    "conteudo": "1c049af47e893002ba510866106b087f0fab2c5e2f22e95fee01c7c862e36161",
+    "notas": "janela aberta pelo WMI nao fica mais em uso por WmiPrvSE; Chrome que fecha ao abrir tenta de novo",
+    "publicada_em": "2026-10-07",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "eed8fb39114ecf985b522c819c756b415a49263898ac3619afef0c6f4f46ed05",
-    "tamanho": 39025,
-    "versao": "1.0.2"
+    "sha256": "88f297249e8424a0079ebea0f8b082bf114986f9db59271907de4b06ec4287b1",
+    "tamanho": 39888,
+    "versao": "1.0.3"
    }
   },
   "instagram_uploader": {
@@ -244,5 +244,5 @@
    }
   }
  },
- "serie": 115
+ "serie": 116
 }
