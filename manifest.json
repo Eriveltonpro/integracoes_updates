@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-07 13:42:28",
+ "gerado_em": "2026-10-07 13:42:41",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -197,18 +197,18 @@
   },
   "vibes": {
    "1": {
-    "arquivo": "vibes/1.0.2.pack",
-    "conteudo": "13c51607fa34aa57afafd8e448c486fa6864b08e315a5ba2f14edd6a91313d93",
-    "notas": "rodizio: mesmo pedido passa por todas as contas (antes so 4); conta que descansou mais vai primeiro; Vids lembra conta sem cota",
-    "publicada_em": "2026-10-02",
+    "arquivo": "vibes/1.0.3.pack",
+    "conteudo": "8d097fb123481679da37184da1cb4dbfe37d2ee8e41a5909c712e174a1cd036c",
+    "notas": "janela aberta pelo WMI nao fica mais em uso por WmiPrvSE; Chrome que fecha ao abrir tenta de novo",
+    "publicada_em": "2026-10-07",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "aa878554dcb92779d5fd574ecf8dfb90f4d97e5ea679173bf9411a40b97dfdc4",
-    "tamanho": 39084,
-    "versao": "1.0.2"
+    "sha256": "359c7692883314d39549d485a34aa0638c72ab3c9e0f6dbc29dd41474667a120",
+    "tamanho": 39960,
+    "versao": "1.0.3"
    }
   },
   "vids": {
@@ -244,5 +244,5 @@
    }
   }
  },
- "serie": 117
+ "serie": 118
 }
