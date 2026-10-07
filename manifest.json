@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-06 16:11:30",
+ "gerado_em": "2026-10-07 09:30:35",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,10 +64,10 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.50.pack",
-    "conteudo": "895f25a26bb2277c63250e926141a84598aed460211f4d6fc4b6baa6e2165038",
-    "notas": "flow 1.0.50: lipsync confere pela forma de onda (corte 0.75) e usa o texto dos criadores; credito insuficiente para o pedido (alerta no lugar do enviar) vira sem_credito em vez de tela travada; pilula espera 20 s e recarrega o projeto; tela_presa troca de conta; varredura de resgate pula envios sem operacao; abrir_projeto recarrega a lista quando Novo projeto some. 03/10/2026.",
-    "publicada_em": "2026-10-03",
+    "arquivo": "flow/1.0.51.pack",
+    "conteudo": "a6f3dbbad944debb9db34620f720a63d32e5857d9c40cde73aa7bfbc292a229c",
+    "notas": "lipsync: regua de sincronia 0.60 + melhor tentativa",
+    "publicada_em": "2026-10-07",
     "requer": [
      "selenium",
      "requests",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "513e2e0b98526b23a27564aef60b7017886881146352728d4057ea3193ba5944",
-    "tamanho": 193792,
-    "versao": "1.0.50"
+    "sha256": "ff33a85ef9dda9904f8a89df0ccd986a8b67d0b6f5a5c23d84ae9c544a6973cb",
+    "tamanho": 194445,
+    "versao": "1.0.51"
    }
   },
   "gemini_imagens": {
@@ -224,5 +224,5 @@
    }
   }
  },
- "serie": 111
+ "serie": 112
 }
