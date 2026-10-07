@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-07 13:42:15",
+ "gerado_em": "2026-10-07 13:42:28",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -146,18 +146,18 @@
   },
   "piclumen": {
    "1": {
-    "arquivo": "piclumen/1.0.3.pack",
-    "conteudo": "b7805c9e0848634bb24d401a8e6dbe43672c32887744fc18056b22047258fae0",
-    "notas": "rodizio: mesmo pedido passa por todas as contas (antes so 4); conta que descansou mais vai primeiro; Vids lembra conta sem cota",
-    "publicada_em": "2026-10-02",
+    "arquivo": "piclumen/1.0.4.pack",
+    "conteudo": "e38934226347d0600756450599e24a47f04056d44dbb160453f04f2c46b5c8b0",
+    "notas": "janela aberta pelo WMI nao fica mais em uso por WmiPrvSE; Chrome que fecha ao abrir tenta de novo",
+    "publicada_em": "2026-10-07",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "2daedfdf54bc574e55b5b68c4a18db88ad471a50e29d6316fc8474b818f444b0",
-    "tamanho": 35765,
-    "versao": "1.0.3"
+    "sha256": "f3e8a771d3cab2b2fbefdb6125772c9eb2b5671ffaecb0093bf2e97f130a8aa3",
+    "tamanho": 36655,
+    "versao": "1.0.4"
    }
   },
   "transcricao_local": {
@@ -244,5 +244,5 @@
    }
   }
  },
- "serie": 116
+ "serie": 117
 }
