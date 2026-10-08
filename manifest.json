@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-07 15:38:39",
+ "gerado_em": "2026-10-08 08:47:03",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,10 +64,10 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.52.pack",
-    "conteudo": "ab9461e806d14cdba265f9020eb62ebf78061fee5d32dba80011bf8ee521c033",
-    "notas": "janela aberta pelo WMI nao fica mais em uso por WmiPrvSE; Chrome que fecha ao abrir tenta de novo",
-    "publicada_em": "2026-10-07",
+    "arquivo": "flow/1.0.53.pack",
+    "conteudo": "01bfef19546a66e1f4a321493bb836eb62270259be142d8dfca67c06c84ae598",
+    "notas": "",
+    "publicada_em": "2026-10-08",
     "requer": [
      "selenium",
      "requests",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "f5c70c250c36a5db8afde5132601abb5ff936db0169a3447e4fe7304a89c54a2",
-    "tamanho": 194643,
-    "versao": "1.0.52"
+    "sha256": "c194d42c445bd51b149282fb3cc0d552ec4d1e1b730b9389deaeea995a335df8",
+    "tamanho": 194638,
+    "versao": "1.0.53"
    }
   },
   "gemini_imagens": {
@@ -244,5 +244,5 @@
    }
   }
  },
- "serie": 120
+ "serie": 121
 }
