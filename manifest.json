@@ -1,65 +1,65 @@
 {
- "gerado_em": "2026-10-08 08:47:03",
+ "gerado_em": "2026-10-08 09:01:17",
  "integracoes": {
   "acemusic": {
    "1": {
-    "arquivo": "acemusic/1.1.0.pack",
-    "conteudo": "565c8e0b2438e00e268290dff00e70310eae63ae5bd244aeb14c81d0f890469a",
-    "notas": "Lote revezando contas (gerar_lote), cadastro de contas (acekit.contas) e letras em TXT com o estilo embaixo (letras_da_pasta, separar_letras). Motor do AceMusic Automations 1.0.13.",
-    "publicada_em": "2026-09-30",
+    "arquivo": "acemusic/1.2.0.pack",
+    "conteudo": "d931a11962d251411889b3a9ae4724cf11749e3ca6d0a5ead63863d0c2323fc3",
+    "notas": "Contas Like Points: anuncia as contas deste programa e, com usar_abridor_por_perfil no app, usa as contas ja' logadas em outra ferramenta nossa (mesmo perfil, sem login de novo). Conta aberta em outro programa fica fora do rodizio.",
+    "publicada_em": "2026-10-08",
     "requer": [
      "selenium"
     ],
     "revogadas": [],
-    "sha256": "8f698f442042bd660878ed88bbdc1312a56940f3362cd796a2c2b6f92ae75206",
-    "tamanho": 31352,
-    "versao": "1.1.0"
+    "sha256": "420f8066439829d5a8f1dd72da994210766525416e252765cadd8a647987d6d9",
+    "tamanho": 35089,
+    "versao": "1.2.0"
    }
   },
   "bilibili_uploader": {
    "1": {
-    "arquivo": "bilibili_uploader/1.0.2.pack",
-    "conteudo": "4479550a7c56284e79a2f34ff18f4c85bbf3578f5959802d53f6e40376df6d6b",
-    "notas": "",
-    "publicada_em": "2026-10-06",
+    "arquivo": "bilibili_uploader/1.0.3.pack",
+    "conteudo": "7aa8f34843008a2e3658d2d6c178dec0391cfb806f08e760aa3ae5cb6bab6efb",
+    "notas": "Leva o registro Like Points de contas (lpcontas) para o app anunciar e achar contas ja' logadas em outras ferramentas.",
+    "publicada_em": "2026-10-08",
     "requer": [
      "selenium"
     ],
     "revogadas": [],
-    "sha256": "ba4d008725fab4be874b6a3913d3bd9fb92bb27adfb782786332dbbb4dc98f38",
-    "tamanho": 26663,
-    "versao": "1.0.2"
+    "sha256": "d6f034869fddd6547d5c4cbe0229a47bdf374bc15fab03bdbd2b13ef70e8f80d",
+    "tamanho": 29482,
+    "versao": "1.0.3"
    }
   },
   "chatgpt_imagens": {
    "1": {
-    "arquivo": "chatgpt_imagens/1.3.2.pack",
-    "conteudo": "a5616140650d9426e53755ec8562c450879e1550cea6aa45e5da899856e2a39f",
-    "notas": "Imagem desenhada e apagada pelo filtro: reescreve/suaviza o pedido antes de tentar de novo (antes repetia igual 4x); suavizador local tira idade, beleza, corpo e roupa justa",
-    "publicada_em": "2026-10-07",
+    "arquivo": "chatgpt_imagens/1.4.0.pack",
+    "conteudo": "d864cc2f939b254bd39afbe6b9d8cc60278bf4c288b774688c228bd8a05242e3",
+    "notas": "Contas Like Points: anuncia as contas deste programa e, com usar_abridor_por_perfil no app, usa as contas ja' logadas em outra ferramenta nossa (mesmo perfil, sem login de novo). Conta aberta em outro programa fica fora do rodizio.",
+    "publicada_em": "2026-10-08",
     "requer": [
      "selenium",
      "PIL"
     ],
     "revogadas": [],
-    "sha256": "a153c6d007666b448ec8cb7ab71f637fe064dd40c0abad4bc1ef5338be8289ed",
-    "tamanho": 31339,
-    "versao": "1.3.2"
+    "sha256": "c2f84b3f9da14ee03a82765f3f781ac989316f8583cf133563b251b0fe8bf10d",
+    "tamanho": 34678,
+    "versao": "1.4.0"
    }
   },
   "facebook_uploader": {
    "1": {
-    "arquivo": "facebook_uploader/1.0.4.pack",
-    "conteudo": "56b2170f820a7fd4383fcd430da8f8e39f864422fa88c836177f224c82e5b8ee",
-    "notas": "",
-    "publicada_em": "2026-10-06",
+    "arquivo": "facebook_uploader/1.0.5.pack",
+    "conteudo": "53919f62f5252abc4bf25a1f5fda66b171801449722c85f3bb4c572a9fc3fce9",
+    "notas": "Leva o registro Like Points de contas (lpcontas) para o app anunciar e achar contas ja' logadas em outras ferramentas.",
+    "publicada_em": "2026-10-08",
     "requer": [
      "selenium"
     ],
     "revogadas": [],
-    "sha256": "56f3e0aabb98ce9b371b9bae1ac215f2f32c831b5ffb041916608947f0a3910c",
-    "tamanho": 22883,
-    "versao": "1.0.4"
+    "sha256": "2281e77407cc617098ef0b4dd1f51a29ff6d9205431907373dd468192c07d4a4",
+    "tamanho": 25695,
+    "versao": "1.0.5"
    }
   },
   "flow": {
@@ -82,82 +82,82 @@
   },
   "gemini_imagens": {
    "1": {
-    "arquivo": "gemini_imagens/1.0.3.pack",
-    "conteudo": "4143b3bd804b27f2f1a4f4fbf8baf98d1ccd7540c1ebdbd06ba9d1bdea58cbe1",
-    "notas": "janela aberta pelo WMI nao fica mais em uso por WmiPrvSE; Chrome que fecha ao abrir tenta de novo",
-    "publicada_em": "2026-10-07",
+    "arquivo": "gemini_imagens/1.0.4.pack",
+    "conteudo": "3711e0c90fb0667b381d596af97b107fdea2d070bbffaaa9d275d286f33ae6c2",
+    "notas": "Contas Like Points: conta logada em outra ferramenta nossa aparece aqui sozinha (mesmo perfil, sem login de novo); Remover nela so' esconde neste programa.",
+    "publicada_em": "2026-10-08",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "872e58b922a1dcae4c22f8b3e155b754d7a4d36347430e6e7fae00d233923b5c",
-    "tamanho": 38807,
-    "versao": "1.0.3"
+    "sha256": "b088bcb424f5935023e9ec21529d0d65d9aa394ef9eac98b7df3482cec263876",
+    "tamanho": 41495,
+    "versao": "1.0.4"
    }
   },
   "grok": {
    "1": {
-    "arquivo": "grok/1.0.3.pack",
-    "conteudo": "1c049af47e893002ba510866106b087f0fab2c5e2f22e95fee01c7c862e36161",
-    "notas": "janela aberta pelo WMI nao fica mais em uso por WmiPrvSE; Chrome que fecha ao abrir tenta de novo",
-    "publicada_em": "2026-10-07",
+    "arquivo": "grok/1.0.4.pack",
+    "conteudo": "08bdd1f2ec0206a2cb8831bd142eee0b8b9cde10d3d8a6d3329d129ab130a027",
+    "notas": "Contas Like Points: conta logada em outra ferramenta nossa aparece aqui sozinha (mesmo perfil, sem login de novo); Remover nela so' esconde neste programa.",
+    "publicada_em": "2026-10-08",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "88f297249e8424a0079ebea0f8b082bf114986f9db59271907de4b06ec4287b1",
-    "tamanho": 39888,
-    "versao": "1.0.3"
+    "sha256": "acd0969f7d1e84acd5050dc9f6d80ef95fd6cad37bb635560b6545de0a5271fe",
+    "tamanho": 42547,
+    "versao": "1.0.4"
    }
   },
   "instagram_uploader": {
    "1": {
-    "arquivo": "instagram_uploader/1.0.0.pack",
-    "conteudo": "d847ca7bac0e94db7547611393851167daf74704755b200750749c12c1c944e9",
-    "notas": "Versao inicial: linhagem core/igupload (GTA6 23/09/2026) + login provado pela API do site + recado amigavel no erro (Fluxo Musical).",
-    "publicada_em": "2026-09-23",
+    "arquivo": "instagram_uploader/1.0.1.pack",
+    "conteudo": "0f830259abac641e3438c3b46ebf9fcc018868d3a3b1a28706aee04b974b14d2",
+    "notas": "Leva o registro Like Points de contas (lpcontas) para o app anunciar e achar contas ja' logadas em outras ferramentas.",
+    "publicada_em": "2026-10-08",
     "requer": [
      "selenium"
     ],
     "revogadas": [],
-    "sha256": "a9dcf18653073e844e515b498959508a79c81fd7221cc499e790a6e4cb81b1a9",
-    "tamanho": 18209,
-    "versao": "1.0.0"
+    "sha256": "1b0219aff36237f034c20c91a88711df6feee93fa97000853f576442ab40ccdb",
+    "tamanho": 21047,
+    "versao": "1.0.1"
    }
   },
   "meta_ai": {
    "1": {
-    "arquivo": "meta_ai/1.0.5.pack",
-    "conteudo": "31384c84a14758098b20044f9d63751beca1779bf582d5c3de1fef29b79137aa",
-    "notas": "meta_ai 1.0.5: quadro inicial do vibes vira FOTO (meta.ai negava 'video generation isn't available' e o motor insistia pedindo video: 35 min sem quadro); insistencia pede imagem (force_img_text); sem quadro + so 16:9 nao abre o vibes (cada tentativa deixava projeto 'Sem titulo' vazio na conta); retentativa do composer reaproveita o projeto recem-criado. 05/10/2026.",
-    "publicada_em": "2026-10-05",
+    "arquivo": "meta_ai/1.0.6.pack",
+    "conteudo": "ec1391ebd9be9694ebc59b17187407b76035c1dca5e75a82a5334d2a450034a6",
+    "notas": "Leva o registro Like Points de contas (lpcontas) para o app anunciar e achar contas ja' logadas em outras ferramentas.",
+    "publicada_em": "2026-10-08",
     "requer": [
      "selenium",
      "requests",
      "PIL"
     ],
     "revogadas": [],
-    "sha256": "a3404eead939b359a6ff14aa353e34f70f581b8c5c59441733a4eed87d47197b",
-    "tamanho": 74303,
-    "versao": "1.0.5"
+    "sha256": "4442fbbd4d5121343338e9a52a979f50081c96ee1856915858a86d9c5d3184fa",
+    "tamanho": 76810,
+    "versao": "1.0.6"
    }
   },
   "piclumen": {
    "1": {
-    "arquivo": "piclumen/1.0.4.pack",
-    "conteudo": "e38934226347d0600756450599e24a47f04056d44dbb160453f04f2c46b5c8b0",
-    "notas": "janela aberta pelo WMI nao fica mais em uso por WmiPrvSE; Chrome que fecha ao abrir tenta de novo",
-    "publicada_em": "2026-10-07",
+    "arquivo": "piclumen/1.0.5.pack",
+    "conteudo": "bdaa2ff5bec3a71508994217bcc33ffe108ef287bbfe26777e3851e082f15860",
+    "notas": "Contas Like Points: conta logada em outra ferramenta nossa aparece aqui sozinha (mesmo perfil, sem login de novo); Remover nela so' esconde neste programa.",
+    "publicada_em": "2026-10-08",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "f3e8a771d3cab2b2fbefdb6125772c9eb2b5671ffaecb0093bf2e97f130a8aa3",
-    "tamanho": 36655,
-    "versao": "1.0.4"
+    "sha256": "f80ec970bc874e107df7ecc547de5f5e433f940c1cf423d5799540d9aafa1deb",
+    "tamanho": 39370,
+    "versao": "1.0.5"
    }
   },
   "transcricao_local": {
@@ -182,67 +182,67 @@
   },
   "treblo": {
    "1": {
-    "arquivo": "treblo/1.0.1.pack",
-    "conteudo": "c31f0649f444dbd38d1e1b2aac1206111c47d3874e54872c93226b331f8166d7",
-    "notas": "",
-    "publicada_em": "2026-10-02",
+    "arquivo": "treblo/1.0.2.pack",
+    "conteudo": "6f982881a38318af834405e788663d73240e3df31ed5b9b59be7227343ff325c",
+    "notas": "Leva o registro Like Points de contas (lpcontas) para o app anunciar e achar contas ja' logadas em outras ferramentas.",
+    "publicada_em": "2026-10-08",
     "requer": [
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "62751e59cf97c80a0fa5b4686889c8242ba741a3526d28f2a2f57ed1c69a69aa",
-    "tamanho": 21648,
-    "versao": "1.0.1"
+    "sha256": "bd6277eae545f3dc1be2bc43bc12b210241165de45314be27bbce52021c25d55",
+    "tamanho": 24460,
+    "versao": "1.0.2"
    }
   },
   "vibes": {
    "1": {
-    "arquivo": "vibes/1.0.3.pack",
-    "conteudo": "8d097fb123481679da37184da1cb4dbfe37d2ee8e41a5909c712e174a1cd036c",
-    "notas": "janela aberta pelo WMI nao fica mais em uso por WmiPrvSE; Chrome que fecha ao abrir tenta de novo",
-    "publicada_em": "2026-10-07",
+    "arquivo": "vibes/1.0.4.pack",
+    "conteudo": "ca23b3a1e2c7a72357aae95ec6d9e0bba7ef6d3f2e7b7a07efbd1956427d289d",
+    "notas": "Contas Like Points: conta logada em outra ferramenta nossa aparece aqui sozinha (mesmo perfil, sem login de novo); Remover nela so' esconde neste programa.",
+    "publicada_em": "2026-10-08",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "359c7692883314d39549d485a34aa0638c72ab3c9e0f6dbc29dd41474667a120",
-    "tamanho": 39960,
-    "versao": "1.0.3"
+    "sha256": "72275ada83befeaaa2fe62cae1adeba6a2c5bb58b876b2d12d49ad20f614b3b7",
+    "tamanho": 42637,
+    "versao": "1.0.4"
    }
   },
   "vids": {
    "1": {
-    "arquivo": "vids/1.0.13.pack",
-    "conteudo": "415503e1606918d981f5bca391fc76190bca7f9cf0aaab4412561db513a1a69e",
-    "notas": "janela aberta pelo WMI nao fica mais em uso por WmiPrvSE; Chrome que fecha ao abrir tenta de novo",
-    "publicada_em": "2026-10-07",
+    "arquivo": "vids/1.0.14.pack",
+    "conteudo": "d4975e57a569007eb4d11c6342dcd1ef7571881c17bde12b3c34bfa40d01db4a",
+    "notas": "Contas Like Points: conta logada em outra ferramenta nossa aparece aqui sozinha (mesmo perfil, sem login de novo); Remover nela so' esconde neste programa.",
+    "publicada_em": "2026-10-08",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "2037a7e80ae39370fdc30c488a19df86e94dcb69e67f1db7aef87e5ac16d53d5",
-    "tamanho": 53369,
-    "versao": "1.0.13"
+    "sha256": "672486464ce7ba7bab620fda5f9bf58397487165bc6f9d34a43629204f1f5fc2",
+    "tamanho": 56724,
+    "versao": "1.0.14"
    }
   },
   "youtube_uploader": {
    "1": {
-    "arquivo": "youtube_uploader/1.0.17.pack",
-    "conteudo": "a88e28fe7142704261607237c4adc61697e34b52a2044a9b1a539371bc51fe29",
-    "notas": "",
-    "publicada_em": "2026-10-06",
+    "arquivo": "youtube_uploader/1.0.18.pack",
+    "conteudo": "1d6e22a35e8e556696cedb2b64b0da5c2b1c06455653296cca5616605dcb9073",
+    "notas": "Leva o registro Like Points de contas (lpcontas) para o app anunciar e achar contas ja' logadas em outras ferramentas.",
+    "publicada_em": "2026-10-08",
     "requer": [
      "selenium",
      "requests"
     ],
     "revogadas": [],
-    "sha256": "3c31fc1ee9e66c9f518e8ad8f8767e53cdb335456f7f0b2a8c61e73306fb04b5",
-    "tamanho": 114060,
-    "versao": "1.0.17"
+    "sha256": "19a4c9c8969c952de1ddcb7237a4fc29296e2b66efcee8945f16cd62814d1682",
+    "tamanho": 116625,
+    "versao": "1.0.18"
    }
   }
  },
- "serie": 121
+ "serie": 124
 }
