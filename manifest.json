@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-10 17:41:53",
+ "gerado_em": "2026-10-11 08:53:23",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -197,19 +197,19 @@
   },
   "tts_likepoints": {
    "1": {
-    "arquivo": "tts_likepoints/1.0.0.pack",
-    "conteudo": "5427a39e7785834c5fa5bfb3903db7f00b44b2d598d018ccb69d3ce02dd95fb5",
-    "notas": "1.0.1: widget aceita data-motores (so os cartoes escolhidos) e data-sem-clonar (app com clonar proprio). 1.0.0: tres motores na mesma API. Edge TTS (online, 320+ vozes). Chatterbox Multilingual (Resemble AI, MIT) e XTTS v2 (Coqui, uso nao comercial) instalados por botao dentro do app, com progresso, requisitos reais e cancelar; biblioteca de vozes clonadas compartilhada entre os apps. Rotas Flask e widget.js prontos.",
-    "publicada_em": "2026-10-08",
+    "arquivo": "tts_likepoints/1.0.1.pack",
+    "conteudo": "603e99521d1355204217729c42225539a37265a191941c5a93a5ec796425116a",
+    "notas": "XTTS ganha as 58 vozes prontas de estudio do modelo (id xtts:@Nome)",
+    "publicada_em": "2026-10-11",
     "requer": [
      "edge_tts",
      "aiohttp",
      "certifi"
     ],
     "revogadas": [],
-    "sha256": "ad681b45a021bfc473f6d6b987e93f5aaa44bcbd9e172d0a141057cc7c26e657",
-    "tamanho": 32138,
-    "versao": "1.0.0"
+    "sha256": "23a67a2dc089d905a2bcee7b375aabcf4b8c5b1b52a4fb31397c0d2d148dcedd",
+    "tamanho": 33240,
+    "versao": "1.0.1"
    }
   },
   "vibes": {
@@ -261,5 +261,5 @@
    }
   }
  },
- "serie": 127
+ "serie": 128
 }
