@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-12 10:19:03",
+ "gerado_em": "2026-10-12 11:45:15",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -160,6 +160,21 @@
     "versao": "1.0.5"
    }
   },
+  "suno": {
+   "1": {
+    "arquivo": "suno/1.0.0.pack",
+    "conteudo": "1a2a9ed92208a718019aa21c320ffd540094594f6072ccfd3ff1c000ab0aaee6",
+    "notas": "1.0.0: motor do Suno (criar, modelo, download modal novo, Studio Premier, espacos de trabalho)",
+    "publicada_em": "2026-10-12",
+    "requer": [
+     "selenium"
+    ],
+    "revogadas": [],
+    "sha256": "1f6aca1e9ad82556322995d47ffafdd5c2050d475113fe1709fa636da153da95",
+    "tamanho": 26235,
+    "versao": "1.0.0"
+   }
+  },
   "transcricao_local": {
    "1": {
     "arquivo": "transcricao_local/1.0.0.pack",
@@ -261,5 +276,5 @@
    }
   }
  },
- "serie": 131
+ "serie": 132
 }
