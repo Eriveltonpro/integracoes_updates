@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-11 08:53:23",
+ "gerado_em": "2026-10-12 08:30:09",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -33,18 +33,18 @@
   },
   "chatgpt_imagens": {
    "1": {
-    "arquivo": "chatgpt_imagens/1.4.0.pack",
-    "conteudo": "d864cc2f939b254bd39afbe6b9d8cc60278bf4c288b774688c228bd8a05242e3",
-    "notas": "Contas Like Points: anuncia as contas deste programa e, com usar_abridor_por_perfil no app, usa as contas ja' logadas em outra ferramenta nossa (mesmo perfil, sem login de novo). Conta aberta em outro programa fica fora do rodizio.",
-    "publicada_em": "2026-10-08",
+    "arquivo": "chatgpt_imagens/1.5.0.pack",
+    "conteudo": "578e31c1681014889be8f9241f210dde0c9797d1300faea50ccfa29fe7110244",
+    "notas": "",
+    "publicada_em": "2026-10-12",
     "requer": [
      "selenium",
      "PIL"
     ],
     "revogadas": [],
-    "sha256": "c2f84b3f9da14ee03a82765f3f781ac989316f8583cf133563b251b0fe8bf10d",
-    "tamanho": 34678,
-    "versao": "1.4.0"
+    "sha256": "911ad0f26e95bc546673ed6459bb60f9943aebebd804f4f8f22ccbaa8bf2c2c6",
+    "tamanho": 35384,
+    "versao": "1.5.0"
    }
   },
   "facebook_uploader": {
@@ -261,5 +261,5 @@
    }
   }
  },
- "serie": 128
+ "serie": 129
 }
