@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-12 11:45:15",
+ "gerado_em": "2026-10-12 12:02:54",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -162,17 +162,17 @@
   },
   "suno": {
    "1": {
-    "arquivo": "suno/1.0.0.pack",
-    "conteudo": "1a2a9ed92208a718019aa21c320ffd540094594f6072ccfd3ff1c000ab0aaee6",
-    "notas": "1.0.0: motor do Suno (criar, modelo, download modal novo, Studio Premier, espacos de trabalho)",
+    "arquivo": "suno/1.1.0.pack",
+    "conteudo": "001802f1ba721e8a2685982a9ffb17d035abe0aaa2ebd99015e11926b99579fd",
+    "notas": "",
     "publicada_em": "2026-10-12",
     "requer": [
      "selenium"
     ],
     "revogadas": [],
-    "sha256": "1f6aca1e9ad82556322995d47ffafdd5c2050d475113fe1709fa636da153da95",
-    "tamanho": 26235,
-    "versao": "1.0.0"
+    "sha256": "3a808306b16402cecef54375411ce138504f2cdcf8b43c29434db6f8f9c793bf",
+    "tamanho": 32238,
+    "versao": "1.1.0"
    }
   },
   "transcricao_local": {
@@ -276,5 +276,5 @@
    }
   }
  },
- "serie": 132
+ "serie": 133
 }
