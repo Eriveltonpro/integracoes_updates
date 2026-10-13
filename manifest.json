@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-12 19:59:00",
+ "gerado_em": "2026-10-13 14:48:04",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -212,19 +212,19 @@
   },
   "tts_likepoints": {
    "1": {
-    "arquivo": "tts_likepoints/1.0.1.pack",
-    "conteudo": "603e99521d1355204217729c42225539a37265a191941c5a93a5ec796425116a",
-    "notas": "XTTS ganha as 58 vozes prontas de estudio do modelo (id xtts:@Nome)",
-    "publicada_em": "2026-10-11",
+    "arquivo": "tts_likepoints/1.0.2.pack",
+    "conteudo": "9b8818a9e951054ce979f5ea97a99d0dc280ec551c28a3613cde62f0a17392aa",
+    "notas": "",
+    "publicada_em": "2026-10-13",
     "requer": [
      "edge_tts",
      "aiohttp",
      "certifi"
     ],
     "revogadas": [],
-    "sha256": "23a67a2dc089d905a2bcee7b375aabcf4b8c5b1b52a4fb31397c0d2d148dcedd",
-    "tamanho": 33240,
-    "versao": "1.0.1"
+    "sha256": "12ce06cb7155e42fbb76ad652dbccf69f1c598a1cea32fcdbcce656b5fffe4a8",
+    "tamanho": 53315,
+    "versao": "1.0.2"
    }
   },
   "vibes": {
@@ -276,5 +276,5 @@
    }
   }
  },
- "serie": 135
+ "serie": 136
 }
