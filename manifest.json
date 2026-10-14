@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-14 19:55:07",
+ "gerado_em": "2026-10-14 20:16:53",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,9 +64,9 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.56.pack",
-    "conteudo": "b1c5fcbc778892974e9a9f5569f557e2a643109f8c57d1b3adbe17166ea6940e",
-    "notas": "chromedriver sem a marca window.cdc_ (Cloudflare/Google detectavam robo); drivers ja baixados sao remendados na abertura",
+    "arquivo": "flow/1.0.57.pack",
+    "conteudo": "272839e79dccf7617af3154dd7c012ebbc4fe58e3842f527f9d868cc1ee34e83",
+    "notas": "Chrome aberto pelo WMI via COM, sem PowerShell (antivirus AVG/Avast bloqueava a linha de comando como virus); versao do Chrome lida sem PowerShell",
     "publicada_em": "2026-10-14",
     "requer": [
      "selenium",
@@ -75,41 +75,41 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "464f4675c3a9a1c5e84cb860fcca9ac81f06628da62f890000abb8a98b696c03",
-    "tamanho": 195842,
-    "versao": "1.0.56"
+    "sha256": "e1144c98f0fccb6693e5572e124e128ce45aab39804c4270a9fac88cb868a838",
+    "tamanho": 195737,
+    "versao": "1.0.57"
    }
   },
   "gemini_imagens": {
    "1": {
-    "arquivo": "gemini_imagens/1.0.4.pack",
-    "conteudo": "3711e0c90fb0667b381d596af97b107fdea2d070bbffaaa9d275d286f33ae6c2",
-    "notas": "Contas Like Points: conta logada em outra ferramenta nossa aparece aqui sozinha (mesmo perfil, sem login de novo); Remover nela so' esconde neste programa.",
-    "publicada_em": "2026-10-08",
+    "arquivo": "gemini_imagens/1.0.5.pack",
+    "conteudo": "0420c14af3f087ca6885ad4862f496895e1d7fe0d1609f765b28a6b63d1aab7b",
+    "notas": "Chrome aberto pelo WMI via COM, sem PowerShell (antivirus AVG/Avast bloqueava a linha de comando como virus); versao do Chrome lida sem PowerShell",
+    "publicada_em": "2026-10-14",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "b088bcb424f5935023e9ec21529d0d65d9aa394ef9eac98b7df3482cec263876",
-    "tamanho": 41495,
-    "versao": "1.0.4"
+    "sha256": "2fac8cb726804ea204980042bf1376760f51d744e07c119d598ab8533ec4ef87",
+    "tamanho": 41462,
+    "versao": "1.0.5"
    }
   },
   "grok": {
    "1": {
-    "arquivo": "grok/1.0.4.pack",
-    "conteudo": "08bdd1f2ec0206a2cb8831bd142eee0b8b9cde10d3d8a6d3329d129ab130a027",
-    "notas": "Contas Like Points: conta logada em outra ferramenta nossa aparece aqui sozinha (mesmo perfil, sem login de novo); Remover nela so' esconde neste programa.",
-    "publicada_em": "2026-10-08",
+    "arquivo": "grok/1.0.5.pack",
+    "conteudo": "0cc0d499f3b5c42462b6f1a93e32ab299d1f965be97ba8681101bbeff417aa26",
+    "notas": "Chrome aberto pelo WMI via COM, sem PowerShell (antivirus AVG/Avast bloqueava a linha de comando como virus); versao do Chrome lida sem PowerShell",
+    "publicada_em": "2026-10-14",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "acd0969f7d1e84acd5050dc9f6d80ef95fd6cad37bb635560b6545de0a5271fe",
-    "tamanho": 42547,
-    "versao": "1.0.4"
+    "sha256": "e8aa2f9db14b8041e3b19b1566578dff2f22b8cdea539de3e73fe0f4180c49a6",
+    "tamanho": 42512,
+    "versao": "1.0.5"
    }
   },
   "instagram_uploader": {
@@ -146,18 +146,18 @@
   },
   "piclumen": {
    "1": {
-    "arquivo": "piclumen/1.0.5.pack",
-    "conteudo": "bdaa2ff5bec3a71508994217bcc33ffe108ef287bbfe26777e3851e082f15860",
-    "notas": "Contas Like Points: conta logada em outra ferramenta nossa aparece aqui sozinha (mesmo perfil, sem login de novo); Remover nela so' esconde neste programa.",
-    "publicada_em": "2026-10-08",
+    "arquivo": "piclumen/1.0.6.pack",
+    "conteudo": "ac44940b1d15b760da8400bc83345ad63704737822377ad9d90a1707d85ce3bb",
+    "notas": "Chrome aberto pelo WMI via COM, sem PowerShell (antivirus AVG/Avast bloqueava a linha de comando como virus); versao do Chrome lida sem PowerShell",
+    "publicada_em": "2026-10-14",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "f80ec970bc874e107df7ecc547de5f5e433f940c1cf423d5799540d9aafa1deb",
-    "tamanho": 39370,
-    "versao": "1.0.5"
+    "sha256": "b3a62f5295682346a98806ddc36942f23ad334f153f49de54be5b89400efe1a8",
+    "tamanho": 39335,
+    "versao": "1.0.6"
    }
   },
   "suno": {
@@ -229,34 +229,34 @@
   },
   "vibes": {
    "1": {
-    "arquivo": "vibes/1.0.4.pack",
-    "conteudo": "ca23b3a1e2c7a72357aae95ec6d9e0bba7ef6d3f2e7b7a07efbd1956427d289d",
-    "notas": "Contas Like Points: conta logada em outra ferramenta nossa aparece aqui sozinha (mesmo perfil, sem login de novo); Remover nela so' esconde neste programa.",
-    "publicada_em": "2026-10-08",
+    "arquivo": "vibes/1.0.5.pack",
+    "conteudo": "ca8c896cf4f361af450e255d1d6f66ad79fd20a6aa653d875a3a3cd23c054e55",
+    "notas": "Chrome aberto pelo WMI via COM, sem PowerShell (antivirus AVG/Avast bloqueava a linha de comando como virus); versao do Chrome lida sem PowerShell",
+    "publicada_em": "2026-10-14",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "72275ada83befeaaa2fe62cae1adeba6a2c5bb58b876b2d12d49ad20f614b3b7",
-    "tamanho": 42637,
-    "versao": "1.0.4"
+    "sha256": "e54ce77d72d7f19b257186d11e43fc0026dd0a1390fbdb22f65b8eb7cc519b98",
+    "tamanho": 42600,
+    "versao": "1.0.5"
    }
   },
   "vids": {
    "1": {
-    "arquivo": "vids/1.0.14.pack",
-    "conteudo": "d4975e57a569007eb4d11c6342dcd1ef7571881c17bde12b3c34bfa40d01db4a",
-    "notas": "Contas Like Points: conta logada em outra ferramenta nossa aparece aqui sozinha (mesmo perfil, sem login de novo); Remover nela so' esconde neste programa.",
-    "publicada_em": "2026-10-08",
+    "arquivo": "vids/1.0.15.pack",
+    "conteudo": "0cfc712ee7df8fcefa1c5430009a57099430d16bfb1099800366b50ff045dbb8",
+    "notas": "Chrome aberto pelo WMI via COM, sem PowerShell (antivirus AVG/Avast bloqueava a linha de comando como virus); versao do Chrome lida sem PowerShell",
+    "publicada_em": "2026-10-14",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "672486464ce7ba7bab620fda5f9bf58397487165bc6f9d34a43629204f1f5fc2",
-    "tamanho": 56724,
-    "versao": "1.0.14"
+    "sha256": "7011e5be0b30d3d4237e154398527dfd9efe6e071e9112e5e8df209a77fc3a93",
+    "tamanho": 56722,
+    "versao": "1.0.15"
    }
   },
   "youtube_uploader": {
@@ -276,5 +276,5 @@
    }
   }
  },
- "serie": 137
+ "serie": 138
 }
