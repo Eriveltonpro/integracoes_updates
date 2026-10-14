@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-13 14:48:04",
+ "gerado_em": "2026-10-14 19:55:07",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -64,10 +64,10 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.55.pack",
-    "conteudo": "05c3dac9c5512c7142603f6e27202db2157ca2ec983152783f630d6abb197096",
-    "notas": "",
-    "publicada_em": "2026-10-12",
+    "arquivo": "flow/1.0.56.pack",
+    "conteudo": "b1c5fcbc778892974e9a9f5569f557e2a643109f8c57d1b3adbe17166ea6940e",
+    "notas": "chromedriver sem a marca window.cdc_ (Cloudflare/Google detectavam robo); drivers ja baixados sao remendados na abertura",
+    "publicada_em": "2026-10-14",
     "requer": [
      "selenium",
      "requests",
@@ -75,9 +75,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "e8b146be4bc3ef41a89f67982cb462a63a1f53efe7458494cdd970642b91201b",
-    "tamanho": 195444,
-    "versao": "1.0.55"
+    "sha256": "464f4675c3a9a1c5e84cb860fcca9ac81f06628da62f890000abb8a98b696c03",
+    "tamanho": 195842,
+    "versao": "1.0.56"
    }
   },
   "gemini_imagens": {
@@ -276,5 +276,5 @@
    }
   }
  },
- "serie": 136
+ "serie": 137
 }
