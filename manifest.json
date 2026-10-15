@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-14 20:57:19",
+ "gerado_em": "2026-10-14 21:27:32",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -33,18 +33,18 @@
   },
   "chatgpt_imagens": {
    "1": {
-    "arquivo": "chatgpt_imagens/1.6.2.pack",
-    "conteudo": "53819f8d849b1adf6a1b3bbcb9b90fcebd8f167c44d5fe0764af0869a11503c1",
-    "notas": "Filtro apagando a capa: 3a tentativa vira ilustracao, 4a sai sem pessoas; sem foto avisa que nao existe referencia",
+    "arquivo": "chatgpt_imagens/1.6.3.pack",
+    "conteudo": "44b19b8415539f044b37ba80c578bb9868f194a9fd4a06c37f2007a91e0766c6",
+    "notas": "Chrome da conta aberto segurava o arquivo do login e o app dizia 'nenhuma conta conectada', pulando o ChatGPT em toda capa",
     "publicada_em": "2026-10-14",
     "requer": [
      "selenium",
      "PIL"
     ],
     "revogadas": [],
-    "sha256": "513fca13c75ec65ff3238768c654ab15ce9e7df74b205fbd4fb9032d083fdc9e",
-    "tamanho": 37043,
-    "versao": "1.6.2"
+    "sha256": "ace50b657d4fd71a0fb6c4c90fa4a0966a84959d36eefc4d9c0d2bd45f0f1b26",
+    "tamanho": 37177,
+    "versao": "1.6.3"
    }
   },
   "facebook_uploader": {
@@ -276,5 +276,5 @@
    }
   }
  },
- "serie": 139
+ "serie": 140
 }
