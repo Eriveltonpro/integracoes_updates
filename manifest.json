@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-14 21:27:32",
+ "gerado_em": "2026-10-14 21:29:33",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -261,20 +261,20 @@
   },
   "youtube_uploader": {
    "1": {
-    "arquivo": "youtube_uploader/1.0.18.pack",
-    "conteudo": "1d6e22a35e8e556696cedb2b64b0da5c2b1c06455653296cca5616605dcb9073",
-    "notas": "Leva o registro Like Points de contas (lpcontas) para o app anunciar e achar contas ja' logadas em outras ferramentas.",
-    "publicada_em": "2026-10-08",
+    "arquivo": "youtube_uploader/1.0.19.pack",
+    "conteudo": "9339ede6ae1e3e079ba39ea4640774640e4b8494e3d5435702180ad3ea701440",
+    "notas": "Troca de capa: Studio pos uma miniatura (ytcp-thumbnail) antes do bloco de capa e o app conferia ali, dizendo que o Studio nao mostrou a capa",
+    "publicada_em": "2026-10-14",
     "requer": [
      "selenium",
      "requests"
     ],
     "revogadas": [],
-    "sha256": "19a4c9c8969c952de1ddcb7237a4fc29296e2b66efcee8945f16cd62814d1682",
-    "tamanho": 116625,
-    "versao": "1.0.18"
+    "sha256": "80d9383caf581ca98b9dbae4e00c99584c93f5a83e3857ad8dd2a39e5ffc2fca",
+    "tamanho": 116787,
+    "versao": "1.0.19"
    }
   }
  },
- "serie": 140
+ "serie": 141
 }
