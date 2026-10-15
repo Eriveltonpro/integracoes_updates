@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-15 10:06:23",
+ "gerado_em": "2026-10-15 10:34:28",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -60,6 +60,19 @@
     "sha256": "2281e77407cc617098ef0b4dd1f51a29ff6d9205431907373dd468192c07d4a4",
     "tamanho": 25695,
     "versao": "1.0.5"
+   }
+  },
+  "fatos_reais": {
+   "1": {
+    "arquivo": "fatos_reais/1.0.0.pack",
+    "conteudo": "fa990149fb56bc9378c180e7698f3f82837d98b9ae80abeed51a4ee12b0faed7",
+    "notas": "1.0.0: fatos verificados de um tema (Wikipedia no idioma do cliente, cai pro ingles) e de uma musica (MusicBrainz: gravacao mais antiga, album, generos, origem do artista + artigos da musica e do artista). material() devolve bloco pronto pro prompt e termos reais (nomes, lugares, anos) pra tags e pro slopkit. Le nome de arquivo 'Artista - Titulo (Official Video).mp3'. Cache de 7 dias compartilhado em %LOCALAPPDATA%/LikePoints/fatos_cache; sem internet usa a copia antiga. Sem chave, sem conta, so' stdlib.",
+    "publicada_em": "2026-10-15",
+    "requer": [],
+    "revogadas": [],
+    "sha256": "918062dead7cd2601273b42201a16d62a373a1f601879234a2b7b03449fd7096",
+    "tamanho": 13995,
+    "versao": "1.0.0"
    }
   },
   "flow": {
@@ -142,6 +155,19 @@
     "sha256": "7fd988914abead15745cae303a9d4140227157bcf0794b819e8e06f53dfcb7b3",
     "tamanho": 77209,
     "versao": "1.0.7"
+   }
+  },
+  "midia_publica": {
+   "1": {
+    "arquivo": "midia_publica/1.0.0.pack",
+    "conteudo": "d2feb8a3057a2591414799c18c75f90f66712400184635d9c332d500c61e2a04",
+    "notas": "1.0.0: busca foto e video nos 4 acervos em paralelo, so' licenca que serve pra video comercial (dominio publico, CC0, CC BY; BY-SA so' se o app pedir; NC/ND/marca registrada fora), recusa busca vaga (gente generica, verbo vago, ideia abstrata), aderencia por palavra inteira (titulo vale mais), corta repetido e o que ja' foi usado. baixar() resolve o arquivo da NASA, manda o cabecalho exigido pelo Art Institute, grava .part e troca no fim, cancela e limita tamanho. creditos() monta o texto da descricao. Met: busca no v1.1 (o v1 foi aposentado em 01/10/2026). Sem chave, so' stdlib.",
+    "publicada_em": "2026-10-15",
+    "requer": [],
+    "revogadas": [],
+    "sha256": "c1a8aff1b220400e6ca9de9f802c510fe677d13346794e3f68f0a0fe715e69f5",
+    "tamanho": 12479,
+    "versao": "1.0.0"
    }
   },
   "no_ai_slop": {
@@ -289,5 +315,5 @@
    }
   }
  },
- "serie": 144
+ "serie": 145
 }
