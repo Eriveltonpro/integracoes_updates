@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-15 10:34:28",
+ "gerado_em": "2026-10-15 15:25:31",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -77,10 +77,10 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.57.pack",
-    "conteudo": "272839e79dccf7617af3154dd7c012ebbc4fe58e3842f527f9d868cc1ee34e83",
-    "notas": "Chrome aberto pelo WMI via COM, sem PowerShell (antivirus AVG/Avast bloqueava a linha de comando como virus); versao do Chrome lida sem PowerShell",
-    "publicada_em": "2026-10-14",
+    "arquivo": "flow/1.0.58.pack",
+    "conteudo": "85a7ae8669826a01ed91a2bfbb97f23865442b73b410c5e4763f3f3570270603",
+    "notas": "",
+    "publicada_em": "2026-10-15",
     "requer": [
      "selenium",
      "requests",
@@ -88,9 +88,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "e1144c98f0fccb6693e5572e124e128ce45aab39804c4270a9fac88cb868a838",
-    "tamanho": 195737,
-    "versao": "1.0.57"
+    "sha256": "b3b9294fe21915f418cb024381b809b5b3b75a217c2b2cac0341c1b2910be345",
+    "tamanho": 196197,
+    "versao": "1.0.58"
    }
   },
   "gemini_imagens": {
@@ -315,5 +315,5 @@
    }
   }
  },
- "serie": 145
+ "serie": 146
 }
