@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-15 09:46:04",
+ "gerado_em": "2026-10-15 09:53:59",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -144,6 +144,19 @@
     "versao": "1.0.7"
    }
   },
+  "no_ai_slop": {
+   "1": {
+    "arquivo": "no_ai_slop/1.0.0.pack",
+    "conteudo": "9a2ea524b62f590d1826dd0f1651282ed60ea5dc38b99ad8cdd6ae2bcec3f408",
+    "notas": "1.0.0: detector de padroes de texto de IA (PT/EN/ES) com regras da casa + petergyang/no-ai-slop (MIT): jargao, contraste 'nao e X, e Y', abertura enrolada, falso insight, dois-pontos de suspense, gerundio de fachada, fecho-resumo, travessao, emoji, CAPS, cliche de letra, tag generica, teste de portabilidade contra o material e anti-repeticao na fila. gerar_sem_slop() faz retry com o motivo e cai pra reserva do conteudo; nunca entrega generico.",
+    "publicada_em": "2026-10-15",
+    "requer": [],
+    "revogadas": [],
+    "sha256": "b7b57e32425841c92f94aa0303e6f8f5e75442daabdd3746a20fc05b627eaf2e",
+    "tamanho": 15833,
+    "versao": "1.0.0"
+   }
+  },
   "piclumen": {
    "1": {
     "arquivo": "piclumen/1.0.6.pack",
@@ -276,5 +289,5 @@
    }
   }
  },
- "serie": 142
+ "serie": 143
 }
