@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-16 20:13:05",
+ "gerado_em": "2026-10-16 20:40:10",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -172,15 +172,15 @@
   },
   "midia_publica": {
    "1": {
-    "arquivo": "midia_publica/1.0.0.pack",
-    "conteudo": "d2feb8a3057a2591414799c18c75f90f66712400184635d9c332d500c61e2a04",
-    "notas": "1.0.0: busca foto e video nos 4 acervos em paralelo, so' licenca que serve pra video comercial (dominio publico, CC0, CC BY; BY-SA so' se o app pedir; NC/ND/marca registrada fora), recusa busca vaga (gente generica, verbo vago, ideia abstrata), aderencia por palavra inteira (titulo vale mais), corta repetido e o que ja' foi usado. baixar() resolve o arquivo da NASA, manda o cabecalho exigido pelo Art Institute, grava .part e troca no fim, cancela e limita tamanho. creditos() monta o texto da descricao. Met: busca no v1.1 (o v1 foi aposentado em 01/10/2026). Sem chave, so' stdlib.",
-    "publicada_em": "2026-10-15",
+    "arquivo": "midia_publica/1.1.0.pack",
+    "conteudo": "5f8c706b1827d7bdf3cf92f398496ea8d1aee2498d4cf5787f36812f5752ab0b",
+    "notas": "",
+    "publicada_em": "2026-10-16",
     "requer": [],
     "revogadas": [],
-    "sha256": "c1a8aff1b220400e6ca9de9f802c510fe677d13346794e3f68f0a0fe715e69f5",
-    "tamanho": 12479,
-    "versao": "1.0.0"
+    "sha256": "9c0a0d5fec53beb3894067853f520e0cba4cc9f78c34cc558d2f791c548a8aaf",
+    "tamanho": 14715,
+    "versao": "1.1.0"
    }
   },
   "no_ai_slop": {
@@ -328,5 +328,5 @@
    }
   }
  },
- "serie": 172
+ "serie": 173
 }
