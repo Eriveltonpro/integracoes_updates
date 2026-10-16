@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-16 08:09:45",
+ "gerado_em": "2026-10-16 08:09:53",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -284,18 +284,18 @@
   },
   "vids": {
    "1": {
-    "arquivo": "vids/1.0.17.pack",
-    "conteudo": "1aec100fe5ffc95708b100a9121ea0edebaaef3837a81ca99c652545629b969d",
-    "notas": "janela da automacao sem extensoes do cliente (--disable-extensions): sincronizacao da conta Google trazia extensao que cobria o site e travava a fila",
+    "arquivo": "vids/1.0.18.pack",
+    "conteudo": "ac605c4ab00b0e4aa651e47464697296873b1b37c0128293ffe6c733eebc32a3",
+    "notas": "",
     "publicada_em": "2026-10-16",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "20757ddafc11b38548028401cb8e2af9424a552fbdfdb52e02ab1a58b3b941b9",
-    "tamanho": 57087,
-    "versao": "1.0.17"
+    "sha256": "9438c24a0fff9ba6b0ccbed68e212fb5301ce2350c9c28f1bc61269c7521cf1d",
+    "tamanho": 58123,
+    "versao": "1.0.18"
    }
   },
   "youtube_uploader": {
@@ -315,5 +315,5 @@
    }
   }
  },
- "serie": 158
+ "serie": 159
 }
