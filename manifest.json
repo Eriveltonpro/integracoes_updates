@@ -1,19 +1,19 @@
 {
- "gerado_em": "2026-10-16 08:01:01",
+ "gerado_em": "2026-10-16 08:07:22",
  "integracoes": {
   "acemusic": {
    "1": {
-    "arquivo": "acemusic/1.2.0.pack",
-    "conteudo": "d931a11962d251411889b3a9ae4724cf11749e3ca6d0a5ead63863d0c2323fc3",
-    "notas": "Contas Like Points: anuncia as contas deste programa e, com usar_abridor_por_perfil no app, usa as contas ja' logadas em outra ferramenta nossa (mesmo perfil, sem login de novo). Conta aberta em outro programa fica fora do rodizio.",
-    "publicada_em": "2026-10-08",
+    "arquivo": "acemusic/1.2.1.pack",
+    "conteudo": "e96ba2a749fa29b370e1cfcbf657783b95584c916d8b513715bd836f0e4ebf6c",
+    "notas": "",
+    "publicada_em": "2026-10-16",
     "requer": [
      "selenium"
     ],
     "revogadas": [],
-    "sha256": "420f8066439829d5a8f1dd72da994210766525416e252765cadd8a647987d6d9",
-    "tamanho": 35089,
-    "versao": "1.2.0"
+    "sha256": "c42fddfe745d71b91ccba08608f4b68b4e69ec6c062eea3c40f54c452bef8acb",
+    "tamanho": 36225,
+    "versao": "1.2.1"
    }
   },
   "bilibili_uploader": {
@@ -315,5 +315,5 @@
    }
   }
  },
- "serie": 147
+ "serie": 148
 }
