@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-16 08:09:33",
+ "gerado_em": "2026-10-16 08:09:45",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -268,18 +268,18 @@
   },
   "vibes": {
    "1": {
-    "arquivo": "vibes/1.0.6.pack",
-    "conteudo": "b952a47f5bcca4cc3f120c9c2ba766df79ab5f64b483d9cd09434eb4699494ea",
-    "notas": "janela da automacao sem extensoes do cliente (--disable-extensions): sincronizacao da conta Google trazia extensao que cobria o site e travava a fila",
+    "arquivo": "vibes/1.0.7.pack",
+    "conteudo": "4ba525b11e01b2d978d856ee6fd5989ca15c2c1fdc3a40c4b6c1701a2ace95f8",
+    "notas": "",
     "publicada_em": "2026-10-16",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "dc067f93e4d6d5ce433fc6fe7869f00f0b716c25d8513cb668ba514e3bbf5fb4",
-    "tamanho": 42608,
-    "versao": "1.0.6"
+    "sha256": "ad81b58239cfbe1c8432a5fdb067ad2ab3f58db98b991a381ff26a959ce07a85",
+    "tamanho": 43695,
+    "versao": "1.0.7"
    }
   },
   "vids": {
@@ -315,5 +315,5 @@
    }
   }
  },
- "serie": 157
+ "serie": 158
 }
