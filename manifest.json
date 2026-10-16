@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-16 08:07:22",
+ "gerado_em": "2026-10-16 08:07:29",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -18,17 +18,17 @@
   },
   "bilibili_uploader": {
    "1": {
-    "arquivo": "bilibili_uploader/1.0.3.pack",
-    "conteudo": "7aa8f34843008a2e3658d2d6c178dec0391cfb806f08e760aa3ae5cb6bab6efb",
-    "notas": "Leva o registro Like Points de contas (lpcontas) para o app anunciar e achar contas ja' logadas em outras ferramentas.",
-    "publicada_em": "2026-10-08",
+    "arquivo": "bilibili_uploader/1.0.4.pack",
+    "conteudo": "afce8b5300eb2e38e73369ea2fceba89ddae47300fc7c30209a07f25c4bce33d",
+    "notas": "",
+    "publicada_em": "2026-10-16",
     "requer": [
      "selenium"
     ],
     "revogadas": [],
-    "sha256": "d6f034869fddd6547d5c4cbe0229a47bdf374bc15fab03bdbd2b13ef70e8f80d",
-    "tamanho": 29482,
-    "versao": "1.0.3"
+    "sha256": "7704470f6ce83b20a084fa7ac90bb324484d533f1b639729e4a66d839c170de0",
+    "tamanho": 30835,
+    "versao": "1.0.4"
    }
   },
   "chatgpt_imagens": {
@@ -315,5 +315,5 @@
    }
   }
  },
- "serie": 148
+ "serie": 149
 }
