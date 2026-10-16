@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-16 08:09:14",
+ "gerado_em": "2026-10-16 08:09:26",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -185,18 +185,18 @@
   },
   "piclumen": {
    "1": {
-    "arquivo": "piclumen/1.0.7.pack",
-    "conteudo": "d5e302f76405b172665cc7a2d40616a327ac72f77a70435263efdeb788cded38",
-    "notas": "janela da automacao sem extensoes do cliente (--disable-extensions): sincronizacao da conta Google trazia extensao que cobria o site e travava a fila",
+    "arquivo": "piclumen/1.0.8.pack",
+    "conteudo": "e09a6d615670d0d93c6a1dc57ea611b838c973ca7133dd902a7a02155efccff6",
+    "notas": "",
     "publicada_em": "2026-10-16",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "c40147c347dc7e6e7b849af3c8feffeb4b43c124af7f3d981c225259f02c9dbd",
-    "tamanho": 39335,
-    "versao": "1.0.7"
+    "sha256": "079e8b2f0e2e4dc92ed19e25f9d84cdb0fc61bd3fca3b8c407af7419004fa07f",
+    "tamanho": 40212,
+    "versao": "1.0.8"
    }
   },
   "suno": {
@@ -315,5 +315,5 @@
    }
   }
  },
- "serie": 155
+ "serie": 156
 }
