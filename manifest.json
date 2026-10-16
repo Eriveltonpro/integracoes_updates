@@ -1,19 +1,19 @@
 {
- "gerado_em": "2026-10-16 09:25:55",
+ "gerado_em": "2026-10-16 09:26:07",
  "integracoes": {
   "acemusic": {
    "1": {
-    "arquivo": "acemusic/1.2.1.pack",
-    "conteudo": "e96ba2a749fa29b370e1cfcbf657783b95584c916d8b513715bd836f0e4ebf6c",
+    "arquivo": "acemusic/1.2.2.pack",
+    "conteudo": "5e3426e94c2551b415d404266360f40ec4bb3f98efe8336d8a44dcb1d4cdd278",
     "notas": "",
     "publicada_em": "2026-10-16",
     "requer": [
      "selenium"
     ],
     "revogadas": [],
-    "sha256": "c42fddfe745d71b91ccba08608f4b68b4e69ec6c062eea3c40f54c452bef8acb",
-    "tamanho": 36225,
-    "versao": "1.2.1"
+    "sha256": "ef95d6dd91064e4f9eadfe6a8679d193d70a1f15f2bcd65c02e3fa2ffb6088b7",
+    "tamanho": 36334,
+    "versao": "1.2.2"
    }
   },
   "bilibili_uploader": {
@@ -315,5 +315,5 @@
    }
   }
  },
- "serie": 166
+ "serie": 167
 }
