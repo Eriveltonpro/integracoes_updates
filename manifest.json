@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-15 15:25:31",
+ "gerado_em": "2026-10-16 08:01:01",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -77,10 +77,10 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.58.pack",
-    "conteudo": "85a7ae8669826a01ed91a2bfbb97f23865442b73b410c5e4763f3f3570270603",
-    "notas": "",
-    "publicada_em": "2026-10-15",
+    "arquivo": "flow/1.0.59.pack",
+    "conteudo": "c24ead1fd0082d4f1c6516e6548c539c47cfc74c46dcc8911c2036783e3935ef",
+    "notas": "janela da automacao sem extensoes do cliente (--disable-extensions): sincronizacao da conta Google trazia extensao que cobria o site e travava a fila",
+    "publicada_em": "2026-10-16",
     "requer": [
      "selenium",
      "requests",
@@ -88,41 +88,41 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "b3b9294fe21915f418cb024381b809b5b3b75a217c2b2cac0341c1b2910be345",
-    "tamanho": 196197,
-    "versao": "1.0.58"
+    "sha256": "a5d1260bd03ff4efb2b4bc45fb14c7e04f36ac69e8c77cb9d53a4f01588718a5",
+    "tamanho": 196200,
+    "versao": "1.0.59"
    }
   },
   "gemini_imagens": {
    "1": {
-    "arquivo": "gemini_imagens/1.0.5.pack",
-    "conteudo": "0420c14af3f087ca6885ad4862f496895e1d7fe0d1609f765b28a6b63d1aab7b",
-    "notas": "Chrome aberto pelo WMI via COM, sem PowerShell (antivirus AVG/Avast bloqueava a linha de comando como virus); versao do Chrome lida sem PowerShell",
-    "publicada_em": "2026-10-14",
+    "arquivo": "gemini_imagens/1.0.6.pack",
+    "conteudo": "77417874059b670f3d7e25b68302d1cae8de258bf6577b3b625c5674f715d8a5",
+    "notas": "janela da automacao sem extensoes do cliente (--disable-extensions): sincronizacao da conta Google trazia extensao que cobria o site e travava a fila",
+    "publicada_em": "2026-10-16",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "2fac8cb726804ea204980042bf1376760f51d744e07c119d598ab8533ec4ef87",
-    "tamanho": 41462,
-    "versao": "1.0.5"
+    "sha256": "07b1540e69c6151c26f1b910f635008a0af7a62348d4c0d5605e2351e911c882",
+    "tamanho": 41472,
+    "versao": "1.0.6"
    }
   },
   "grok": {
    "1": {
-    "arquivo": "grok/1.0.5.pack",
-    "conteudo": "0cc0d499f3b5c42462b6f1a93e32ab299d1f965be97ba8681101bbeff417aa26",
-    "notas": "Chrome aberto pelo WMI via COM, sem PowerShell (antivirus AVG/Avast bloqueava a linha de comando como virus); versao do Chrome lida sem PowerShell",
-    "publicada_em": "2026-10-14",
+    "arquivo": "grok/1.0.6.pack",
+    "conteudo": "5daac4ce866a4d7647a8ca4cbf6d3c4c0f2b77020e76359ba9292e4940e86839",
+    "notas": "janela da automacao sem extensoes do cliente (--disable-extensions): sincronizacao da conta Google trazia extensao que cobria o site e travava a fila",
+    "publicada_em": "2026-10-16",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "e8aa2f9db14b8041e3b19b1566578dff2f22b8cdea539de3e73fe0f4180c49a6",
-    "tamanho": 42512,
-    "versao": "1.0.5"
+    "sha256": "dadbbd4d4495e07dee8a8f46875053054da8ae907d6180be34ad949a10ff9d7e",
+    "tamanho": 42518,
+    "versao": "1.0.6"
    }
   },
   "instagram_uploader": {
@@ -185,18 +185,18 @@
   },
   "piclumen": {
    "1": {
-    "arquivo": "piclumen/1.0.6.pack",
-    "conteudo": "ac44940b1d15b760da8400bc83345ad63704737822377ad9d90a1707d85ce3bb",
-    "notas": "Chrome aberto pelo WMI via COM, sem PowerShell (antivirus AVG/Avast bloqueava a linha de comando como virus); versao do Chrome lida sem PowerShell",
-    "publicada_em": "2026-10-14",
+    "arquivo": "piclumen/1.0.7.pack",
+    "conteudo": "d5e302f76405b172665cc7a2d40616a327ac72f77a70435263efdeb788cded38",
+    "notas": "janela da automacao sem extensoes do cliente (--disable-extensions): sincronizacao da conta Google trazia extensao que cobria o site e travava a fila",
+    "publicada_em": "2026-10-16",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "b3a62f5295682346a98806ddc36942f23ad334f153f49de54be5b89400efe1a8",
+    "sha256": "c40147c347dc7e6e7b849af3c8feffeb4b43c124af7f3d981c225259f02c9dbd",
     "tamanho": 39335,
-    "versao": "1.0.6"
+    "versao": "1.0.7"
    }
   },
   "suno": {
@@ -268,34 +268,34 @@
   },
   "vibes": {
    "1": {
-    "arquivo": "vibes/1.0.5.pack",
-    "conteudo": "ca8c896cf4f361af450e255d1d6f66ad79fd20a6aa653d875a3a3cd23c054e55",
-    "notas": "Chrome aberto pelo WMI via COM, sem PowerShell (antivirus AVG/Avast bloqueava a linha de comando como virus); versao do Chrome lida sem PowerShell",
-    "publicada_em": "2026-10-14",
+    "arquivo": "vibes/1.0.6.pack",
+    "conteudo": "b952a47f5bcca4cc3f120c9c2ba766df79ab5f64b483d9cd09434eb4699494ea",
+    "notas": "janela da automacao sem extensoes do cliente (--disable-extensions): sincronizacao da conta Google trazia extensao que cobria o site e travava a fila",
+    "publicada_em": "2026-10-16",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "e54ce77d72d7f19b257186d11e43fc0026dd0a1390fbdb22f65b8eb7cc519b98",
-    "tamanho": 42600,
-    "versao": "1.0.5"
+    "sha256": "dc067f93e4d6d5ce433fc6fe7869f00f0b716c25d8513cb668ba514e3bbf5fb4",
+    "tamanho": 42608,
+    "versao": "1.0.6"
    }
   },
   "vids": {
    "1": {
-    "arquivo": "vids/1.0.16.pack",
-    "conteudo": "64b743c62aa86d1645ef5fe7ed8b98f5201e51cd48b4586b9046a40ad0f345da",
-    "notas": "",
-    "publicada_em": "2026-10-15",
+    "arquivo": "vids/1.0.17.pack",
+    "conteudo": "1aec100fe5ffc95708b100a9121ea0edebaaef3837a81ca99c652545629b969d",
+    "notas": "janela da automacao sem extensoes do cliente (--disable-extensions): sincronizacao da conta Google trazia extensao que cobria o site e travava a fila",
+    "publicada_em": "2026-10-16",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "78194b8f2f2134e47ca20872acb6cd792a81eb3d08f1fd6860d6d87c452cc23e",
-    "tamanho": 57068,
-    "versao": "1.0.16"
+    "sha256": "20757ddafc11b38548028401cb8e2af9424a552fbdfdb52e02ab1a58b3b941b9",
+    "tamanho": 57087,
+    "versao": "1.0.17"
    }
   },
   "youtube_uploader": {
@@ -315,5 +315,5 @@
    }
   }
  },
- "serie": 146
+ "serie": 147
 }
