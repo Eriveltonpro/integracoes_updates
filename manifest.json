@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-16 20:12:36",
+ "gerado_em": "2026-10-16 20:13:05",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -29,6 +29,19 @@
     "sha256": "7704470f6ce83b20a084fa7ac90bb324484d533f1b639729e4a66d839c170de0",
     "tamanho": 30835,
     "versao": "1.0.4"
+   }
+  },
+  "busca_web": {
+   "1": {
+    "arquivo": "busca_web/1.0.0.pack",
+    "conteudo": "9e8926ecfbd8b75850b56643d030d4b41f2d2c93af6b1b4b44479b86a5a9daff",
+    "notas": "1.0.0: busca web em varios motores ao mesmo tempo (DuckDuckGo html + Bing rss, Bing html de reserva, Google Custom Search so' com chave do cliente) juntada por posicao (RRF) e sem repetido; imagens Bing + DuckDuckGo (+ Google com chave); extrair() le pagina em markdown/texto (tira menu/rodape/cookie, corta bloco de link, acha o conteudo principal, rede de seguranca pra capa de portal), metadados, JSON-LD, links, imagens, contatos, seletor CSS e regras 'css @attr'; ler_pagina com escada direto -> Scrapling (se houver) -> Chrome do app (gancho), deteccao de tela de robo; mapa (robots + sitemap com indice) e rastrear (largura, robots Disallow, www=sem www, 3 ao mesmo tempo); pesquisar() = busca + le as melhores -> bloco pro prompt; noticias (Google Noticias rss); sugestoes e palavras_chave (autocompletar Google/YouTube/Bing/DDG); YouTube sem chave pela API interna (busca, video, legenda json3, canal por RSS). Cache em %LOCALAPPDATA%/LikePoints/busca_cache. So' stdlib.",
+    "publicada_em": "2026-10-16",
+    "requer": [],
+    "revogadas": [],
+    "sha256": "48adcd8b4af63e089f6cd663ea02a2029f1a1a9e10972aa82619532baaf498cd",
+    "tamanho": 34088,
+    "versao": "1.0.0"
    }
   },
   "chatgpt_imagens": {
@@ -315,5 +328,5 @@
    }
   }
  },
- "serie": 171
+ "serie": 172
 }
