@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-16 08:08:56",
+ "gerado_em": "2026-10-16 08:09:05",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -127,17 +127,17 @@
   },
   "instagram_uploader": {
    "1": {
-    "arquivo": "instagram_uploader/1.0.1.pack",
-    "conteudo": "0f830259abac641e3438c3b46ebf9fcc018868d3a3b1a28706aee04b974b14d2",
-    "notas": "Leva o registro Like Points de contas (lpcontas) para o app anunciar e achar contas ja' logadas em outras ferramentas.",
-    "publicada_em": "2026-10-08",
+    "arquivo": "instagram_uploader/1.0.2.pack",
+    "conteudo": "35564ac299e28a11ec9bd0a2b4ab18c5e461420568401b42948800c524709225",
+    "notas": "",
+    "publicada_em": "2026-10-16",
     "requer": [
      "selenium"
     ],
     "revogadas": [],
-    "sha256": "1b0219aff36237f034c20c91a88711df6feee93fa97000853f576442ab40ccdb",
-    "tamanho": 21047,
-    "versao": "1.0.1"
+    "sha256": "332a676d44487b096614e973a029613a3a44830b707a42edab04f587dd147c41",
+    "tamanho": 22178,
+    "versao": "1.0.2"
    }
   },
   "meta_ai": {
@@ -315,5 +315,5 @@
    }
   }
  },
- "serie": 153
+ "serie": 154
 }
