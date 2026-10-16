@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-16 08:08:31",
+ "gerado_em": "2026-10-16 08:08:43",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -95,18 +95,18 @@
   },
   "gemini_imagens": {
    "1": {
-    "arquivo": "gemini_imagens/1.0.6.pack",
-    "conteudo": "77417874059b670f3d7e25b68302d1cae8de258bf6577b3b625c5674f715d8a5",
-    "notas": "janela da automacao sem extensoes do cliente (--disable-extensions): sincronizacao da conta Google trazia extensao que cobria o site e travava a fila",
+    "arquivo": "gemini_imagens/1.0.7.pack",
+    "conteudo": "23e7c54583b6feb21992bc0486daf9646744f0dd315120474d3a09ca9a7ec061",
+    "notas": "",
     "publicada_em": "2026-10-16",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "07b1540e69c6151c26f1b910f635008a0af7a62348d4c0d5605e2351e911c882",
-    "tamanho": 41472,
-    "versao": "1.0.6"
+    "sha256": "6d1ac24698515f3d47c6bdbc8c9cda73c33016cc57625176b486407f3c617569",
+    "tamanho": 42547,
+    "versao": "1.0.7"
    }
   },
   "grok": {
@@ -315,5 +315,5 @@
    }
   }
  },
- "serie": 151
+ "serie": 152
 }
