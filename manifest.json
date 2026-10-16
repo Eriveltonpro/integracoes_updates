@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-16 08:09:53",
+ "gerado_em": "2026-10-16 08:10:45",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -300,20 +300,20 @@
   },
   "youtube_uploader": {
    "1": {
-    "arquivo": "youtube_uploader/1.0.19.pack",
-    "conteudo": "9339ede6ae1e3e079ba39ea4640774640e4b8494e3d5435702180ad3ea701440",
-    "notas": "Troca de capa: Studio pos uma miniatura (ytcp-thumbnail) antes do bloco de capa e o app conferia ali, dizendo que o Studio nao mostrou a capa",
-    "publicada_em": "2026-10-14",
+    "arquivo": "youtube_uploader/1.0.20.pack",
+    "conteudo": "a440f2d9004ae7dacaa87ce00c0a61f74aa9230425639d7d59a5c154dc3da09a",
+    "notas": "",
+    "publicada_em": "2026-10-16",
     "requer": [
      "selenium",
      "requests"
     ],
     "revogadas": [],
-    "sha256": "80d9383caf581ca98b9dbae4e00c99584c93f5a83e3857ad8dd2a39e5ffc2fca",
-    "tamanho": 116787,
-    "versao": "1.0.19"
+    "sha256": "5daff1009c825286a347ef8a361c98212ced1ece6b4d16e4df28cb539ff1a190",
+    "tamanho": 117772,
+    "versao": "1.0.20"
    }
   }
  },
- "serie": 159
+ "serie": 160
 }
