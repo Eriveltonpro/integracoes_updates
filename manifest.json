@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-16 08:07:29",
+ "gerado_em": "2026-10-16 08:08:21",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -33,18 +33,18 @@
   },
   "chatgpt_imagens": {
    "1": {
-    "arquivo": "chatgpt_imagens/1.6.3.pack",
-    "conteudo": "44b19b8415539f044b37ba80c578bb9868f194a9fd4a06c37f2007a91e0766c6",
-    "notas": "Chrome da conta aberto segurava o arquivo do login e o app dizia 'nenhuma conta conectada', pulando o ChatGPT em toda capa",
-    "publicada_em": "2026-10-14",
+    "arquivo": "chatgpt_imagens/1.6.4.pack",
+    "conteudo": "df878c099e072908a0d8c3ecb72df2b56cf17845dd10823c7563970617fec3ab",
+    "notas": "",
+    "publicada_em": "2026-10-16",
     "requer": [
      "selenium",
      "PIL"
     ],
     "revogadas": [],
-    "sha256": "ace50b657d4fd71a0fb6c4c90fa4a0966a84959d36eefc4d9c0d2bd45f0f1b26",
-    "tamanho": 37177,
-    "versao": "1.6.3"
+    "sha256": "0ea4b88254720f1787237ec389cd6da5328d528d8229aedfca02d2ffd450191b",
+    "tamanho": 38254,
+    "versao": "1.6.4"
    }
   },
   "facebook_uploader": {
@@ -315,5 +315,5 @@
    }
   }
  },
- "serie": 149
+ "serie": 150
 }
