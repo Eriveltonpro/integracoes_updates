@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-16 21:08:44",
+ "gerado_em": "2026-10-17 06:56:14",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -14,6 +14,22 @@
     "sha256": "ef95d6dd91064e4f9eadfe6a8679d193d70a1f15f2bcd65c02e3fa2ffb6088b7",
     "tamanho": 36334,
     "versao": "1.2.2"
+   }
+  },
+  "auth_login": {
+   "1": {
+    "arquivo": "auth_login/1.0.0.pack",
+    "conteudo": "661c4da5200c0f1a9ec0acff18b4b264c4b3d28337daa5e73983dbf3e5a58b40",
+    "notas": "1.0.0: copia do login padrao (Validar_auth) + sessao longa (negacao confirmada em 2a consulta, vigia que acorda depois do PC dormir, pausa sem perder a fila apos 2 h sem conferir e retomada sozinha) + aviso de propriedade intelectual Like Points na tela de login e no log.",
+    "publicada_em": "2026-10-17",
+    "requer": [
+     "requests",
+     "flask"
+    ],
+    "revogadas": [],
+    "sha256": "5dac055936badc0651577854f3936319548ae68ab385a30d4f1b9013caf10f7b",
+    "tamanho": 18669,
+    "versao": "1.0.0"
    }
   },
   "bilibili_uploader": {
@@ -196,6 +212,19 @@
     "versao": "1.0.0"
    }
   },
+  "pesquisa_redes": {
+   "1": {
+    "arquivo": "pesquisa_redes/1.0.0.pack",
+    "conteudo": "7dfcb54af571444947ba6e6d596d44bc607749b42e69441c8b703c4c4336aefd",
+    "notas": "1.0.0: pesquisar() em paralelo nas redes, item unico (titulo, url, autor, views, likes, comentarios, data_iso, por_hora), ordem relevancia/recentes/views/bombando, periodo hora..ano, usados, cache 15 min. Escada por rede: YouTube HasData -> busca publica do site (sem chave); TikTok HasData; X Xquik; Reddit app do cliente (OAuth) -> search.json publico (bloqueado pelo Reddit em 10/2026, fica de reserva). Rodizio de chaves, chave recusada/sem credito fora 1 h. perfil() Instagram/Facebook/TikTok via HasData. conferir() teste real por rede. resumo_para_ia() material real pro prompt. Base: MCPs HasData (MIT), Xquik (MIT), reddit-research-mcp (MIT) - chamadas REST diretas, sem MCP no cliente. So' stdlib.",
+    "publicada_em": "2026-10-17",
+    "requer": [],
+    "revogadas": [],
+    "sha256": "f7ed55273920b5113b97d5647eb7590a1b810960f4b9c9c33bda7e7a4ba8f09c",
+    "tamanho": 14260,
+    "versao": "1.0.0"
+   }
+  },
   "piclumen": {
    "1": {
     "arquivo": "piclumen/1.0.9.pack",
@@ -225,6 +254,32 @@
     "sha256": "77e0f60228eb9fb74eb8e1f720e3eae59a65650f56eea95bca51409470822901",
     "tamanho": 37058,
     "versao": "1.2.0"
+   }
+  },
+  "tendencias": {
+   "1": {
+    "arquivo": "tendencias/1.0.0.pack",
+    "conteudo": "cafd45ab8152d845ef188028637e6e6408ed2e23e488104e04dbbc3d0a88bb6c",
+    "notas": "1.0.0: interesse/comparar (ate' 5 termos, web/youtube/noticias/imagens/compras, resumo subindo/caindo/estavel sem o ponto parcial), relacionadas (buscas ou assuntos: subindo com +%/Disparou e top), por_regiao (pais/estado/metro/cidade), em_alta (RSS do Google, com noticias), sugestoes (autocompletar), ideias (pautas com motivo, sem usados) e material_para_ia. Escada Trends: HasData (chave do cliente) -> Google direto com cookie NID (sem chave). academico: Google Scholar (HasData) -> OpenAlex -> Crossref, filtro de assunto e ordem local; citacao pelo DOI (doi.org, ABNT/APA/MLA/Chicago/Harvard/Vancouver) ou pelo Scholar. pesquisa_verificada: LastSearch (chave do cliente), fontes com link morto/risco alto fora. Rodizio de chave (fora 1 h), cache 15 min. Base: MCPs HasData google-trends/google-scholar (MIT) e LastSearch/BrowserAI-Dev (Apache 2.0) - chamadas REST diretas, sem MCP no cliente. So' stdlib.",
+    "publicada_em": "2026-10-17",
+    "requer": [],
+    "revogadas": [],
+    "sha256": "fd2463da3017b35a89e0d8968c6a1c06af0e096a312abc73f5d22c266e1b6333",
+    "tamanho": 18698,
+    "versao": "1.0.0"
+   }
+  },
+  "traducao": {
+   "1": {
+    "arquivo": "traducao/1.0.0.pack",
+    "conteudo": "47ff2e93d5519260269fcfcc2bb67f4d9bb97a6f37206b9c9ff86b733dd17592",
+    "notas": "1.0.0: escada memoria -> IA do app (auth.ai_chat) -> Google gtx -> MyMemory -> LibreTranslate. Protege variavel/tag/link/@perfil/marca com marcador e confere a volta; validador (vazia, igual, ficou no idioma de origem, tamanho, numero, variavel, glossario, linhas, conversa da IA); IA ganha retry com o motivo. Variantes pt-BR/pt-PT, es-419/es-ES, en-US/en-GB, zh-CN/zh-TW. Memoria de traducao sqlite compartilhada em %LOCALAPPDATA%/LikePoints/traducao. Base de ideias: DialectOS (Apache-2.0), kaeris-mcp, lara-mcp, xcomet-mcp-server (MIT). So' stdlib.",
+    "publicada_em": "2026-10-17",
+    "requer": [],
+    "revogadas": [],
+    "sha256": "87f5ed1cf2eda4f5dae8fed455482530480aec7e6769c56e43a03eb618f4ece1",
+    "tamanho": 24768,
+    "versao": "1.0.0"
    }
   },
   "transcricao_local": {
@@ -328,5 +383,5 @@
    }
   }
  },
- "serie": 174
+ "serie": 175
 }
