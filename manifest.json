@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-16 20:40:10",
+ "gerado_em": "2026-10-16 21:08:44",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -214,17 +214,17 @@
   },
   "suno": {
    "1": {
-    "arquivo": "suno/1.1.1.pack",
-    "conteudo": "1041a62c423ab5b4a8ec988498707a5cfac23a604287e2690726f5293f3f9226",
-    "notas": "",
-    "publicada_em": "2026-10-12",
+    "arquivo": "suno/1.2.0.pack",
+    "conteudo": "db7434528507c482e648ce1d09d6ca137d4dee489c550312d2b9ba6bb8a21e49",
+    "notas": "1.2.0: vozes (Persona) por nome, criar voz privada, estender, cover, remasterizar, separar vozes; gerar_musica com voz/estender_de/cover_de",
+    "publicada_em": "2026-10-16",
     "requer": [
      "selenium"
     ],
     "revogadas": [],
-    "sha256": "5d602b78a3321be5fa0bdf32ca94e4a07bc3d62311f06de780e184b970da7247",
-    "tamanho": 32812,
-    "versao": "1.1.1"
+    "sha256": "77e0f60228eb9fb74eb8e1f720e3eae59a65650f56eea95bca51409470822901",
+    "tamanho": 37058,
+    "versao": "1.2.0"
    }
   },
   "transcricao_local": {
@@ -328,5 +328,5 @@
    }
   }
  },
- "serie": 173
+ "serie": 174
 }
