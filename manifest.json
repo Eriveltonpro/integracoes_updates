@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-18 09:53:22",
+ "gerado_em": "2026-10-18 10:27:16",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -258,6 +258,19 @@
     "versao": "1.0.0"
    }
   },
+  "roteiro": {
+   "1": {
+    "arquivo": "roteiro/1.0.0.pack",
+    "conteudo": "6c0fd3a87f984afa09368da187dd1b3a496a340ff0353fa1a47c5a5a2b689614",
+    "notas": "1.0.0: motor do ScriptForge sem banco e sem chave (IA vem do app por usar_ia). modelar (DNA do canal/video de referencia), titulos (contrato do titulo com N itens), roteiro (plano + capitulos + ajuste de tamanho, idioma forcado por endonimo), cenas (frases -> cenas de 2,5-8 s coladas, sem buraco), biblia visual, prompts por lote de 10 com estilo (14 estilos) e busca de banco especifica, plano de midia video/imagem/banco.",
+    "publicada_em": "2026-10-18",
+    "requer": [],
+    "revogadas": [],
+    "sha256": "4bc4b487b97dfeb081ee4fe76ab728271fdd6b604442c738ff96db5938e52b9d",
+    "tamanho": 15885,
+    "versao": "1.0.0"
+   }
+  },
   "suno": {
    "1": {
     "arquivo": "suno/1.2.0.pack",
@@ -400,5 +413,5 @@
    }
   }
  },
- "serie": 177
+ "serie": 178
 }
