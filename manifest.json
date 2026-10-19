@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-19 13:51:17",
+ "gerado_em": "2026-10-19 14:30:12",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -106,10 +106,10 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.59.pack",
-    "conteudo": "c24ead1fd0082d4f1c6516e6548c539c47cfc74c46dcc8911c2036783e3935ef",
-    "notas": "janela da automacao sem extensoes do cliente (--disable-extensions): sincronizacao da conta Google trazia extensao que cobria o site e travava a fila",
-    "publicada_em": "2026-10-16",
+    "arquivo": "flow/1.0.60.pack",
+    "conteudo": "c47713bd58c5e55321c4fd7a3e19d216e1b31a12bba881f55343e219fa535814",
+    "notas": "",
+    "publicada_em": "2026-10-19",
     "requer": [
      "selenium",
      "requests",
@@ -117,9 +117,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "a5d1260bd03ff4efb2b4bc45fb14c7e04f36ac69e8c77cb9d53a4f01588718a5",
-    "tamanho": 196200,
-    "versao": "1.0.59"
+    "sha256": "3503806604d3e6c29e119788bf1dba700e808860cf77313e9e3b06b78e3e9ca9",
+    "tamanho": 197572,
+    "versao": "1.0.60"
    }
   },
   "gemini_imagens": {
@@ -413,5 +413,5 @@
    }
   }
  },
- "serie": 181
+ "serie": 182
 }
