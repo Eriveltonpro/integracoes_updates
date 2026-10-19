@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-19 17:30:14",
+ "gerado_em": "2026-10-19 17:52:55",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -29,6 +29,19 @@
     "revogadas": [],
     "sha256": "5dac055936badc0651577854f3936319548ae68ab385a30d4f1b9013caf10f7b",
     "tamanho": 18669,
+    "versao": "1.0.0"
+   }
+  },
+  "avatar_narrador": {
+   "1": {
+    "arquivo": "avatar_narrador/1.0.0.pack",
+    "conteudo": "83addfd41130cc7a2cd500c5e20e48b0578939c681d213e96aa3e6bce68ddf3d",
+    "notas": "1.0.0: 10 personas (videos no repo publico integracoes_updates/avatares, baixados sob demanda para %LOCALAPPDATA%\\LikePoints\\avatares e compartilhados entre os apps), previa animada na galeria, video do proprio cliente ate 30 s (compartilhado entre os apps), 4 cantos, 3 tamanhos, redondo/quadrado, inicio depois do gancho, sobe acima da faixa do Shorts. Rotas Flask + widget.js prontos, 6 idiomas. So stdlib + ffmpeg do app.",
+    "publicada_em": "2026-10-19",
+    "requer": [],
+    "revogadas": [],
+    "sha256": "218473cf7a61e268794a5b11fd8e4400dcbf660fefb341f9667959c4a7173d0d",
+    "tamanho": 25494,
     "versao": "1.0.0"
    }
   },
@@ -413,5 +426,5 @@
    }
   }
  },
- "serie": 184
+ "serie": 185
 }
