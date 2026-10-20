@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-20 10:05:18",
+ "gerado_em": "2026-10-20 10:29:42",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -119,9 +119,9 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.63.pack",
-    "conteudo": "8ecf26336f0429966f99b65c7999ea1d772d0d1672ffb99be5b0b67446472c01",
-    "notas": "janela posta na tela aceita o clique do cliente (sai a recusa de foco depois da abertura); mostrar janela traz a conta que espera o cliente",
+    "arquivo": "flow/1.0.64.pack",
+    "conteudo": "812a1f91d398dca92e49af2fb6735e45dbe7064012ac176c771027d8042a253d",
+    "notas": "caixa Review our privacy policy fecha sozinha (Continue, nunca Previous)",
     "publicada_em": "2026-10-20",
     "requer": [
      "selenium",
@@ -130,9 +130,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "388b302a90d6c7a5067984761c376d4c4fb1e6d25ad81ed1800031316817e691",
-    "tamanho": 198798,
-    "versao": "1.0.63"
+    "sha256": "dfbc7562c47dc3bf5e42dbe096b3de56bcaf7fb37a9a90ed2112153fe8847a96",
+    "tamanho": 199095,
+    "versao": "1.0.64"
    }
   },
   "gemini_imagens": {
@@ -426,5 +426,5 @@
    }
   }
  },
- "serie": 191
+ "serie": 192
 }
