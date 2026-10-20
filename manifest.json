@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-20 09:51:08",
+ "gerado_em": "2026-10-20 09:51:46",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -347,17 +347,17 @@
   },
   "treblo": {
    "1": {
-    "arquivo": "treblo/1.0.3.pack",
-    "conteudo": "ada1027b89bbdcf8ad22d872671c1f5da4fc298126a7918cb199e11765b9c32d",
-    "notas": "",
-    "publicada_em": "2026-10-16",
+    "arquivo": "treblo/1.0.4.pack",
+    "conteudo": "934676123b53b67ab04ce6b332c9492ed12d8cedab1f71a1bc45b8cfa780cd94",
+    "notas": "tela nova do Treblo (sem abas, Generate por aria-label): pedido volta a sair",
+    "publicada_em": "2026-10-20",
     "requer": [
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "febf1fae6cf2f305348425aba0fcce5365d8a43644a04b3e7e1fb1fd9b5587cf",
-    "tamanho": 25803,
-    "versao": "1.0.3"
+    "sha256": "14487a09495eae4dfad6e690e4d7d8d7163001ae7d9f0d20188e7933e20725a6",
+    "tamanho": 25998,
+    "versao": "1.0.4"
    }
   },
   "tts_likepoints": {
@@ -426,5 +426,5 @@
    }
   }
  },
- "serie": 187
+ "serie": 188
 }
