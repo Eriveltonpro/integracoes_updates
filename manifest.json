@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-20 14:56:24",
+ "gerado_em": "2026-10-20 15:41:50",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -284,6 +284,19 @@
     "versao": "1.0.1"
    }
   },
+  "separar_audio": {
+   "1": {
+    "arquivo": "separar_audio/1.0.0.pack",
+    "conteudo": "15845f7fb6db41ab1f18138e28ed841aafd5ffe1854c0bb7c2daa0109b903531",
+    "notas": "1.0.0: Demucs v4 htdemucs (Meta, MIT) num ambiente proprio (Python 3.12 + PyTorch 2.7.1 CPU ou CUDA 12.8 + demucs 4.1.0) instalado por botao dentro do app, uma vez por computador, em %LOCALAPPDATA%\\LikePoints\\separar_audio. separar(arquivo, pasta, ini, fim) -> voz/bateria/baixo/outros em m4a, mesmo tamanho do trecho. Placa NVIDIA (compute 7+, 4 GB+) usa CUDA; sem memoria na placa cai pro processador. Processo em prioridade baixa, cancelavel, progresso real.",
+    "publicada_em": "2026-10-20",
+    "requer": [],
+    "revogadas": [],
+    "sha256": "dc3ffa241302412db810a98542f9a8bd43e312839fdad80ab428976333259794",
+    "tamanho": 11683,
+    "versao": "1.0.0"
+   }
+  },
   "suno": {
    "1": {
     "arquivo": "suno/1.3.1.pack",
@@ -426,5 +439,5 @@
    }
   }
  },
- "serie": 195
+ "serie": 196
 }
