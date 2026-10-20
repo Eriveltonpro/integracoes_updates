@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-20 14:26:10",
+ "gerado_em": "2026-10-20 14:26:18",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -214,15 +214,15 @@
   },
   "no_ai_slop": {
    "1": {
-    "arquivo": "no_ai_slop/1.0.0.pack",
-    "conteudo": "9a2ea524b62f590d1826dd0f1651282ed60ea5dc38b99ad8cdd6ae2bcec3f408",
-    "notas": "1.0.0: detector de padroes de texto de IA (PT/EN/ES) com regras da casa + petergyang/no-ai-slop (MIT): jargao, contraste 'nao e X, e Y', abertura enrolada, falso insight, dois-pontos de suspense, gerundio de fachada, fecho-resumo, travessao, emoji, CAPS, cliche de letra, tag generica, teste de portabilidade contra o material e anti-repeticao na fila. gerar_sem_slop() faz retry com o motivo e cai pra reserva do conteudo; nunca entrega generico.",
-    "publicada_em": "2026-10-15",
+    "arquivo": "no_ai_slop/1.0.1.pack",
+    "conteudo": "8df87e9bd115a37d2cb0500910677e81284952565e0237c7dae1fcf2f59d6e70",
+    "notas": "",
+    "publicada_em": "2026-10-20",
     "requer": [],
     "revogadas": [],
-    "sha256": "b7b57e32425841c92f94aa0303e6f8f5e75442daabdd3746a20fc05b627eaf2e",
-    "tamanho": 15833,
-    "versao": "1.0.0"
+    "sha256": "f47e4e60b23efc5589f3ad478a1585781248baeaffa1782e7f908d58ccbf8a4d",
+    "tamanho": 17057,
+    "versao": "1.0.1"
    }
   },
   "pesquisa_redes": {
@@ -426,5 +426,5 @@
    }
   }
  },
- "serie": 193
+ "serie": 194
 }
