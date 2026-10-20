@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-20 09:55:26",
+ "gerado_em": "2026-10-20 10:01:23",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -347,17 +347,17 @@
   },
   "treblo": {
    "1": {
-    "arquivo": "treblo/1.0.4.pack",
-    "conteudo": "934676123b53b67ab04ce6b332c9492ed12d8cedab1f71a1bc45b8cfa780cd94",
-    "notas": "tela nova do Treblo (sem abas, Generate por aria-label): pedido volta a sair",
+    "arquivo": "treblo/1.0.5.pack",
+    "conteudo": "5afce6e2659397475cd34f82e37ee80e5ae03a409ea6b8027c1c5529ec891d4b",
+    "notas": "1.0.5: campo e botao Generate procurados no MESMO bloco da tela nova (campo 'Song description', botao so de icone); tela antiga com abas segue funcionando; testado com pedido real (2 faixas baixadas)",
     "publicada_em": "2026-10-20",
     "requer": [
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "14487a09495eae4dfad6e690e4d7d8d7163001ae7d9f0d20188e7933e20725a6",
-    "tamanho": 25998,
-    "versao": "1.0.4"
+    "sha256": "81a37da36278ef59e78d79bc55d53ea6ab9fa87bd1d08a9b269ed10614d6597d",
+    "tamanho": 26312,
+    "versao": "1.0.5"
    }
   },
   "tts_likepoints": {
@@ -426,5 +426,5 @@
    }
   }
  },
- "serie": 189
+ "serie": 190
 }
