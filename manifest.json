@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-20 15:41:50",
+ "gerado_em": "2026-10-21 10:22:19",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -18,18 +18,18 @@
   },
   "auth_login": {
    "1": {
-    "arquivo": "auth_login/1.0.0.pack",
-    "conteudo": "661c4da5200c0f1a9ec0acff18b4b264c4b3d28337daa5e73983dbf3e5a58b40",
-    "notas": "1.0.0: copia do login padrao (Validar_auth) + sessao longa (negacao confirmada em 2a consulta, vigia que acorda depois do PC dormir, pausa sem perder a fila apos 2 h sem conferir e retomada sozinha) + aviso de propriedade intelectual Like Points na tela de login e no log.",
-    "publicada_em": "2026-10-17",
+    "arquivo": "auth_login/1.0.1.pack",
+    "conteudo": "7d89b777bf303b260144f1fe31d2caa95f5c882bd1c989a015cce38ade2ceb9f",
+    "notas": "",
+    "publicada_em": "2026-10-21",
     "requer": [
      "requests",
      "flask"
     ],
     "revogadas": [],
-    "sha256": "5dac055936badc0651577854f3936319548ae68ab385a30d4f1b9013caf10f7b",
-    "tamanho": 18669,
-    "versao": "1.0.0"
+    "sha256": "e59759eddd5eb08f0896a5153fda0ced9d8979489b70b4f8c2c26eb111e5ca90",
+    "tamanho": 18724,
+    "versao": "1.0.1"
    }
   },
   "avatar_narrador": {
@@ -439,5 +439,5 @@
    }
   }
  },
- "serie": 196
+ "serie": 197
 }
