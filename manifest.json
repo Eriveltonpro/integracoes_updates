@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-21 14:02:27",
+ "gerado_em": "2026-10-22 08:44:39",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -119,10 +119,10 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.64.pack",
-    "conteudo": "812a1f91d398dca92e49af2fb6735e45dbe7064012ac176c771027d8042a253d",
-    "notas": "caixa Review our privacy policy fecha sozinha (Continue, nunca Previous)",
-    "publicada_em": "2026-10-20",
+    "arquivo": "flow/1.0.65.pack",
+    "conteudo": "cf85f2bf78d7b004ec193a56568de208101388bceae55d73131ee07539a80757",
+    "notas": "Google desligou o login do labs.google: conta, e-mail, creditos e login agora pelo flow.google.com (contas voltam a conectar)",
+    "publicada_em": "2026-10-22",
     "requer": [
      "selenium",
      "requests",
@@ -130,9 +130,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "dfbc7562c47dc3bf5e42dbe096b3de56bcaf7fb37a9a90ed2112153fe8847a96",
-    "tamanho": 199095,
-    "versao": "1.0.64"
+    "sha256": "f053c2a6c492fe51b54cf8b7ff96890099f0440ed833be7b8d0697b16c56c04b",
+    "tamanho": 199974,
+    "versao": "1.0.65"
    }
   },
   "gemini_imagens": {
@@ -439,5 +439,5 @@
    }
   }
  },
- "serie": 198
+ "serie": 199
 }
