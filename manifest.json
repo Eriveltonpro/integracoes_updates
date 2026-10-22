@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-22 17:59:49",
+ "gerado_em": "2026-10-22 18:02:12",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -119,9 +119,9 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.65.pack",
-    "conteudo": "cf85f2bf78d7b004ec193a56568de208101388bceae55d73131ee07539a80757",
-    "notas": "Google desligou o login do labs.google: conta, e-mail, creditos e login agora pelo flow.google.com (contas voltam a conectar)",
+    "arquivo": "flow/1.0.66.pack",
+    "conteudo": "dd5e9628275bb8964bced5459cb626a835427a2e23e6111fbc5a96bbbea1db4d",
+    "notas": "lipsync: ffmpeg do proprio programa (bin, _internal, _MEIPASS) antes do PATH",
     "publicada_em": "2026-10-22",
     "requer": [
      "selenium",
@@ -130,9 +130,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "f053c2a6c492fe51b54cf8b7ff96890099f0440ed833be7b8d0697b16c56c04b",
-    "tamanho": 199974,
-    "versao": "1.0.65"
+    "sha256": "3c79c8b057ed0bd4e0fdfad5e4ef7a3ae0bb803973d07c0d87773edb5536c30e",
+    "tamanho": 200010,
+    "versao": "1.0.66"
    }
   },
   "gemini_imagens": {
@@ -439,5 +439,5 @@
    }
   }
  },
- "serie": 204
+ "serie": 205
 }
