@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-22 11:11:57",
+ "gerado_em": "2026-10-22 12:11:50",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -75,18 +75,18 @@
   },
   "chatgpt_imagens": {
    "1": {
-    "arquivo": "chatgpt_imagens/1.6.7.pack",
-    "conteudo": "82d36f92d63c659eddadc14f90f6f48e103e07805735aac7e97ef8b7838acaa0",
+    "arquivo": "chatgpt_imagens/1.6.8.pack",
+    "conteudo": "9bba9954e5d8d647a6924911c1cf8064722e0cd259464849bd099e91469a7caf",
     "notas": "",
-    "publicada_em": "2026-10-19",
+    "publicada_em": "2026-10-22",
     "requer": [
      "selenium",
      "PIL"
     ],
     "revogadas": [],
-    "sha256": "3eebae5715b671d77789e1bc4acfd93ad921e1bee181d22bd4080edec028cf80",
-    "tamanho": 40802,
-    "versao": "1.6.7"
+    "sha256": "f44c4f85d7dff1adf8aa8b1bd7f002340cf077a370e6a55e929babfeecc12443",
+    "tamanho": 41013,
+    "versao": "1.6.8"
    }
   },
   "facebook_uploader": {
@@ -439,5 +439,5 @@
    }
   }
  },
- "serie": 201
+ "serie": 202
 }
