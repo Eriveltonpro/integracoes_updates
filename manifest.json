@@ -1,19 +1,19 @@
 {
- "gerado_em": "2026-10-22 18:02:12",
+ "gerado_em": "2026-10-22 18:05:28",
  "integracoes": {
   "acemusic": {
    "1": {
-    "arquivo": "acemusic/1.2.2.pack",
-    "conteudo": "5e3426e94c2551b415d404266360f40ec4bb3f98efe8336d8a44dcb1d4cdd278",
-    "notas": "",
-    "publicada_em": "2026-10-16",
+    "arquivo": "acemusic/1.2.3.pack",
+    "conteudo": "9a72327c1632f24ea4378c78a590208e3d7621ade9c6728b1c70af2b55d0597d",
+    "notas": "conta lp_ sem usar_abridor_por_perfil cai no abridor comum com o caminho (sem FaltaGancho)",
+    "publicada_em": "2026-10-22",
     "requer": [
      "selenium"
     ],
     "revogadas": [],
-    "sha256": "ef95d6dd91064e4f9eadfe6a8679d193d70a1f15f2bcd65c02e3fa2ffb6088b7",
-    "tamanho": 36334,
-    "versao": "1.2.2"
+    "sha256": "2f2e3d06d40a9558e8c35862a87b49f49be49089891df2ca72f6bbaff6cd3cc0",
+    "tamanho": 36392,
+    "versao": "1.2.3"
    }
   },
   "auth_login": {
@@ -439,5 +439,5 @@
    }
   }
  },
- "serie": 205
+ "serie": 206
 }
