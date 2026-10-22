@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-22 18:55:42",
+ "gerado_em": "2026-10-22 19:04:36",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -180,6 +180,21 @@
     "sha256": "8019a8f09d3c8bf77cf0826fe86146cfb01e32d8d25e2ebb5ffa5afe05edc34b",
     "tamanho": 43845,
     "versao": "1.0.8"
+   }
+  },
+  "happyshrimp": {
+   "1": {
+    "arquivo": "happyshrimp/1.0.0.pack",
+    "conteudo": "fc32c5dd63d44a0da6353a5b84751dfb4e8753d1a879c06fb6cc6e7a53c43d47",
+    "notas": "Pedido direto pela rota do site (generation/create + songIds), creditos, preco, modelos, lote revezando contas (gerar_lote) e letras em TXT. Motor do Happy Shrimp Automations 1.0.5.",
+    "publicada_em": "2026-10-22",
+    "requer": [
+     "selenium"
+    ],
+    "revogadas": [],
+    "sha256": "889614b069329f5944ce8c429d6acd30d13c372e268578d9f2398ae3945ae93d",
+    "tamanho": 35222,
+    "versao": "1.0.0"
    }
   },
   "instagram_uploader": {
@@ -454,5 +469,5 @@
    }
   }
  },
- "serie": 208
+ "serie": 209
 }
