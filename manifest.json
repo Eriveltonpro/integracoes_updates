@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23 07:54:14",
+ "gerado_em": "2026-10-23 09:11:35",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -75,18 +75,18 @@
   },
   "chatgpt_imagens": {
    "1": {
-    "arquivo": "chatgpt_imagens/1.6.8.pack",
-    "conteudo": "9bba9954e5d8d647a6924911c1cf8064722e0cd259464849bd099e91469a7caf",
+    "arquivo": "chatgpt_imagens/1.6.9.pack",
+    "conteudo": "76c354c16268bddb76a868b73fba89848061039e59b4d89bf6134ce80d091673",
     "notas": "",
-    "publicada_em": "2026-10-22",
+    "publicada_em": "2026-10-23",
     "requer": [
      "selenium",
      "PIL"
     ],
     "revogadas": [],
-    "sha256": "f44c4f85d7dff1adf8aa8b1bd7f002340cf077a370e6a55e929babfeecc12443",
-    "tamanho": 41013,
-    "versao": "1.6.8"
+    "sha256": "f878ad4bce7481ff1880ed754363d5c4da3e3258ecfb320ae01f4eee2e1e2a51",
+    "tamanho": 42098,
+    "versao": "1.6.9"
    }
   },
   "facebook_uploader": {
@@ -152,18 +152,18 @@
   },
   "gemini_imagens": {
    "1": {
-    "arquivo": "gemini_imagens/1.0.8.pack",
-    "conteudo": "fc874ec3bcfeddc50616b28c6f38840197abd6193fc17f2640433167b72319aa",
+    "arquivo": "gemini_imagens/1.0.9.pack",
+    "conteudo": "97858068b9a7bf58b81540f9709498a79c379186e2746a24d4f3bcad3c24b925",
     "notas": "",
-    "publicada_em": "2026-10-16",
+    "publicada_em": "2026-10-23",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "760fe071ae258d47a021e7c45e8f256a7ba6a61613974b9f47cf3927ff2ec2c6",
-    "tamanho": 42758,
-    "versao": "1.0.8"
+    "sha256": "c57ba86c5eff7200700fa5a294584095ec976b04e7328549d3914303822c70c2",
+    "tamanho": 46368,
+    "versao": "1.0.9"
    }
   },
   "grok": {
@@ -469,5 +469,5 @@
    }
   }
  },
- "serie": 210
+ "serie": 212
 }
