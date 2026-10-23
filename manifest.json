@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23 11:06:41",
+ "gerado_em": "2026-10-23 14:28:21",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -223,6 +223,22 @@
     "sha256": "332a676d44487b096614e973a029613a3a44830b707a42edab04f587dd147c41",
     "tamanho": 22178,
     "versao": "1.0.2"
+   }
+  },
+  "interface_janela": {
+   "1": {
+    "arquivo": "interface_janela/1.0.0.pack",
+    "conteudo": "89ff87f9437c973407745f8986e29b1c5edfdf5cea9cec2dc8a92fe58819b895",
+    "notas": "1.0.0: janela propria do app Flask (msedge/chrome --app com perfil do programa, escada janela -> navegador padrao -> associacao do Windows; LP_NAVEGADOR=1 forca navegador, LP_JANELA_ARGS troca os argumentos da janela). sem_tela_preta(): todo subprocess com CREATE_NO_WINDOW por padrao (e os.system sem console). Rotas sob /auth/: janela.js (link de fora no navegador do cliente + icone da pagina), abrir_link, abrir_pasta (Explorer com o arquivo selecionado), escolher (janela nativa do Windows de arquivo/pasta, devolve o caminho real), icone.png/icone.ico/favicon e pagina 404 com Voltar ao inicio. fechar() mata so' processos com o perfil do programa.",
+    "publicada_em": "2026-10-23",
+    "requer": [
+     "flask",
+     "psutil"
+    ],
+    "revogadas": [],
+    "sha256": "45ef565124c333f95931e1692bd6a67a073f92ea0950c7a097bbf5ec0d9a7663",
+    "tamanho": 8493,
+    "versao": "1.0.0"
    }
   },
   "meta_ai": {
@@ -482,5 +498,5 @@
    }
   }
  },
- "serie": 216
+ "serie": 217
 }
