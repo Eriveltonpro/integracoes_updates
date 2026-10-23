@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-22 19:04:36",
+ "gerado_em": "2026-10-23 07:54:14",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -137,17 +137,17 @@
   },
   "flow_music": {
    "1": {
-    "arquivo": "flow_music/1.0.0.pack",
-    "conteudo": "d323c8a1ce4baee1e0746a5deaecd2f5e7771299b46e5146b40df295ef78da06",
-    "notas": "Pedido completo numa janela logada (motor.gerar_no_driver), rotas do site (site), tela Compose (pagina), download + mp3 (downloader), pasta de letras recursiva e titulo da letra (letras). Motor do Flow Music Automations 1.0.5.",
-    "publicada_em": "2026-10-22",
+    "arquivo": "flow_music/1.0.1.pack",
+    "conteudo": "bb4b4fb39759ed1f84e07ccd146aeb83d0ea9cbcd447e4c0d93201d9d30d5ea6",
+    "notas": "fachada gerar_musica/abrir_janela/conta_logada igual ao acekit (Fluxo Musical)",
+    "publicada_em": "2026-10-23",
     "requer": [
      "selenium"
     ],
     "revogadas": [],
-    "sha256": "08850339f2d97e2666e07fca09453da1604d988941a69f7fc64c87610c52fd3c",
-    "tamanho": 13555,
-    "versao": "1.0.0"
+    "sha256": "8c5816934c4c2f6b9b00b4341417e374e8f01c6fb2c4ee502d5fedec01fe7877",
+    "tamanho": 15800,
+    "versao": "1.0.1"
    }
   },
   "gemini_imagens": {
@@ -469,5 +469,5 @@
    }
   }
  },
- "serie": 209
+ "serie": 210
 }
