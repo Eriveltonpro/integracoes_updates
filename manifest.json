@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23 10:58:27",
+ "gerado_em": "2026-10-23 11:06:20",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -418,19 +418,19 @@
   },
   "tts_likepoints": {
    "1": {
-    "arquivo": "tts_likepoints/1.3.1.pack",
-    "conteudo": "b6cc0c322230e873adf7df4f70b3d7a459a98dd902b452c6399c9a11ea627b7b",
-    "notas": "ffmpeg do proprio programa (bin, _internal, _MEIPASS) antes do PATH",
-    "publicada_em": "2026-10-22",
+    "arquivo": "tts_likepoints/1.3.2.pack",
+    "conteudo": "9e1b858c0240ee81f2ca1ac6ed3c40c53d890f7f7340113a0e7a00a40027c56e",
+    "notas": "",
+    "publicada_em": "2026-10-23",
     "requer": [
      "edge_tts",
      "aiohttp",
      "certifi"
     ],
     "revogadas": [],
-    "sha256": "32e48c7dc15bf9b8d2c557ff8098cffbbda37f8bfcf222668c560d0aac5a2d08",
-    "tamanho": 62105,
-    "versao": "1.3.1"
+    "sha256": "c8cacaf26b0647f737ec4244539a0aaa0252836b3974f7b9f999d3b7206cfddc",
+    "tamanho": 68218,
+    "versao": "1.3.2"
    }
   },
   "vibes": {
@@ -482,5 +482,5 @@
    }
   }
  },
- "serie": 214
+ "serie": 215
 }
