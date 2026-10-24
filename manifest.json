@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-24 11:56:38",
+ "gerado_em": "2026-10-24 13:46:25",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -499,20 +499,20 @@
   },
   "youtube_uploader": {
    "1": {
-    "arquivo": "youtube_uploader/1.0.21.pack",
-    "conteudo": "734dcaa496f4cd6e91d09fae6ff40dc988f1e9856028e2d8f18dfe82dace8e8e",
-    "notas": "conferir rascunho troca pro canal antes de abrir a lista (varios canais no mesmo e-mail davam sem permissao e o envio ficava adiado pra sempre)",
-    "publicada_em": "2026-10-19",
+    "arquivo": "youtube_uploader/1.0.22.pack",
+    "conteudo": "57b97aaeb63ca31ee1da0ebd8ab77a76009c16d56b01abe8dbb8b71fc203d6a4",
+    "notas": "",
+    "publicada_em": "2026-10-24",
     "requer": [
      "selenium",
      "requests"
     ],
     "revogadas": [],
-    "sha256": "5b137c0a0d7161ff94bcb31d4176cbac23f5150776575c9ae292413873e62d9d",
-    "tamanho": 117953,
-    "versao": "1.0.21"
+    "sha256": "e0103735d6155b14c57a75c09e5396fb72243c0b74a12f5bb6329596510833fd",
+    "tamanho": 121847,
+    "versao": "1.0.22"
    }
   }
  },
- "serie": 228
+ "serie": 229
 }
