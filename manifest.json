@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23 18:39:40",
+ "gerado_em": "2026-10-24 11:56:38",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -88,18 +88,18 @@
   },
   "chatgpt_imagens": {
    "1": {
-    "arquivo": "chatgpt_imagens/1.6.9.pack",
-    "conteudo": "76c354c16268bddb76a868b73fba89848061039e59b4d89bf6134ce80d091673",
+    "arquivo": "chatgpt_imagens/1.6.10.pack",
+    "conteudo": "db0db1cdce1343dc1cb84b66408c79e102599e7048a85e16b8da63bd2abe8202",
     "notas": "",
-    "publicada_em": "2026-10-23",
+    "publicada_em": "2026-10-24",
     "requer": [
      "selenium",
      "PIL"
     ],
     "revogadas": [],
-    "sha256": "f878ad4bce7481ff1880ed754363d5c4da3e3258ecfb320ae01f4eee2e1e2a51",
-    "tamanho": 42098,
-    "versao": "1.6.9"
+    "sha256": "f250f70c9db267fd0e1f551bda864c8ea9be2db76988de624befb3ab07f258c6",
+    "tamanho": 42108,
+    "versao": "1.6.10"
    }
   },
   "facebook_uploader": {
@@ -132,10 +132,10 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.66.pack",
-    "conteudo": "dd5e9628275bb8964bced5459cb626a835427a2e23e6111fbc5a96bbbea1db4d",
-    "notas": "lipsync: ffmpeg do proprio programa (bin, _internal, _MEIPASS) antes do PATH",
-    "publicada_em": "2026-10-22",
+    "arquivo": "flow/1.0.67.pack",
+    "conteudo": "8f627551c58da9ff4e5e12c8c12c4bd32bfaf096f0cdd962c08b0d8ec70aa1b0",
+    "notas": "",
+    "publicada_em": "2026-10-24",
     "requer": [
      "selenium",
      "requests",
@@ -143,9 +143,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "3c79c8b057ed0bd4e0fdfad5e4ef7a3ae0bb803973d07c0d87773edb5536c30e",
-    "tamanho": 200010,
-    "versao": "1.0.66"
+    "sha256": "78cc57bbeae175ad9520370c063d4a598e0d6ee0a71698a72fc2bbfabbb69d89",
+    "tamanho": 204908,
+    "versao": "1.0.67"
    }
   },
   "flow_music": {
@@ -165,34 +165,34 @@
   },
   "gemini_imagens": {
    "1": {
-    "arquivo": "gemini_imagens/1.0.9.pack",
-    "conteudo": "97858068b9a7bf58b81540f9709498a79c379186e2746a24d4f3bcad3c24b925",
+    "arquivo": "gemini_imagens/1.0.10.pack",
+    "conteudo": "f2b48e9473e1e85eacc0b5989c487940a52000c0ab38a58d978624e53f3f42de",
     "notas": "",
-    "publicada_em": "2026-10-23",
+    "publicada_em": "2026-10-24",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "c57ba86c5eff7200700fa5a294584095ec976b04e7328549d3914303822c70c2",
-    "tamanho": 46368,
-    "versao": "1.0.9"
+    "sha256": "2af26079f8a5ac0e0c35588a140d5b6502402f6b9921b6eef7f0b87c5d26e517",
+    "tamanho": 46974,
+    "versao": "1.0.10"
    }
   },
   "grok": {
    "1": {
-    "arquivo": "grok/1.0.8.pack",
-    "conteudo": "81c61a8b85d6e5b89c6a4e0e94626b10da55568335f6c4bb9057bee61750efde",
+    "arquivo": "grok/1.0.9.pack",
+    "conteudo": "1f5fdff25bd2ffc33a436e6c3dd4e06ddadb697fa1c106617d39ce62f7eecea7",
     "notas": "",
-    "publicada_em": "2026-10-16",
+    "publicada_em": "2026-10-24",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "8019a8f09d3c8bf77cf0826fe86146cfb01e32d8d25e2ebb5ffa5afe05edc34b",
-    "tamanho": 43845,
-    "versao": "1.0.8"
+    "sha256": "95e9b7d48096bf1fb59521cc78f747126f42a4c482caa3767fd78fd62b8522f5",
+    "tamanho": 45245,
+    "versao": "1.0.9"
    }
   },
   "happyshrimp": {
@@ -259,19 +259,19 @@
   },
   "meta_ai": {
    "1": {
-    "arquivo": "meta_ai/1.0.8.pack",
-    "conteudo": "15fdd241316dc8cefe64d97faacc35857de698ff709f44830e7d4e34876e15b6",
+    "arquivo": "meta_ai/1.0.9.pack",
+    "conteudo": "475ddbd73cf0192a587ba6a4519a98fe8a5d35195acf32ba2ebc7a8d2953d666",
     "notas": "",
-    "publicada_em": "2026-10-16",
+    "publicada_em": "2026-10-24",
     "requer": [
      "selenium",
      "requests",
      "PIL"
     ],
     "revogadas": [],
-    "sha256": "612dc71b54bfa55fb1dbc9bc3577c09e0710fd178cef4ad211b9bef361a4e288",
-    "tamanho": 78669,
-    "versao": "1.0.8"
+    "sha256": "ba88be608a13ae98b771c53394f4cb162ce069640c7c7ba008d65b1ad0547ad7",
+    "tamanho": 82125,
+    "versao": "1.0.9"
    }
   },
   "midia_publica": {
@@ -315,18 +315,18 @@
   },
   "piclumen": {
    "1": {
-    "arquivo": "piclumen/1.0.9.pack",
-    "conteudo": "b0fc358381e90f238b88f7a080fc8a55197ee78b7598ff9c0814666f7069a1ad",
+    "arquivo": "piclumen/1.0.10.pack",
+    "conteudo": "968dddde51f727e869bacf5d8bb16e2d949a455112ac9a91edb08759c1bf3723",
     "notas": "",
-    "publicada_em": "2026-10-16",
+    "publicada_em": "2026-10-24",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "ca230558c44dbe9ee55dce370969573fcf4f119f61ca4ddbd7c3f1bfa5cad142",
-    "tamanho": 40388,
-    "versao": "1.0.9"
+    "sha256": "9b8309c0840c0409199a3f7942c40aad6ac1bef6b6282be01a44ad8db886a902",
+    "tamanho": 40728,
+    "versao": "1.0.10"
    }
   },
   "remover_fundo": {
@@ -467,34 +467,34 @@
   },
   "vibes": {
    "1": {
-    "arquivo": "vibes/1.0.8.pack",
-    "conteudo": "b225557aab14b91ac412c5913d5eebbc6185cf9090dee590c1d095015e7605c2",
+    "arquivo": "vibes/1.0.9.pack",
+    "conteudo": "0b5f35c5b217bb693b00ec4e8b194e0c5e17bade4edc02bc27094873331f1d74",
     "notas": "",
-    "publicada_em": "2026-10-16",
+    "publicada_em": "2026-10-24",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "e41bbd7fd15cfe553e4a219937ba8b89bc52d93adee8208cf9fff2da530fec64",
-    "tamanho": 43939,
-    "versao": "1.0.8"
+    "sha256": "27d839826dc2c80bc351dcfa7a0ae786a6a0814f89783186f83b30a51617423b",
+    "tamanho": 44099,
+    "versao": "1.0.9"
    }
   },
   "vids": {
    "1": {
-    "arquivo": "vids/1.0.20.pack",
-    "conteudo": "ab0e5e3e5f3ce0934ecd6076ff0c09381c2dc801e606002405c9086eb5f48542",
-    "notas": "ffmpeg do proprio programa (bin, _internal, _MEIPASS) antes do PATH",
-    "publicada_em": "2026-10-22",
+    "arquivo": "vids/1.0.21.pack",
+    "conteudo": "763a19037308a79166f0a35856266f12d4e0738595892db49aa3c26423a4fc62",
+    "notas": "",
+    "publicada_em": "2026-10-24",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "856f68a70cba0460678ab1d069dadaf7dae0367769f9453c4229147bcd26508f",
-    "tamanho": 58375,
-    "versao": "1.0.20"
+    "sha256": "2984997d25d5b2486a7d96f8ad1b418c71c76da2fd822c1f2f963da964e35420",
+    "tamanho": 59262,
+    "versao": "1.0.21"
    }
   },
   "youtube_uploader": {
@@ -514,5 +514,5 @@
    }
   }
  },
- "serie": 220
+ "serie": 228
 }
