@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-24 13:46:25",
+ "gerado_em": "2026-10-24 14:01:21",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -287,6 +287,19 @@
     "versao": "1.1.0"
    }
   },
+  "musica_livre": {
+   "1": {
+    "arquivo": "musica_livre/1.0.0.pack",
+    "conteudo": "e62d255faef44bcf92f6dc7e04b3ec02c3715ba03375d051be93a1dd480df565",
+    "notas": "1.0.0: buscar(auth, termo) via api/auth/musicas.php (so' token; credenciais das fontes no servidor; so' licenca que permite video monetizado). escolher() acha o clima pelo texto (tutorial, negocios, educativo, inspirador, suspense...), prefere faixa sem credito obrigatorio, nao repete as usadas, prefere faixa longa. baixar() grava .part e troca no fim, cancela, limite 60 MB, grava '(credito).txt'. preparar() repete/corta na duracao do video com fade de entrada e saida (ffmpeg do app). creditos() monta o texto da descricao. So' stdlib.",
+    "publicada_em": "2026-10-24",
+    "requer": [],
+    "revogadas": [],
+    "sha256": "f4fdee8d85536e4301e37d45e575cb9f2dc8b6d43b9f81741e9aeb90cd8ba109",
+    "tamanho": 5687,
+    "versao": "1.0.0"
+   }
+  },
   "no_ai_slop": {
    "1": {
     "arquivo": "no_ai_slop/1.0.1.pack",
@@ -514,5 +527,5 @@
    }
   }
  },
- "serie": 229
+ "serie": 230
 }
