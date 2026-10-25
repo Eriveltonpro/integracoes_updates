@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-24 15:39:46",
+ "gerado_em": "2026-10-25 11:04:58",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -387,17 +387,17 @@
   },
   "suno": {
    "1": {
-    "arquivo": "suno/1.3.1.pack",
-    "conteudo": "f143e31952a296e747061432ec4a9d6a0a97d2601917251fcddfd6ca1353c0fc",
-    "notas": "1.3.1: conserta a troca pra aba Simple (o Suno tirou o aria-label das abas; musica sem letra saia instrumental)",
-    "publicada_em": "2026-10-20",
+    "arquivo": "suno/1.3.2.pack",
+    "conteudo": "660579281fcf1af7741000f82691d916d40f24bd5b8f4e63c7c4842b202da97d",
+    "notas": "",
+    "publicada_em": "2026-10-25",
     "requer": [
      "selenium"
     ],
     "revogadas": [],
-    "sha256": "fd04aae8c419bb200b7178a411fcc629305ddf8fed4b10854157f782cb9050bf",
-    "tamanho": 43987,
-    "versao": "1.3.1"
+    "sha256": "0f9df8c6e8265509d5a8297f2aeb84bc25c14dc5e17cdc2eb60922303e97f62a",
+    "tamanho": 44282,
+    "versao": "1.3.2"
    }
   },
   "tendencias": {
@@ -527,5 +527,5 @@
    }
   }
  },
- "serie": 231
+ "serie": 232
 }
