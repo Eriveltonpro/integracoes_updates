@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-27 21:46:07",
+ "gerado_em": "2026-10-28 13:56:18",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -510,6 +510,19 @@
     "versao": "1.0.21"
    }
   },
+  "youtube_seo": {
+   "1": {
+    "arquivo": "youtube_seo/1.0.10.pack",
+    "conteudo": "269c091f38af86e766d912ff0bc675748bab02578add037d575be348e62d66be",
+    "notas": "",
+    "publicada_em": "2026-10-28",
+    "requer": [],
+    "revogadas": [],
+    "sha256": "0d7b8a45a6b810fff1e9eabbfb5b71b1f047124589fb1cce91e3850bfc9bbde0",
+    "tamanho": 11588,
+    "versao": "1.0.10"
+   }
+  },
   "youtube_uploader": {
    "1": {
     "arquivo": "youtube_uploader/1.0.22.pack",
@@ -527,5 +540,5 @@
    }
   }
  },
- "serie": 240
+ "serie": 251
 }
