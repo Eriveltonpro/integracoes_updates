@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-29 12:05:26",
+ "gerado_em": "2026-10-29 12:16:48",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -361,15 +361,15 @@
   },
   "roteiro": {
    "1": {
-    "arquivo": "roteiro/1.3.0.pack",
-    "conteudo": "64c9148d125c149398448b7909167649d41a179c3c2b1615d322ec40d6a5e393",
+    "arquivo": "roteiro/1.3.1.pack",
+    "conteudo": "2e0c89b79bcebce0351f8e2bd9038ac06629e4f3f4837ea93bbf07afd410feca",
     "notas": "",
     "publicada_em": "2026-10-29",
     "requer": [],
     "revogadas": [],
-    "sha256": "591558757b834aff2cd740215471c1386f97e97f054d25435d42ab49636bce71",
-    "tamanho": 23418,
-    "versao": "1.3.0"
+    "sha256": "07d5658282e737d8d83ff8b7dd3308345edcdd6497fa773446d170640499542a",
+    "tamanho": 23669,
+    "versao": "1.3.1"
    }
   },
   "separar_audio": {
@@ -540,5 +540,5 @@
    }
   }
  },
- "serie": 255
+ "serie": 256
 }
