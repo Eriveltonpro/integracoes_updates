@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-29 12:16:48",
+ "gerado_em": "2026-10-29 17:19:51",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -287,6 +287,22 @@
     "versao": "1.1.0"
    }
   },
+  "motion_html": {
+   "1": {
+    "arquivo": "motion_html/1.0.0.pack",
+    "conteudo": "13766d8cccb8657c0bd77e8f5b9772ae110020b52322248ac48e682b46f7a94a",
+    "notas": "1.0.0: 25 animacoes prontas",
+    "publicada_em": "2026-10-29",
+    "requer": [
+     "websocket",
+     "psutil"
+    ],
+    "revogadas": [],
+    "sha256": "09a2fa303f3fddc78d8ab22b88c7d29f8cc9b9384b42a7ef8e688f748b7a9f25",
+    "tamanho": 25789,
+    "versao": "1.0.0"
+   }
+  },
   "musica_livre": {
    "1": {
     "arquivo": "musica_livre/1.0.0.pack",
@@ -540,5 +556,5 @@
    }
   }
  },
- "serie": 256
+ "serie": 257
 }
