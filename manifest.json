@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-31 08:50:29",
+ "gerado_em": "2026-10-31 08:50:46",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -344,18 +344,18 @@
   },
   "piclumen": {
    "1": {
-    "arquivo": "piclumen/1.0.10.pack",
-    "conteudo": "968dddde51f727e869bacf5d8bb16e2d949a455112ac9a91edb08759c1bf3723",
+    "arquivo": "piclumen/1.0.11.pack",
+    "conteudo": "68394c3d4ed56eeee19fac5658ffd79641258c713df0213e57d2836ab679b71d",
     "notas": "",
-    "publicada_em": "2026-10-24",
+    "publicada_em": "2026-10-31",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "9b8309c0840c0409199a3f7942c40aad6ac1bef6b6282be01a44ad8db886a902",
-    "tamanho": 40728,
-    "versao": "1.0.10"
+    "sha256": "0faa00ab0f09b0c71c4db0ba60845d87bd9611b6c91d85573e625468ec9a4708",
+    "tamanho": 40715,
+    "versao": "1.0.11"
    }
   },
   "remover_fundo": {
@@ -556,5 +556,5 @@
    }
   }
  },
- "serie": 263
+ "serie": 264
 }
