@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-29 17:19:51",
+ "gerado_em": "2026-10-31 08:06:15",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -34,15 +34,15 @@
   },
   "avatar_falante": {
    "1": {
-    "arquivo": "avatar_falante/1.0.2.pack",
-    "conteudo": "5d02cca64eb28bc762f89560c7cf04f5348f85a3ae416affe6e7e1dc5abfad39",
+    "arquivo": "avatar_falante/1.0.3.pack",
+    "conteudo": "1776b72c003e9476606f651d3106399a937cc35d92ab6f21cdd1ff82f87f1d19",
     "notas": "",
-    "publicada_em": "2026-10-23",
+    "publicada_em": "2026-10-31",
     "requer": [],
     "revogadas": [],
-    "sha256": "09e841539d917836eac36a72e192b34c439eda9730508b79cc5e36237d0fbc89",
-    "tamanho": 23943,
-    "versao": "1.0.2"
+    "sha256": "9b8a76b4144820117c769a88b3dba1fc0f840dfda83d6188ff83fdd070cbf0a9",
+    "tamanho": 24807,
+    "versao": "1.0.3"
    }
   },
   "avatar_narrador": {
@@ -556,5 +556,5 @@
    }
   }
  },
- "serie": 257
+ "serie": 258
 }
