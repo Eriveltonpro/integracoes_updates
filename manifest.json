@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-02 12:26:42",
+ "gerado_em": "2026-11-02 15:28:13",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -100,6 +100,19 @@
     "sha256": "f6eb096df43d33db4152f65b706261d9a95618d0137eceb07e1c1c9570a553a1",
     "tamanho": 45390,
     "versao": "1.6.14"
+   }
+  },
+  "digitacao_voz": {
+   "1": {
+    "arquivo": "digitacao_voz/1.0.0.pack",
+    "conteudo": "274a41688b070440e4a833877f80f86955617405bd9d6fb4bb1916accc85e663",
+    "notas": "1.0.0: voz.js poe um microfone (SVG) no canto do campo focado/sob o mouse (textarea sempre; input de texto com data-voz ou script data-inputs=sim; data-voz=off exclui; F8 liga/desliga; Esc para). Degrau 1: reconhecimento do proprio navegador (Web Speech: Edge/Chrome, ao vivo, gratis; funciona na janela propria --app do janelakit); falhou por rede/servico -> degrau 2 sozinho pela sessao: grava (MediaRecorder) e /voz/transcrever passa pelo transkit (faster-whisper no PC primeiro; online se o app der chaves). Texto entra no cursor, com pontuacao falada (virgula, ponto final, nova linha...) em pt/en/es/fr/de/ja e maiuscula no comeco da frase; dispara input/change. Mensagens nos 6 idiomas; microfone bloqueado/ausente/silencio com frase de gente. instalar(app, transkit, chaves) liga /voz/voz.js, /voz/estado, /voz/preparar (baixa o modelo com progresso), /voz/transcrever (ate 25 MB, arquivo temporario apagado).",
+    "publicada_em": "2026-11-02",
+    "requer": [],
+    "revogadas": [],
+    "sha256": "15f94316b6890e8a6476e019d5a653ca347c2a8a30c271f0e478f8df8b6b1a69",
+    "tamanho": 13973,
+    "versao": "1.0.0"
    }
   },
   "facebook_uploader": {
@@ -599,5 +612,5 @@
    }
   }
  },
- "serie": 271
+ "serie": 272
 }
