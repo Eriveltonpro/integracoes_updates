@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-02 19:33:48",
+ "gerado_em": "2026-11-02 19:33:57",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -344,17 +344,17 @@
   },
   "personalizar_canal": {
    "1": {
-    "arquivo": "personalizar_canal/1.0.0.pack",
-    "conteudo": "296876be2dae23481742a73f031fd0fd1a47ff1165ad740edc4a8abaa3929c4a",
-    "notas": "1.0.0: ler_contexto() le a config do app (dicts/json/texto: nicho, estilo, prompts, idioma, pais, titulos, canal de referencia) sem levar chave/token/e-mail/caminho; propor(ia, ctx, slopkit) escreve 3 nomes, @, descricao, palavras-chave, tags padrao, texto padrao de envio, categoria, pedido de logo e banner, com slopkit (retry com motivo + reserva do proprio material; generico nunca sai) e campos travados pelo cliente intocados; refazer_campo() = botao Gerar outra. Logo/banner por qualquer motor carregado (gemkit, gptkit, flow, vidskit, grokkit, pickit + extras como metakit com driver), um por um, so arquivo criado depois do pedido e sha nunca repetido; ajuste para 800x800 e 2560x1440. aplicar(driver) no Studio: Personalizacao (nome, @, descricao, foto, banner, Publicar) e Configuracoes (pais, palavras-chave, padroes de envio: texto, tags, categoria, idioma), cada campo conferido na tela depois de salvar; criar_canal() com confirmacao. instalar(app) liga rotas /canal/* + painel.js (modal em 6 idiomas, campos pre-preenchidos, travar por campo, confirmacao antes de aplicar, relatorio honesto por item). Seletores do Studio em studio.json (usar_seletores troca sem build).",
+    "arquivo": "personalizar_canal/1.0.1.pack",
+    "conteudo": "225b587f7facd721a653c013654ea065ec9e6e2f21bc1fd9edf4fe5226aa90e4",
+    "notas": "",
     "publicada_em": "2026-11-02",
     "requer": [
      "PIL"
     ],
     "revogadas": [],
-    "sha256": "ce061b65755676504965dd73dae8e1fd1afa45231e8116f8d51b39bc3cf5b41f",
-    "tamanho": 54658,
-    "versao": "1.0.0"
+    "sha256": "67a19012c86f0e32f214319a482a20ad37c3cc85941ac7274a0b8ad79d170e59",
+    "tamanho": 55253,
+    "versao": "1.0.1"
    }
   },
   "pesquisa_redes": {
@@ -612,5 +612,5 @@
    }
   }
  },
- "serie": 277
+ "serie": 278
 }
