@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-03 09:13:11",
+ "gerado_em": "2026-11-03 09:14:50",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -584,15 +584,15 @@
   },
   "youtube_seo": {
    "1": {
-    "arquivo": "youtube_seo/1.0.10.pack",
-    "conteudo": "269c091f38af86e766d912ff0bc675748bab02578add037d575be348e62d66be",
-    "notas": "",
-    "publicada_em": "2026-10-28",
+    "arquivo": "youtube_seo/1.1.0.pack",
+    "conteudo": "a7c7ee34930bcb5b75349b03f1283b7ad577597320ad7900d3f33f38c4e8b3e0",
+    "notas": "1.1.0: SEO de verdade - titulo termo de busca + motivo, revisao editorial em codigo, tags do nicho",
+    "publicada_em": "2026-11-03",
     "requer": [],
     "revogadas": [],
-    "sha256": "0d7b8a45a6b810fff1e9eabbfb5b71b1f047124589fb1cce91e3850bfc9bbde0",
-    "tamanho": 11588,
-    "versao": "1.0.10"
+    "sha256": "835a0aa6ee9052bfdbabfbfc12b14fa3865bcbfbdbd28829e62962c52dd62bd1",
+    "tamanho": 16933,
+    "versao": "1.1.0"
    }
   },
   "youtube_uploader": {
@@ -612,5 +612,5 @@
    }
   }
  },
- "serie": 281
+ "serie": 282
 }
