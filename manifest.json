@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-03 08:54:54",
+ "gerado_em": "2026-11-03 09:13:11",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -117,17 +117,17 @@
   },
   "facebook_uploader": {
    "1": {
-    "arquivo": "facebook_uploader/1.1.0.pack",
-    "conteudo": "56cb4ab72e0b5727b32ee9705ba2bca4433ca9b6f942c3d9a968edb5cfaacf87",
+    "arquivo": "facebook_uploader/1.1.1.pack",
+    "conteudo": "5821933942c6d4e809933c0e89a0a944d6dca68922fde8c47f42a4bdcb5596d0",
     "notas": "",
-    "publicada_em": "2026-10-16",
+    "publicada_em": "2026-11-03",
     "requer": [
      "selenium"
     ],
     "revogadas": [],
-    "sha256": "39506e200b0b92c7ecab86edc74121b17fca72e04a40d5084417cec34edf89fe",
-    "tamanho": 31608,
-    "versao": "1.1.0"
+    "sha256": "a5061769a503661faf57af17747916721cfdf48405f81e357b6720e444d37858",
+    "tamanho": 32212,
+    "versao": "1.1.1"
    }
   },
   "fatos_reais": {
@@ -241,17 +241,17 @@
   },
   "instagram_uploader": {
    "1": {
-    "arquivo": "instagram_uploader/1.0.2.pack",
-    "conteudo": "35564ac299e28a11ec9bd0a2b4ab18c5e461420568401b42948800c524709225",
+    "arquivo": "instagram_uploader/1.0.3.pack",
+    "conteudo": "8818dd4e4246ea9bf7630e2c31063a28669d5595b9236872a52c7d9c3e95a26d",
     "notas": "",
-    "publicada_em": "2026-10-16",
+    "publicada_em": "2026-11-03",
     "requer": [
      "selenium"
     ],
     "revogadas": [],
-    "sha256": "332a676d44487b096614e973a029613a3a44830b707a42edab04f587dd147c41",
-    "tamanho": 22178,
-    "versao": "1.0.2"
+    "sha256": "df14c41317630b628826cb378aa2ba16893a6cf78ccec2990e57a4c300d661f8",
+    "tamanho": 22720,
+    "versao": "1.0.3"
    }
   },
   "interface_janela": {
@@ -535,19 +535,19 @@
   },
   "tts_likepoints": {
    "1": {
-    "arquivo": "tts_likepoints/1.4.2.pack",
-    "conteudo": "f0399af50aa6573fd85537d97bf74f545c8652e0a40edb4f4c3006af85994e0f",
+    "arquivo": "tts_likepoints/1.4.3.pack",
+    "conteudo": "c1a10a48ec0f56ec3a3ee8153ed402c0fa526f56bef66d4ba885d51dc62a3b2f",
     "notas": "",
-    "publicada_em": "2026-11-02",
+    "publicada_em": "2026-11-03",
     "requer": [
      "edge_tts",
      "aiohttp",
      "certifi"
     ],
     "revogadas": [],
-    "sha256": "f665688f3bfa35e3b57c508e5143b91b0134fcf52ae23946eaeba62bae9e9ae9",
-    "tamanho": 96157,
-    "versao": "1.4.2"
+    "sha256": "78683738ffa8207186f609350715e08e2825bc760b1c36d97bb7b2e79d93d38d",
+    "tamanho": 97395,
+    "versao": "1.4.3"
    }
   },
   "vibes": {
@@ -597,20 +597,20 @@
   },
   "youtube_uploader": {
    "1": {
-    "arquivo": "youtube_uploader/1.0.22.pack",
-    "conteudo": "57b97aaeb63ca31ee1da0ebd8ab77a76009c16d56b01abe8dbb8b71fc203d6a4",
+    "arquivo": "youtube_uploader/1.0.23.pack",
+    "conteudo": "e6fd4390e27f39f38bbb931ad02812438cffd7e2ec809cf2b25fb1f5d9998640",
     "notas": "",
-    "publicada_em": "2026-10-24",
+    "publicada_em": "2026-11-03",
     "requer": [
      "selenium",
      "requests"
     ],
     "revogadas": [],
-    "sha256": "e0103735d6155b14c57a75c09e5396fb72243c0b74a12f5bb6329596510833fd",
-    "tamanho": 121847,
-    "versao": "1.0.22"
+    "sha256": "6866ac1a6b197a1885091f2507cb0f64a0d9bed38689491df83d330c263aa60d",
+    "tamanho": 122455,
+    "versao": "1.0.23"
    }
   }
  },
- "serie": 280
+ "serie": 281
 }
