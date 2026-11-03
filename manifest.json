@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-03 14:03:43",
+ "gerado_em": "2026-11-03 14:08:03",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -100,6 +100,19 @@
     "sha256": "f6eb096df43d33db4152f65b706261d9a95618d0137eceb07e1c1c9570a553a1",
     "tamanho": 45390,
     "versao": "1.6.14"
+   }
+  },
+  "comfyui_imagens": {
+   "1": {
+    "arquivo": "comfyui_imagens/1.0.1.pack",
+    "conteudo": "52e567846286ce70b1fe7608491924280fd1828d4224469956b877ab428f264f",
+    "notas": "1.0.1: registrar_mcp aceita MCP sem marcar_mudanca (Editor), dica_depois, ferramenta comfyui_baixar_motor (so com confirmado). 1.0.0: motor ComfyUI v0.26.0 portable + Flux 2 Klein 4B fp8 + Qwen3 4B + VAE Flux 2 (fluxo do cliente Image Plus Studio, sem no de terceiros). Instalado UMA vez por PC (%LOCALAPPDATA%\\LikePoints\\motor_comfyui, ou C:\\LikePoints\\motor_comfyui quando o usuario tem acento), achado por todos os apps pelo motor_comfyui.json. Download opcional com progresso, retomada, SHA-256 e cancelar. Motor sobe escondido, um so por PC (apps reusam), desliga sozinho parado 10 min. gerar_serie: um prompt por linha, variacoes, foto de referencia, LoRA, texto de capa, nome sequencial, salva na pasta que o app mandar; resultado so pelo prompt_id do proprio pedido. registrar_mcp(IA, pasta_saida): ferramentas comfyui_status / comfyui_gerar_imagens / comfyui_ver_tarefa no MCP de qualquer app. So stdlib.",
+    "publicada_em": "2026-11-03",
+    "requer": [],
+    "revogadas": [],
+    "sha256": "8ce2579b8be97e0e10218b88519a198eb218eed9847b3cedf3892e24a2cb20b3",
+    "tamanho": 22682,
+    "versao": "1.0.1"
    }
   },
   "digitacao_voz": {
@@ -612,5 +625,5 @@
    }
   }
  },
- "serie": 287
+ "serie": 288
 }
