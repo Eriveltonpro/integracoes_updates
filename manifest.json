@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-02 19:33:57",
+ "gerado_em": "2026-11-03 08:46:46",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -344,17 +344,17 @@
   },
   "personalizar_canal": {
    "1": {
-    "arquivo": "personalizar_canal/1.0.1.pack",
-    "conteudo": "225b587f7facd721a653c013654ea065ec9e6e2f21bc1fd9edf4fe5226aa90e4",
+    "arquivo": "personalizar_canal/1.0.2.pack",
+    "conteudo": "a25dfdf82f7b862231a4c5209e8e4144a11d0e66c6b35f9367035adab9d9a89a",
     "notas": "",
-    "publicada_em": "2026-11-02",
+    "publicada_em": "2026-11-03",
     "requer": [
      "PIL"
     ],
     "revogadas": [],
-    "sha256": "67a19012c86f0e32f214319a482a20ad37c3cc85941ac7274a0b8ad79d170e59",
-    "tamanho": 55253,
-    "versao": "1.0.1"
+    "sha256": "fde809ff0693ea8ebbc79c6baf41542b47e8834992f859ef9b6bddd95640dae1",
+    "tamanho": 56340,
+    "versao": "1.0.2"
    }
   },
   "pesquisa_redes": {
@@ -612,5 +612,5 @@
    }
   }
  },
- "serie": 278
+ "serie": 279
 }
