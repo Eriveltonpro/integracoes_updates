@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-03 11:29:27",
+ "gerado_em": "2026-11-03 14:03:43",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -405,17 +405,17 @@
   },
   "render_inteligente": {
    "1": {
-    "arquivo": "render_inteligente/1.0.0.pack",
-    "conteudo": "5d9759368b9cd59b3bf27eb207ea2173a05c40c4b14ede183104ce4168e77c88",
-    "notas": "1.0.0: limite de threads por ffmpeg pelo numero de renders rodando no PC (todos os apps) e pela RAM livre; governador a cada 2 s troca nucleos e prioridade dos ffmpeg conforme o uso do resto do PC (livre/dividir/aperto); pode_comecar() para fila paralela; instalar() cobre todo subprocess do app sem mexer nos chamadores.",
-    "publicada_em": "2026-11-02",
+    "arquivo": "render_inteligente/1.0.1.pack",
+    "conteudo": "ed02cbb04721e3b11a7cec77f127d840a8bc4f1022ed40591145c5fec787858a",
+    "notas": "",
+    "publicada_em": "2026-11-03",
     "requer": [
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "e54614d0cb948b579f0b63fc4428f3b828cf22507947a1ead25b9a5a26cb1336",
-    "tamanho": 4152,
-    "versao": "1.0.0"
+    "sha256": "4801668e2b70a586de50bc4aab4af75cef5f67d294cf3826e89c3bf9e5ef2999",
+    "tamanho": 4603,
+    "versao": "1.0.1"
    }
   },
   "roteiro": {
@@ -612,5 +612,5 @@
    }
   }
  },
- "serie": 286
+ "serie": 287
 }
