@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-04 13:34:26",
+ "gerado_em": "2026-11-04 13:47:03",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -447,17 +447,17 @@
   },
   "render_inteligente": {
    "1": {
-    "arquivo": "render_inteligente/1.0.1.pack",
-    "conteudo": "ed02cbb04721e3b11a7cec77f127d840a8bc4f1022ed40591145c5fec787858a",
+    "arquivo": "render_inteligente/1.0.2.pack",
+    "conteudo": "d6b82f6bf1b854e9a80d76d06209fc2ad6f95e4905b0fd9b53e54788c897263f",
     "notas": "",
-    "publicada_em": "2026-11-03",
+    "publicada_em": "2026-11-04",
     "requer": [
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "4801668e2b70a586de50bc4aab4af75cef5f67d294cf3826e89c3bf9e5ef2999",
-    "tamanho": 4603,
-    "versao": "1.0.1"
+    "sha256": "dd72277487f6cc02d80c6ec514cd485ee8eb003ff9181617685a4292ef6aedbe",
+    "tamanho": 4925,
+    "versao": "1.0.2"
    }
   },
   "roteiro": {
@@ -654,5 +654,5 @@
    }
   }
  },
- "serie": 307
+ "serie": 308
 }
