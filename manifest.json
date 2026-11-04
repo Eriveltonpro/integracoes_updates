@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-04 15:24:27",
+ "gerado_em": "2026-11-04 17:28:42",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -577,9 +577,9 @@
   },
   "tts_likepoints": {
    "1": {
-    "arquivo": "tts_likepoints/1.4.9.pack",
-    "conteudo": "b26ded5cae6c85bed4518c42644becd7c8166bb55f583a0e4f05a87e74dba8aa",
-    "notas": "",
+    "arquivo": "tts_likepoints/1.4.10.pack",
+    "conteudo": "8428a76e81bb4bed15b257666f920e7ac94cbddd8145f38bf43ba3d88e373329",
+    "notas": "1.4.10: quiz falado certo em portugues; dicionario fixo ganha do aprendido",
     "publicada_em": "2026-11-04",
     "requer": [
      "edge_tts",
@@ -587,9 +587,9 @@
      "certifi"
     ],
     "revogadas": [],
-    "sha256": "674e29cf5d4b738e19b441a05b9103fa5767561f011d7293d8704645099d85f0",
-    "tamanho": 101807,
-    "versao": "1.4.9"
+    "sha256": "1496f167b7bc205a3cfa006273d9b8c9f155cd41305d6b4c3cfc27e34e0b2764",
+    "tamanho": 101849,
+    "versao": "1.4.10"
    }
   },
   "vibes": {
@@ -654,5 +654,5 @@
    }
   }
  },
- "serie": 312
+ "serie": 313
 }
