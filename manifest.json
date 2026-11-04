@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-04 13:48:08",
+ "gerado_em": "2026-11-04 13:48:41",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -315,8 +315,8 @@
   },
   "motion_graficos": {
    "1": {
-    "arquivo": "motion_graficos/1.0.5.pack",
-    "conteudo": "3ff3efd4cd34507ed51ec93a797c0b66b10c8078312663b693d24e2def1d8f7d",
+    "arquivo": "motion_graficos/1.0.6.pack",
+    "conteudo": "4136a2891999f386c0f948ade7754285901ec72b8692de4a56e6f6d5e93625f0",
     "notas": "",
     "publicada_em": "2026-11-04",
     "requer": [
@@ -324,9 +324,9 @@
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "d352953fffe77a5fa658e1c90bf1fa0db095294dfb5dfe8a643ffbc2429e7a73",
-    "tamanho": 131802,
-    "versao": "1.0.5"
+    "sha256": "b1fe2502b10e6d2c810a839af1ae199b4bff53545d8032f82ca657bb69ed8c27",
+    "tamanho": 132024,
+    "versao": "1.0.6"
    }
   },
   "motion_html": {
@@ -447,17 +447,17 @@
   },
   "render_inteligente": {
    "1": {
-    "arquivo": "render_inteligente/1.0.2.pack",
-    "conteudo": "d6b82f6bf1b854e9a80d76d06209fc2ad6f95e4905b0fd9b53e54788c897263f",
+    "arquivo": "render_inteligente/1.0.1.pack",
+    "conteudo": "ed02cbb04721e3b11a7cec77f127d840a8bc4f1022ed40591145c5fec787858a",
     "notas": "",
-    "publicada_em": "2026-11-04",
+    "publicada_em": "2026-11-03",
     "requer": [
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "dd72277487f6cc02d80c6ec514cd485ee8eb003ff9181617685a4292ef6aedbe",
-    "tamanho": 4925,
-    "versao": "1.0.2"
+    "sha256": "4801668e2b70a586de50bc4aab4af75cef5f67d294cf3826e89c3bf9e5ef2999",
+    "tamanho": 4603,
+    "versao": "1.0.1"
    }
   },
   "roteiro": {
@@ -577,8 +577,8 @@
   },
   "tts_likepoints": {
    "1": {
-    "arquivo": "tts_likepoints/1.4.7.pack",
-    "conteudo": "42dbac77b116c517d0f06397d532f0915006279d2aad0c15f65a1f41983609ae",
+    "arquivo": "tts_likepoints/1.4.6.pack",
+    "conteudo": "de42ae522ccef8e6457515ba5cd175f3f653bd8ff7aaf09de7ce275c9fbc11f2",
     "notas": "",
     "publicada_em": "2026-11-04",
     "requer": [
@@ -587,9 +587,9 @@
      "certifi"
     ],
     "revogadas": [],
-    "sha256": "c937997a0412714ad45bc71304e6c3d1db72f3b742ad05570f44114e5940e50f",
-    "tamanho": 100114,
-    "versao": "1.4.7"
+    "sha256": "fc62b0f609ea91348ad14667b8bdfcc9a44c2a48d18129a9d004cc4d68d04ae0",
+    "tamanho": 99968,
+    "versao": "1.4.6"
    }
   },
   "vibes": {
@@ -654,5 +654,5 @@
    }
   }
  },
- "serie": 309
+ "serie": 308
 }
