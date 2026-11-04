@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-04 10:24:28",
+ "gerado_em": "2026-11-04 10:28:21",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -315,18 +315,18 @@
   },
   "motion_graficos": {
    "1": {
-    "arquivo": "motion_graficos/1.0.0.pack",
-    "conteudo": "441f4b5443ab4e9c24b4b696433a1b50be5dd05bc470a04ac9c63e082f75bac9",
-    "notas": "1.0.0: motor deterministico do Motion Create virou integracao (Edge headless por CDP, escada Edge novo/antigo/Chrome/chrome-headless-shell, ffmpeg em prioridade baixa, 2 renders por vez). Cenas novas pra video explicativo: numero_grande, data, linha_do_tempo, comparacao_lado, mapa (Natural Earth 110m, rota que se desenha, pinos, pais destacado), destaque_imagem (imagem da cena de fundo + circulo/seta/caixa), citacao_tela, lista_falada (item aparece quando e' falado). planejar(): IA marca as falas que pedem grafico e escreve o JSON so' com dados da fala; conferir() reprova numero/lugar/citacao que nao esta na fala. estilo_do_visual(): cores e fonte do grafico seguem o estilo visual do projeto (pintura historica = pergaminho e serifa). Saida MP4 com fundo ou WebM VP9 com transparencia.",
+    "arquivo": "motion_graficos/1.0.1.pack",
+    "conteudo": "d2df8a19b0a5deafd1193f8954dc5e3fe104c369ee67783ebfd815f8a900a616",
+    "notas": "",
     "publicada_em": "2026-11-04",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "3ddf7f0186a466517ca62e7991551af9d57b51bcb34490f493c33fd6378fd309",
-    "tamanho": 128690,
-    "versao": "1.0.0"
+    "sha256": "4759654671f9938c7850facd967264b806a4c130a9258215df1f155205aff890",
+    "tamanho": 128862,
+    "versao": "1.0.1"
    }
   },
   "motion_html": {
@@ -654,5 +654,5 @@
    }
   }
  },
- "serie": 294
+ "serie": 295
 }
