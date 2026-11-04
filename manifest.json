@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-03 16:30:47",
+ "gerado_em": "2026-11-04 07:01:27",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -331,15 +331,15 @@
   },
   "musica_livre": {
    "1": {
-    "arquivo": "musica_livre/1.0.0.pack",
-    "conteudo": "e62d255faef44bcf92f6dc7e04b3ec02c3715ba03375d051be93a1dd480df565",
-    "notas": "1.0.0: buscar(auth, termo) via api/auth/musicas.php (so' token; credenciais das fontes no servidor; so' licenca que permite video monetizado). escolher() acha o clima pelo texto (tutorial, negocios, educativo, inspirador, suspense...), prefere faixa sem credito obrigatorio, nao repete as usadas, prefere faixa longa. baixar() grava .part e troca no fim, cancela, limite 60 MB, grava '(credito).txt'. preparar() repete/corta na duracao do video com fade de entrada e saida (ffmpeg do app). creditos() monta o texto da descricao. So' stdlib.",
-    "publicada_em": "2026-10-24",
+    "arquivo": "musica_livre/1.0.1.pack",
+    "conteudo": "0048a0b6ed84ec6064ab8e3af009d3242b4cd7ac33d2f1474f021093d42288e2",
+    "notas": "",
+    "publicada_em": "2026-11-04",
     "requer": [],
     "revogadas": [],
-    "sha256": "f4fdee8d85536e4301e37d45e575cb9f2dc8b6d43b9f81741e9aeb90cd8ba109",
-    "tamanho": 5687,
-    "versao": "1.0.0"
+    "sha256": "93234cb80c01c7aee5ef1c20a72de4e80cf9fbec086aa5eb296a171372385df8",
+    "tamanho": 5780,
+    "versao": "1.0.1"
    }
   },
   "no_ai_slop": {
@@ -625,5 +625,5 @@
    }
   }
  },
- "serie": 290
+ "serie": 291
 }
