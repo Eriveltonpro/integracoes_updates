@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-04 11:25:32",
+ "gerado_em": "2026-11-04 11:52:34",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -430,19 +430,19 @@
   },
   "remover_fundo": {
    "1": {
-    "arquivo": "remover_fundo/1.0.0.pack",
-    "conteudo": "8b870205bfc9241de83d69f0195eed319e93d19bbc707836f5baf08104fdbe15",
-    "notas": "1.0.0: MODNet (Apache-2.0, 25 MB) baixado na primeira vez para %LOCALAPPDATA%\\LikePoints\\modelos_fundo com progresso, retomada e SHA-256. Video -> WebM VP9 com transparencia (yuva420p) + audio opus; foto -> PNG RGBA. Mascara por quadro em resolucao reduzida pelo hardware, suavizada no tempo, ffmpeg em prioridade baixa, cancelavel.",
-    "publicada_em": "2026-10-18",
+    "arquivo": "remover_fundo/1.1.0.pack",
+    "conteudo": "68163f1e82e603b48f85e8de3468e0254f5796d557290bdd0306e2881edcd901",
+    "notas": "",
+    "publicada_em": "2026-11-04",
     "requer": [
      "onnxruntime",
      "numpy",
      "PIL"
     ],
     "revogadas": [],
-    "sha256": "458c7826696ae3242bea288dbb02530d7e2921881758950598fad618415070fe",
-    "tamanho": 8525,
-    "versao": "1.0.0"
+    "sha256": "7c284c6fa623200495898f20d7cc6d8e8347ae8cb7dc3480290d3bdb347c5942",
+    "tamanho": 10837,
+    "versao": "1.1.0"
    }
   },
   "render_inteligente": {
@@ -654,5 +654,5 @@
    }
   }
  },
- "serie": 304
+ "serie": 305
 }
