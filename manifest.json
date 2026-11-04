@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-04 07:01:27",
+ "gerado_em": "2026-11-04 09:36:35",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -342,6 +342,19 @@
     "versao": "1.0.1"
    }
   },
+  "nichos_roteiro": {
+   "1": {
+    "arquivo": "nichos_roteiro/1.0.0.pack",
+    "conteudo": "bd92f0af188a4f7004d6a5504b73e9e6598d7ddfd4ecf25ca5532f26e865c7ae",
+    "notas": "1.0.0 (04/11/2026): 14 nichos (oracao, historia_emocionante, saude_senior, biblia, fe_documental, misterio, crime_real, financas, negocios, ciencia, historia_antiga, biografia, motivacional, curiosidades) + Personalizado. Por nicho: publico, voz, estrutura com % (vira segundos/palavras pelo tamanho), abertura, faca/nunca, fecho/chamada, titulo, capa, cena, regra de fatos, rodizio (angulo/tipo de abertura/categoria com peso/chamada) e conferir (regex do que o nicho nao aceita + o que exige). Comum: escrita para voz, fio solto entre blocos, re-gancho 40-60%, espelho no fecho, sem bastidor/dinheiro/preambulo/estudo inventado, regras de cena para video IA e de capa. detectar() pelo tema/estilo, variar() sem repetir os ultimos 3, conferir() complementa o slopkit (numero/referencia biblica fora do material, tamanho). Tecnicas destiladas (texto proprio) de material de curso analisado em 04/11/2026.",
+    "publicada_em": "2026-11-04",
+    "requer": [],
+    "revogadas": [],
+    "sha256": "4b3100f473ff17c6792185f7b31312161c324437c0392233339db2bb9494b149",
+    "tamanho": 30688,
+    "versao": "1.0.0"
+   }
+  },
   "no_ai_slop": {
    "1": {
     "arquivo": "no_ai_slop/1.0.2.pack",
@@ -625,5 +638,5 @@
    }
   }
  },
- "serie": 291
+ "serie": 292
 }
