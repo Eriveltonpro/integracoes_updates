@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-04 10:29:35",
+ "gerado_em": "2026-11-04 10:35:50",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -269,18 +269,18 @@
   },
   "interface_janela": {
    "1": {
-    "arquivo": "interface_janela/1.0.2.pack",
-    "conteudo": "7253a94da031f3ccc977390836cbd846688629eafc50b88f627fe8784c8e386c",
+    "arquivo": "interface_janela/1.1.1.pack",
+    "conteudo": "c2ec4ae9cd513a8d342d6634f4f4d9ffda73b816a284065949f533628550c92c",
     "notas": "",
-    "publicada_em": "2026-10-27",
+    "publicada_em": "2026-11-04",
     "requer": [
      "flask",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "2d42baf57d1fe532cf744baa32de5c0d80cf350a388f68b8a695fb00bb204329",
-    "tamanho": 9272,
-    "versao": "1.0.2"
+    "sha256": "db791b4f8bb648eea1a92f373fa2cb96c20e5018cfd7d74b7f202b2888cdfbe1",
+    "tamanho": 11905,
+    "versao": "1.1.1"
    }
   },
   "meta_ai": {
@@ -654,5 +654,5 @@
    }
   }
  },
- "serie": 296
+ "serie": 297
 }
