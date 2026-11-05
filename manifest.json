@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-05 13:35:16",
+ "gerado_em": "2026-11-05 15:06:17",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -360,15 +360,15 @@
   },
   "nichos_roteiro": {
    "1": {
-    "arquivo": "nichos_roteiro/1.0.1.pack",
-    "conteudo": "bfa1bda92d8e25e63f436274e87ce6e1cc89013ea0d7518b829192fb444b09d5",
+    "arquivo": "nichos_roteiro/1.0.2.pack",
+    "conteudo": "aac3d1ca526aed8bd1e0e6463b82629fe44e21d164be489a1394bf5515ff80ba",
     "notas": "",
-    "publicada_em": "2026-11-04",
+    "publicada_em": "2026-11-05",
     "requer": [],
     "revogadas": [],
-    "sha256": "4074ef1069713f83d837381bbcdf4028d78f48e078a2f076cb44b7b3656fd527",
-    "tamanho": 30662,
-    "versao": "1.0.1"
+    "sha256": "0dd4717166bfd613130287d097c90cdd455b393a24235dfe8a85438b1175e958",
+    "tamanho": 30665,
+    "versao": "1.0.2"
    }
   },
   "no_ai_slop": {
@@ -654,5 +654,5 @@
    }
   }
  },
- "serie": 317
+ "serie": 318
 }
