@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-05 08:57:19",
+ "gerado_em": "2026-11-05 11:48:21",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -501,17 +501,17 @@
   },
   "suno": {
    "1": {
-    "arquivo": "suno/1.3.4.pack",
-    "conteudo": "9ce91e923ba265cd8a9959c29a5229d2479f5220531641778bbfcaa20fc108fe",
+    "arquivo": "suno/1.3.5.pack",
+    "conteudo": "50e372d1abaabaa127a3901d8ffcd771608ddb9353240f9e5ee821e8179dfed4",
     "notas": "",
-    "publicada_em": "2026-10-31",
+    "publicada_em": "2026-11-05",
     "requer": [
      "selenium"
     ],
     "revogadas": [],
-    "sha256": "d719ee4c94a4386eef9ff83cb787395cc39a217f38a7b0959482e2b45b074479",
-    "tamanho": 45007,
-    "versao": "1.3.4"
+    "sha256": "e78b9da03efb8b72e85c6f7be051de748a91ecb4d857082eaeaf584eeb57d857",
+    "tamanho": 45742,
+    "versao": "1.3.5"
    }
   },
   "tendencias": {
@@ -654,5 +654,5 @@
    }
   }
  },
- "serie": 315
+ "serie": 316
 }
