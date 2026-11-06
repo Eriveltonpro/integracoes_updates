@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-06 13:42:00",
+ "gerado_em": "2026-11-06 13:43:21",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -360,18 +360,18 @@
   },
   "musicful": {
    "1": {
-    "arquivo": "musicful/1.0.0.pack",
-    "conteudo": "284026c7cf20e62cac5b54c799702ad2f4d75ca04debb89131743c6c950c786b",
-    "notas": "1.0.0 (06/11/2026): motor do Musicful Automations 1.1.11 (musicful.py + downloader.py) com a fachada do acekit/shrimpkit (gerar_musica nunca levanta, ids das faixas vem na resposta do pedido, plano B pelo formulario, download pelo endereco do arquivo e plano B de dentro da aba).",
+    "arquivo": "musicful/1.0.1.pack",
+    "conteudo": "fac6529a00f2d3a6ce4abcc63f6ee75cae36dc02a4afb13881101b47b9bb44da",
+    "notas": "",
     "publicada_em": "2026-11-06",
     "requer": [
      "selenium",
      "requests"
     ],
     "revogadas": [],
-    "sha256": "5dda4979ea8e6e63e86311e788fd8829914e234d64285091e849798948f9cba0",
-    "tamanho": 40108,
-    "versao": "1.0.0"
+    "sha256": "059a31c1df55b82750d3e3626818237b4c08844c3a3a96d97731b1000fb0efed",
+    "tamanho": 40243,
+    "versao": "1.0.1"
    }
   },
   "nichos_roteiro": {
@@ -670,5 +670,5 @@
    }
   }
  },
- "serie": 337
+ "serie": 338
 }
