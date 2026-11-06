@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-06 13:43:21",
+ "gerado_em": "2026-11-06 13:45:39",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -315,8 +315,8 @@
   },
   "motion_graficos": {
    "1": {
-    "arquivo": "motion_graficos/1.0.10.pack",
-    "conteudo": "0e247dd59e623870729580065005edb659d10eb62a746108c8d6c8706cee25f5",
+    "arquivo": "motion_graficos/1.0.11.pack",
+    "conteudo": "6cf9d12fe4688661ffa1f37588fb271eb17ee3176cd322f4797e948d37c5459d",
     "notas": "",
     "publicada_em": "2026-11-06",
     "requer": [
@@ -324,9 +324,9 @@
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "c3d732dc92f337a4fa74b574141f03ef8bf954471b99125b1c60160795f1901d",
-    "tamanho": 138033,
-    "versao": "1.0.10"
+    "sha256": "3a0656373d13941adbd0668f05c156c75063a7c0ee53255c0658209ca208c9ae",
+    "tamanho": 138500,
+    "versao": "1.0.11"
    }
   },
   "motion_html": {
@@ -670,5 +670,5 @@
    }
   }
  },
- "serie": 338
+ "serie": 339
 }
