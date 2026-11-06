@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-06 07:38:30",
+ "gerado_em": "2026-11-06 07:38:44",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -414,18 +414,18 @@
   },
   "piclumen": {
    "1": {
-    "arquivo": "piclumen/1.0.11.pack",
-    "conteudo": "68394c3d4ed56eeee19fac5658ffd79641258c713df0213e57d2836ab679b71d",
-    "notas": "",
-    "publicada_em": "2026-10-31",
+    "arquivo": "piclumen/1.0.12.pack",
+    "conteudo": "246e413148b2e0621a7a335137673f1aff2dd5eb094f9b11a8ea49a1647df507",
+    "notas": "Chrome da janela fecha com calma (taskkill sem /F e espera) antes de forcar: o Google nao derruba a conta ao reabrir",
+    "publicada_em": "2026-11-06",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "0faa00ab0f09b0c71c4db0ba60845d87bd9611b6c91d85573e625468ec9a4708",
-    "tamanho": 40715,
-    "versao": "1.0.11"
+    "sha256": "09e8e736d8d1fd4f7c6d6293b20a9fe8a75d2c899f740451135aff26fbbf47e5",
+    "tamanho": 41364,
+    "versao": "1.0.12"
    }
   },
   "remover_fundo": {
@@ -654,5 +654,5 @@
    }
   }
  },
- "serie": 322
+ "serie": 323
 }
