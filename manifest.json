@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-06 07:38:56",
+ "gerado_em": "2026-11-06 07:39:08",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -191,18 +191,18 @@
   },
   "gemini_imagens": {
    "1": {
-    "arquivo": "gemini_imagens/1.0.11.pack",
-    "conteudo": "879a0e0b494656fe2a0db459763055a03d4e77e2bd98f3f358c50b7092b48e1e",
-    "notas": "",
-    "publicada_em": "2026-10-31",
+    "arquivo": "gemini_imagens/1.0.12.pack",
+    "conteudo": "9788bf64af0abf5c18d9c24ec86279666ea6e607c4d6b1918e2612b48bd0522d",
+    "notas": "Chrome da janela fecha com calma (taskkill sem /F e espera) antes de forcar: o Google nao derruba a conta ao reabrir",
+    "publicada_em": "2026-11-06",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "388d50dbcc62047628a0aa4ba0a3bf3203b7935c76015cc5fe9a03e2ae2c9991",
-    "tamanho": 46975,
-    "versao": "1.0.11"
+    "sha256": "ad07221439156db9c197908e1b5d4bc419dfa2279d9a9ea189718162191c9761",
+    "tamanho": 47744,
+    "versao": "1.0.12"
    }
   },
   "grok": {
@@ -654,5 +654,5 @@
    }
   }
  },
- "serie": 324
+ "serie": 325
 }
