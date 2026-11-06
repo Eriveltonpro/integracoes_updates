@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-06 07:39:08",
+ "gerado_em": "2026-11-06 07:39:20",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -238,18 +238,18 @@
   },
   "heygen": {
    "1": {
-    "arquivo": "heygen/1.0.0.pack",
-    "conteudo": "ebca72f2e12d3ea113f31b3c569840e4750733ee95de040b488e85728f8b4c7a",
-    "notas": "Primeira versao (23/10/2026): fala com a API interna do app.heygen.com pela sessao da janela (user.get, check_availability, avatar_group.private.list, look.list, cross_ref_candidates, v2/avatar/shortcut/submit, pacific/video.get). Plano gratis: 3 videos por mes e marca d'agua.",
-    "publicada_em": "2026-10-23",
+    "arquivo": "heygen/1.0.1.pack",
+    "conteudo": "2adcb81bccee7b3857555c8c1534c48c68c76d41b3f18f8351c0aaa85b472b0f",
+    "notas": "Chrome da janela fecha com calma (taskkill sem /F e espera) antes de forcar: o Google nao derruba a conta ao reabrir",
+    "publicada_em": "2026-11-06",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "333a79e7a387fa27397ccfd7a8258706a5d10105f2113658ec2d42f386220cc3",
-    "tamanho": 38463,
-    "versao": "1.0.0"
+    "sha256": "a21d4e019ff4f7b9d82880be9ac0925badc5e40e64183d0a8dd81d26879ab628",
+    "tamanho": 39259,
+    "versao": "1.0.1"
    }
   },
   "instagram_uploader": {
@@ -654,5 +654,5 @@
    }
   }
  },
- "serie": 325
+ "serie": 326
 }
