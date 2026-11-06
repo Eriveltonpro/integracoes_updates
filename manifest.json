@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-06 14:13:25",
+ "gerado_em": "2026-11-06 14:35:14",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -56,6 +56,19 @@
     "sha256": "8ac209e0d7f406e3e09934f82407dfb1f5e2dac5adcfe952d50ff254f5517eee",
     "tamanho": 25605,
     "versao": "1.0.1"
+   }
+  },
+  "b_roll": {
+   "1": {
+    "arquivo": "b_roll/1.0.0.pack",
+    "conteudo": "4717e189da05d6d8ec155843c391495b1f192bfbf289a58299b7a852adfeb66c",
+    "notas": "B-roll contextual: pixels e trecho narrado, Pixabay via painel sem Pexels; guarda de URLs no download central.",
+    "publicada_em": "2026-11-06",
+    "requer": [],
+    "revogadas": [],
+    "sha256": "0a47f9c1e435f8ff31f0f55100bfe3a14924b6aa2ac2c3d4b4c2aa2e80cd5838",
+    "tamanho": 22630,
+    "versao": "1.0.0"
    }
   },
   "bilibili_uploader": {
@@ -302,15 +315,15 @@
   },
   "midia_publica": {
    "1": {
-    "arquivo": "midia_publica/1.1.1.pack",
-    "conteudo": "d766353bae879f813d5c8239bcf411fcb8da43bb33a66d4508fd04343fdcb218",
-    "notas": "",
+    "arquivo": "midia_publica/1.1.2.pack",
+    "conteudo": "88c5c96abb681c41d4539fe98bfe68ae1d846d98bb296da01f489484cafb1f7d",
+    "notas": "B-roll contextual: pixels e trecho narrado, Pixabay via painel sem Pexels; guarda de URLs no download central.",
     "publicada_em": "2026-11-06",
     "requer": [],
     "revogadas": [],
-    "sha256": "1e4a6a0d2a14580e61aff568f5ddf865567adb86187a90d682b1783ca323360f",
-    "tamanho": 15048,
-    "versao": "1.1.1"
+    "sha256": "a36a292fc3084bfe7d073c9948ab6391ff22434d88dc8608c13e929397bddbfa",
+    "tamanho": 15384,
+    "versao": "1.1.2"
    }
   },
   "motion_graficos": {
@@ -670,5 +683,5 @@
    }
   }
  },
- "serie": 342
+ "serie": 343
 }
