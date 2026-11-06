@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-06 13:45:39",
+ "gerado_em": "2026-11-06 14:07:08",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -360,8 +360,8 @@
   },
   "musicful": {
    "1": {
-    "arquivo": "musicful/1.0.1.pack",
-    "conteudo": "fac6529a00f2d3a6ce4abcc63f6ee75cae36dc02a4afb13881101b47b9bb44da",
+    "arquivo": "musicful/1.0.2.pack",
+    "conteudo": "dd1f3bf937d4d98f6c53ff94f46222c9e4da99e25943dfa0fdefe10e9e2dca25",
     "notas": "",
     "publicada_em": "2026-11-06",
     "requer": [
@@ -369,9 +369,9 @@
      "requests"
     ],
     "revogadas": [],
-    "sha256": "059a31c1df55b82750d3e3626818237b4c08844c3a3a96d97731b1000fb0efed",
-    "tamanho": 40243,
-    "versao": "1.0.1"
+    "sha256": "f46f13cac63b03b69d0ed346bd09dd7073b88add5a4e05a0ea0d0706aa6c50cf",
+    "tamanho": 24510,
+    "versao": "1.0.2"
    }
   },
   "nichos_roteiro": {
@@ -670,5 +670,5 @@
    }
   }
  },
- "serie": 339
+ "serie": 340
 }
