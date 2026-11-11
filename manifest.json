@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-11 16:54:57",
+ "gerado_em": "2026-11-11 19:16:36",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -373,15 +373,15 @@
   },
   "musica_pc": {
    "1": {
-    "arquivo": "musica_pc/1.0.0.pack",
-    "conteudo": "8e026586dffd5c02933c18c9a12578a86b82038b8a0150249bc4f028cae219ff",
-    "notas": "1.0.0: motor ACE-Step 1.5 (commit ca1e85fe) + Python 3.12 via uv (baixado sozinho) + modelos turbo/LM 0.6B (~8 GB) em LOCALAPPDATA/LikePoints/musica_ia, compartilhado com o Music Create (mesma marca instalado.ok). Worker em processo separado (escondido, prioridade baixa, um pedido por vez, desliga parado 10 min, espera a placa liberar). receitas: 3 modos (criar, inspiracao, cover), 31 estilos, vozes, estilo de voz, instrumentos, duracao, BPM, tom, qualidade (passos), compositor (LM), semente. pos.para_mp3 (320k, tira chiado). So stdlib.",
+    "arquivo": "musica_pc/1.1.0.pack",
+    "conteudo": "9d6221b12e5d834f98fc5f8977340a283468ff6c7016bbd0fe3a7a50980be2bb",
+    "notas": "",
     "publicada_em": "2026-11-11",
     "requer": [],
     "revogadas": [],
-    "sha256": "bd0eef2f46d80600ebe6077dad575f9e72ad6449264179ba477a15f6c414c7cb",
-    "tamanho": 18775,
-    "versao": "1.0.0"
+    "sha256": "0cca816a2174be8c0573f94ec0bac65951328b1649cb40421e0a252d3b5077bd",
+    "tamanho": 28670,
+    "versao": "1.1.0"
    }
   },
   "musicful": {
@@ -696,5 +696,5 @@
    }
   }
  },
- "serie": 354
+ "serie": 355
 }
