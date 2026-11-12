@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-12 08:05:16",
+ "gerado_em": "2026-11-12 08:05:25",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -373,15 +373,15 @@
   },
   "musica_pc": {
    "1": {
-    "arquivo": "musica_pc/1.1.0.pack",
-    "conteudo": "9d6221b12e5d834f98fc5f8977340a283468ff6c7016bbd0fe3a7a50980be2bb",
+    "arquivo": "musica_pc/1.1.1.pack",
+    "conteudo": "64f3568f73e98ffc0caca1838fcd5bfbc650c4937305d522c91acc9d1d2ad547",
     "notas": "",
-    "publicada_em": "2026-11-11",
+    "publicada_em": "2026-11-12",
     "requer": [],
     "revogadas": [],
-    "sha256": "0cca816a2174be8c0573f94ec0bac65951328b1649cb40421e0a252d3b5077bd",
-    "tamanho": 28670,
-    "versao": "1.1.0"
+    "sha256": "ff6b0e8159dfdb6e87437bc92ff72948956aff92ed36fae56c4c6de2ba75fdfa",
+    "tamanho": 29617,
+    "versao": "1.1.1"
    }
   },
   "musicful": {
@@ -696,5 +696,5 @@
    }
   }
  },
- "serie": 356
+ "serie": 357
 }
