@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-13 14:32:02",
+ "gerado_em": "2026-11-14 12:54:58",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -315,15 +315,15 @@
   },
   "midia_publica": {
    "1": {
-    "arquivo": "midia_publica/1.1.2.pack",
-    "conteudo": "88c5c96abb681c41d4539fe98bfe68ae1d846d98bb296da01f489484cafb1f7d",
-    "notas": "B-roll contextual: pixels e trecho narrado, Pixabay via painel sem Pexels; guarda de URLs no download central.",
-    "publicada_em": "2026-11-06",
+    "arquivo": "midia_publica/1.1.3.pack",
+    "conteudo": "566a3a312fe6378053d5cf2c81235fa6546bfc0d7107e3b83e1e82c7ddc8f795",
+    "notas": "",
+    "publicada_em": "2026-11-14",
     "requer": [],
     "revogadas": [],
-    "sha256": "a36a292fc3084bfe7d073c9948ab6391ff22434d88dc8608c13e929397bddbfa",
-    "tamanho": 15384,
-    "versao": "1.1.2"
+    "sha256": "46e735704aab7e763a1b1869d30ec5a3f13a3c681d7209252ac8036299c71e83",
+    "tamanho": 15717,
+    "versao": "1.1.3"
    }
   },
   "motion_graficos": {
@@ -696,5 +696,5 @@
    }
   }
  },
- "serie": 365
+ "serie": 366
 }
