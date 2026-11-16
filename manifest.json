@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-15 11:24:14",
+ "gerado_em": "2026-11-16 14:01:17",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -171,10 +171,10 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.69.pack",
-    "conteudo": "55dd0d6ed7eecae95e60db83da3caff08f0f3be2229e889aa5fbf7fd25ee009a",
-    "notas": "Chrome da janela fecha com calma (taskkill sem /F e espera) antes de forcar: o Google nao derruba a conta ao reabrir",
-    "publicada_em": "2026-11-06",
+    "arquivo": "flow/1.0.70.pack",
+    "conteudo": "fb12f067b5fbfef13ddd72369806c9886eebf5757b62fc8b4aaef2bb8cd9c044",
+    "notas": "",
+    "publicada_em": "2026-11-16",
     "requer": [
      "selenium",
      "requests",
@@ -182,9 +182,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "e717c62c018a2716618c45022fdf7d57c4664e3ee8f3a9791f3548f8635d2955",
-    "tamanho": 205613,
-    "versao": "1.0.69"
+    "sha256": "93479c8957c9daa793dafb3f4fde3d4880d8828007503805a5e010b83d503989",
+    "tamanho": 205949,
+    "versao": "1.0.70"
    }
   },
   "flow_music": {
@@ -696,5 +696,5 @@
    }
   }
  },
- "serie": 367
+ "serie": 368
 }
