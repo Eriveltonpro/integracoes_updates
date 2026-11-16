@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-16 19:03:04",
+ "gerado_em": "2026-11-16 19:37:37",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -619,9 +619,9 @@
   },
   "tts_likepoints": {
    "1": {
-    "arquivo": "tts_likepoints/1.4.17.pack",
-    "conteudo": "8a0616d5395f70a57f73a0dcb9a74d9979d4ad16a8474f89ee4f6794c53ded3c",
-    "notas": "Pronuncia: 'take' falado 'teique'.",
+    "arquivo": "tts_likepoints/1.4.18.pack",
+    "conteudo": "d99c127c322716912de37181bff555abff0364397d2ebc4d400117c522b57f89",
+    "notas": "",
     "publicada_em": "2026-11-16",
     "requer": [
      "edge_tts",
@@ -629,9 +629,9 @@
      "certifi"
     ],
     "revogadas": [],
-    "sha256": "1e3b752bc8b57027832d251b9d250dd2e4357972588fd3613231ebef6568db05",
-    "tamanho": 104917,
-    "versao": "1.4.17"
+    "sha256": "858db1a26c4773052d1fa1a14f464c298ac87affb5630957b2889749709c576d",
+    "tamanho": 104950,
+    "versao": "1.4.18"
    }
   },
   "vibes": {
@@ -696,5 +696,5 @@
    }
   }
  },
- "serie": 373
+ "serie": 374
 }
