@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-16 15:01:05",
+ "gerado_em": "2026-11-16 15:54:24",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -619,9 +619,9 @@
   },
   "tts_likepoints": {
    "1": {
-    "arquivo": "tts_likepoints/1.4.14.pack",
-    "conteudo": "92fc369d1094088b5f1184d4c5a02dfc9ceedae2f35e2b18247ca7379a60f0a0",
-    "notas": "Pronuncia: ~60 termos de IA/GitHub no dicionario; US$ em dolares; RTX 5070 'cinquenta setenta'; dicionario aprendido ignora palavra que ja e portugues (dezesseis, area, usa).",
+    "arquivo": "tts_likepoints/1.4.15.pack",
+    "conteudo": "a3f8f26e8d981ad999fd3b2650a74c77906be0d75e3bb8da1110d27abcdc04d8",
+    "notas": "",
     "publicada_em": "2026-11-16",
     "requer": [
      "edge_tts",
@@ -629,9 +629,9 @@
      "certifi"
     ],
     "revogadas": [],
-    "sha256": "0614f4511c6ff416f7d9597edb9e0d395ae14a006dba2ba7cdfbb35f79f64b9d",
-    "tamanho": 104863,
-    "versao": "1.4.14"
+    "sha256": "1a09a64a8e1563779b9b25d1b58dd97bb6f0c73c70e6ede6acbe433abf1b138e",
+    "tamanho": 104857,
+    "versao": "1.4.15"
    }
   },
   "vibes": {
@@ -696,5 +696,5 @@
    }
   }
  },
- "serie": 369
+ "serie": 370
 }
