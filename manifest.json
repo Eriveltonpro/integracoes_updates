@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-17 14:06:32",
+ "gerado_em": "2026-11-17 14:06:41",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -60,15 +60,15 @@
   },
   "b_roll": {
    "1": {
-    "arquivo": "b_roll/1.0.0.pack",
-    "conteudo": "4717e189da05d6d8ec155843c391495b1f192bfbf289a58299b7a852adfeb66c",
-    "notas": "B-roll contextual: pixels e trecho narrado, Pixabay via painel sem Pexels; guarda de URLs no download central.",
-    "publicada_em": "2026-11-06",
+    "arquivo": "b_roll/1.0.1.pack",
+    "conteudo": "7baf271ef9aadf22ca90739e93b05efb501fac34c23d8f461efac186e9108bbe",
+    "notas": "Filmes Comentados: download com componente JS + yt-dlp de reserva, painel que cabe, filtros de cena",
+    "publicada_em": "2026-11-17",
     "requer": [],
     "revogadas": [],
-    "sha256": "0a47f9c1e435f8ff31f0f55100bfe3a14924b6aa2ac2c3d4b4c2aa2e80cd5838",
-    "tamanho": 22630,
-    "versao": "1.0.0"
+    "sha256": "1dc0f5e65a4395eb36c21bb7a42134502864c23350f5add218089dfcab8a5218",
+    "tamanho": 22793,
+    "versao": "1.0.1"
    }
   },
   "bilibili_uploader": {
@@ -711,5 +711,5 @@
    }
   }
  },
- "serie": 384
+ "serie": 385
 }
