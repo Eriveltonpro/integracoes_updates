@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-17 07:42:25",
+ "gerado_em": "2026-11-17 08:14:07",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -504,15 +504,15 @@
   },
   "roteiro": {
    "1": {
-    "arquivo": "roteiro/1.3.3.pack",
-    "conteudo": "914cdcbeada70d116d138c28149eb63ae434e0f9afe157411eae3d36aec60a89",
+    "arquivo": "roteiro/1.3.4.pack",
+    "conteudo": "01764c24097f3be9092df90af4c9158494eeeed5d0fdb4d09e3f8cc23b47f374",
     "notas": "",
-    "publicada_em": "2026-11-04",
+    "publicada_em": "2026-11-17",
     "requer": [],
     "revogadas": [],
-    "sha256": "f192578c69981b574b6b0b554f04f2e9ed41603429e503e307416c7db0b2a468",
-    "tamanho": 23957,
-    "versao": "1.3.3"
+    "sha256": "360de81b774410b8da762664f16365fd1075b460113a2495735bb112b8a84136",
+    "tamanho": 24088,
+    "versao": "1.3.4"
    }
   },
   "separar_audio": {
@@ -619,19 +619,19 @@
   },
   "tts_likepoints": {
    "1": {
-    "arquivo": "tts_likepoints/1.4.21.pack",
-    "conteudo": "a960860d2322580d1c97b5ac6dcb3a113c95144311ee0db6d2cab14ec07fe2df",
+    "arquivo": "tts_likepoints/1.4.22.pack",
+    "conteudo": "fa79a292de70ebd4551ae7b46bc7549d779b588cf543160fcb29881b71d7c74b",
     "notas": "",
-    "publicada_em": "2026-11-16",
+    "publicada_em": "2026-11-17",
     "requer": [
      "edge_tts",
      "aiohttp",
      "certifi"
     ],
     "revogadas": [],
-    "sha256": "f44e596d7488efd700f7f8506c2a4b26b76eed063d1c41e615f43557d31db42f",
-    "tamanho": 110683,
-    "versao": "1.4.21"
+    "sha256": "1a1e76d5fdfec9dc775ca2c383b28623f12e204c1fcd57bf76338ec45cda7137",
+    "tamanho": 110697,
+    "versao": "1.4.22"
    }
   },
   "vibes": {
@@ -696,5 +696,5 @@
    }
   }
  },
- "serie": 380
+ "serie": 381
 }
