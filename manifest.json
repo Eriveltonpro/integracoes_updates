@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-17 20:02:02",
+ "gerado_em": "2026-11-17 20:40:14",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -634,9 +634,9 @@
   },
   "tts_likepoints": {
    "1": {
-    "arquivo": "tts_likepoints/1.4.26.pack",
-    "conteudo": "54f0ee7d629e24181a9523f1682b509722696586e51450ea59de42e6a188900c",
-    "notas": "Painel de voz com acentos corretos; widget.js em UTF-8; cartao da voz IA antiga so aparece quando ha arquivos dela no disco",
+    "arquivo": "tts_likepoints/1.4.27.pack",
+    "conteudo": "010bac4a18affcb24686d5a37340d2d9894f4d33f134bb35d7f8f81522b1bc73",
+    "notas": "",
     "publicada_em": "2026-11-17",
     "requer": [
      "edge_tts",
@@ -644,9 +644,9 @@
      "certifi"
     ],
     "revogadas": [],
-    "sha256": "f9a16338648528bd0c39dfa7d2e055c78a906b97a7e51c68539b0e07944aefd4",
-    "tamanho": 111347,
-    "versao": "1.4.26"
+    "sha256": "d76c56929ed78f3d5ce9fae28c62d5ca2ea6de2fe7eb9f85883ae1b7f02663e2",
+    "tamanho": 111429,
+    "versao": "1.4.27"
    }
   },
   "vibes": {
@@ -711,5 +711,5 @@
    }
   }
  },
- "serie": 394
+ "serie": 395
 }
