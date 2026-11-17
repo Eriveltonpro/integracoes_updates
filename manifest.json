@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-17 16:49:31",
+ "gerado_em": "2026-11-17 17:01:31",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -186,10 +186,10 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.70.pack",
-    "conteudo": "fb12f067b5fbfef13ddd72369806c9886eebf5757b62fc8b4aaef2bb8cd9c044",
+    "arquivo": "flow/1.0.71.pack",
+    "conteudo": "17b60695620d292439d022d5c9799358339b9c7f15ccaa71a4eb286eaf17861d",
     "notas": "",
-    "publicada_em": "2026-11-16",
+    "publicada_em": "2026-11-17",
     "requer": [
      "selenium",
      "requests",
@@ -197,9 +197,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "93479c8957c9daa793dafb3f4fde3d4880d8828007503805a5e010b83d503989",
-    "tamanho": 205949,
-    "versao": "1.0.70"
+    "sha256": "a3b8bab6bbb0e1060cddeb487e18513b45711eac0300911c0c584e6095d83365",
+    "tamanho": 206554,
+    "versao": "1.0.71"
    }
   },
   "flow_music": {
@@ -711,5 +711,5 @@
    }
   }
  },
- "serie": 390
+ "serie": 391
 }
