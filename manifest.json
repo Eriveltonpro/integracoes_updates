@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-17 14:07:23",
+ "gerado_em": "2026-11-17 15:01:08",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -343,18 +343,18 @@
   },
   "motion_graficos": {
    "1": {
-    "arquivo": "motion_graficos/1.0.16.pack",
-    "conteudo": "96bbabaf9aef8339a27ab041affe40332c7023cbfde73873c88f9536ae92e5e3",
-    "notas": "Filmes Comentados: download com componente JS + yt-dlp de reserva, painel que cabe, filtros de cena",
+    "arquivo": "motion_graficos/1.0.17.pack",
+    "conteudo": "fce9e7161047de411ea356cf76f9739366473788d0c1d4eb57378ef66007fc07",
+    "notas": "",
     "publicada_em": "2026-11-17",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "c9b1f15c49050b47115e47404282f57213611df5fb38fbd50e2f5036c5f6e3df",
-    "tamanho": 148760,
-    "versao": "1.0.16"
+    "sha256": "430490fc3186e41fe26e62576d5d24fe9574a23a711d90e90daa50ec62e4971b",
+    "tamanho": 154443,
+    "versao": "1.0.17"
    }
   },
   "motion_html": {
@@ -711,5 +711,5 @@
    }
   }
  },
- "serie": 386
+ "serie": 387
 }
