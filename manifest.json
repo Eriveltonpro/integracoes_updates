@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-16 21:08:46",
+ "gerado_em": "2026-11-16 22:03:52",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -619,8 +619,8 @@
   },
   "tts_likepoints": {
    "1": {
-    "arquivo": "tts_likepoints/1.4.20.pack",
-    "conteudo": "bc57b853a1af4ec87053f5fcfd4d365b717df9a430016729cde2ba94ee622b7e",
+    "arquivo": "tts_likepoints/1.4.21.pack",
+    "conteudo": "a960860d2322580d1c97b5ac6dcb3a113c95144311ee0db6d2cab14ec07fe2df",
     "notas": "",
     "publicada_em": "2026-11-16",
     "requer": [
@@ -629,9 +629,9 @@
      "certifi"
     ],
     "revogadas": [],
-    "sha256": "19a3d3058725ed517506fed022b3dd6c991474233f47ca973db8b50230bffbf7",
-    "tamanho": 105232,
-    "versao": "1.4.20"
+    "sha256": "f44e596d7488efd700f7f8506c2a4b26b76eed063d1c41e615f43557d31db42f",
+    "tamanho": 110683,
+    "versao": "1.4.21"
    }
   },
   "vibes": {
@@ -696,5 +696,5 @@
    }
   }
  },
- "serie": 378
+ "serie": 379
 }
