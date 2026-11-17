@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-17 20:40:14",
+ "gerado_em": "2026-11-17 20:49:34",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -101,17 +101,17 @@
   },
   "cenas_filme": {
    "1": {
-    "arquivo": "cenas_filme/0.1.4.pack",
-    "conteudo": "cb4e038075170b5a1b9e4b7bbebb8a8708ac85104b8d0018e9a6063c5056277c",
-    "notas": "Filmes Comentados: download com componente JS + yt-dlp de reserva, painel que cabe, filtros de cena",
+    "arquivo": "cenas_filme/0.1.5.pack",
+    "conteudo": "b561ee510cc20d25a99f9499b4256e7ab6acbdefe8393c12d8ecee608cd30eea",
+    "notas": "",
     "publicada_em": "2026-11-17",
     "requer": [
      "yt_dlp"
     ],
     "revogadas": [],
-    "sha256": "8d83218c58848ac63b8116559c3c0917ae1de9e7598ecd62062ed185e7a74692",
-    "tamanho": 13740,
-    "versao": "0.1.4"
+    "sha256": "ec212ada6ca3cbded814b7bbbf1988bce99ea5e641bb82820d6615c06d781e60",
+    "tamanho": 14090,
+    "versao": "0.1.5"
    }
   },
   "chatgpt_imagens": {
@@ -711,5 +711,5 @@
    }
   }
  },
- "serie": 395
+ "serie": 396
 }
