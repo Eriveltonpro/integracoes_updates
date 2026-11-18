@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-18 18:25:57",
+ "gerado_em": "2026-11-18 18:53:06",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -141,6 +141,34 @@
     "sha256": "b82eced2f85717825a4c137da66ef6b886a7e92e6b91ab17e0f4b24d831b8aa9",
     "tamanho": 42365,
     "versao": "1.2.3"
+   }
+  },
+  "comparacao_graficos": {
+   "1": {
+    "arquivo": "comparacao_graficos/1.0.0.pack",
+    "conteudo": "b7d89bc5d279fe57c70d0ef3444002ffbce2248b041327e04cdd69a3a72673d3",
+    "notas": "1.0.0: 9 modelos (fileira, evolucao, escala, marca, corrida, familia, duelo, altura, mapa) + capa 1280x720 com o ultimo card escondido. Pillow desenha cada quadro (funcao de t, deterministico) e manda rawvideo pro ffmpeg: 30-60 quadros/s em 1080p (6x mais rapido que o Edge). 7 temas (azul_amarelo, ciano_cinza, roxo_neon, verde_dinheiro, vermelho_preto, dourado_classico, claro). Horizontal e vertical. O pacote so desenha: numero vem do app (dadoskit), formatador de numero vem do app.",
+    "publicada_em": "2026-11-18",
+    "requer": [
+     "PIL"
+    ],
+    "revogadas": [],
+    "sha256": "1eac8b366ca8a52b016f9a894eeac98d5810149018ef67281bc0efabfcc0d865",
+    "tamanho": 19098,
+    "versao": "1.0.0"
+   }
+  },
+  "dados_reais": {
+   "1": {
+    "arquivo": "dados_reais/1.0.0.pack",
+    "conteudo": "114d545bdb2d5675e1fb8ae70a9cb536114f94d86cdab2736f3e9c0a80348a08",
+    "notas": "1.0.0: numero nunca vem da IA. lista(plano) monta lista real (pessoas por ocupacao/pais/premio/morreu no ano/vivos, ordenadas por fama; paises soberanos; classe), tabela(qids, metrica) le valor + data de referencia + link (34 metricas: idade, altura, oscars, populacao, PIB, tempo de vida de animal, velocidade, bilheteria...), faixa plausivel tira numero estranho com aviso, conferir_mortes confere na Wikipedia. series: Banco Mundial e OWID com interpolar. planilha: CSV/colar/xlsx BR ou US, serie larga por ano. fotos.achar: escada por tipo, so' CC0/PD/CC BY/BY-SA, creditos. Cache 7 dias em %LOCALAPPDATA%/LikePoints/dados_cache (1 dia em 'quem morreu').",
+    "publicada_em": "2026-11-18",
+    "requer": [],
+    "revogadas": [],
+    "sha256": "c9ce4847e0952d7dd92e21fe58fc841bcdbe54c2c9972d466c986e1090051da5",
+    "tamanho": 25694,
+    "versao": "1.0.0"
    }
   },
   "digitacao_voz": {
@@ -711,5 +739,5 @@
    }
   }
  },
- "serie": 407
+ "serie": 408
 }
