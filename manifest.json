@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-17 20:49:34",
+ "gerado_em": "2026-11-18 08:45:37",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -101,17 +101,17 @@
   },
   "cenas_filme": {
    "1": {
-    "arquivo": "cenas_filme/0.1.5.pack",
-    "conteudo": "b561ee510cc20d25a99f9499b4256e7ab6acbdefe8393c12d8ecee608cd30eea",
+    "arquivo": "cenas_filme/0.1.6.pack",
+    "conteudo": "157fd819c167784c4e5a636b2f8be20f038719f85fd7ce6b14c3c5ee73bef3cb",
     "notas": "",
-    "publicada_em": "2026-11-17",
+    "publicada_em": "2026-11-18",
     "requer": [
      "yt_dlp"
     ],
     "revogadas": [],
-    "sha256": "ec212ada6ca3cbded814b7bbbf1988bce99ea5e641bb82820d6615c06d781e60",
-    "tamanho": 14090,
-    "versao": "0.1.5"
+    "sha256": "048b1d4e990b0e30f08fbb59467197afb04556cceb5c307c6322ae0dfd38bbe5",
+    "tamanho": 14630,
+    "versao": "0.1.6"
    }
   },
   "chatgpt_imagens": {
@@ -343,18 +343,18 @@
   },
   "motion_graficos": {
    "1": {
-    "arquivo": "motion_graficos/1.0.18.pack",
-    "conteudo": "e945000a50acce9982566f821d62947075b7ac407641e3c0a2f750052b063bf5",
+    "arquivo": "motion_graficos/1.0.19.pack",
+    "conteudo": "60d48d1de097e99f15082bafc37364db54e04c8056e7aa2d6953a4407ff8cf1f",
     "notas": "",
-    "publicada_em": "2026-11-17",
+    "publicada_em": "2026-11-18",
     "requer": [
      "websocket",
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "ff915a8680eba159b58aa543dc38ac0a80940f1e127ad12207e2602598f45c43",
-    "tamanho": 154498,
-    "versao": "1.0.18"
+    "sha256": "b594c44d4f2de11aea60168e3c402995b6a2c5a8aa4f401acd6c1970209be1d8",
+    "tamanho": 155053,
+    "versao": "1.0.19"
    }
   },
   "motion_html": {
@@ -711,5 +711,5 @@
    }
   }
  },
- "serie": 396
+ "serie": 397
 }
