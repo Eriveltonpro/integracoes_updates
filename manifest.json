@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-18 13:43:20",
+ "gerado_em": "2026-11-18 14:55:42",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -683,15 +683,15 @@
   },
   "youtube_seo": {
    "1": {
-    "arquivo": "youtube_seo/1.2.2.pack",
-    "conteudo": "0efc95451de2d6c95a3ab782b69ba8e74e6d5322c53f291678879d3269727af4",
-    "notas": "",
-    "publicada_em": "2026-11-17",
+    "arquivo": "youtube_seo/1.2.3.pack",
+    "conteudo": "ecfc328268c86bb83946ac65298f37f62655dcc4046c911244b368fe2602fb22",
+    "notas": "Recusa palavra em outro alfabeto (ex.: cirilico em SEO pt-BR) com reescrita pelo motivo; tags/hashtags fora da escrita saem",
+    "publicada_em": "2026-11-18",
     "requer": [],
     "revogadas": [],
-    "sha256": "14605c7e7f29b6f01c642f9c752d4ecaddc56adcbe6c0f718a7333b25fce4243",
-    "tamanho": 21212,
-    "versao": "1.2.2"
+    "sha256": "8cef74618d25a5a43f7cff46ac4532a9cb79dee318ed41d0ae4349d4c08c5f87",
+    "tamanho": 22558,
+    "versao": "1.2.3"
    }
   },
   "youtube_uploader": {
@@ -711,5 +711,5 @@
    }
   }
  },
- "serie": 401
+ "serie": 402
 }
