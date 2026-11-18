@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-18 18:53:06",
+ "gerado_em": "2026-11-18 19:18:17",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -160,15 +160,15 @@
   },
   "dados_reais": {
    "1": {
-    "arquivo": "dados_reais/1.0.0.pack",
-    "conteudo": "114d545bdb2d5675e1fb8ae70a9cb536114f94d86cdab2736f3e9c0a80348a08",
-    "notas": "1.0.0: numero nunca vem da IA. lista(plano) monta lista real (pessoas por ocupacao/pais/premio/morreu no ano/vivos, ordenadas por fama; paises soberanos; classe), tabela(qids, metrica) le valor + data de referencia + link (34 metricas: idade, altura, oscars, populacao, PIB, tempo de vida de animal, velocidade, bilheteria...), faixa plausivel tira numero estranho com aviso, conferir_mortes confere na Wikipedia. series: Banco Mundial e OWID com interpolar. planilha: CSV/colar/xlsx BR ou US, serie larga por ano. fotos.achar: escada por tipo, so' CC0/PD/CC BY/BY-SA, creditos. Cache 7 dias em %LOCALAPPDATA%/LikePoints/dados_cache (1 dia em 'quem morreu').",
+    "arquivo": "dados_reais/1.0.1.pack",
+    "conteudo": "cac50cb0fb129130baf7e10f6271ddb04eea5ae6b173a691ddf35e2085042d63",
+    "notas": "codigo do pais (iso2) para bandeiras",
     "publicada_em": "2026-11-18",
     "requer": [],
     "revogadas": [],
-    "sha256": "c9ce4847e0952d7dd92e21fe58fc841bcdbe54c2c9972d466c986e1090051da5",
-    "tamanho": 25694,
-    "versao": "1.0.0"
+    "sha256": "73ea4643afc3c39ea52bd56d3773a1dc1f75ed67675b787622802b2f5df213e5",
+    "tamanho": 25795,
+    "versao": "1.0.1"
    }
   },
   "digitacao_voz": {
@@ -739,5 +739,5 @@
    }
   }
  },
- "serie": 408
+ "serie": 409
 }
