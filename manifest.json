@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-18 18:15:35",
+ "gerado_em": "2026-11-18 18:25:57",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -235,8 +235,8 @@
   },
   "grok": {
    "1": {
-    "arquivo": "grok/1.0.12.pack",
-    "conteudo": "b1291fc357f7e3dcfce741a5fe3f977fe5e9dcb9c00a9c535fb4fc7727b5ac56",
+    "arquivo": "grok/1.0.13.pack",
+    "conteudo": "4e1576701f83bb42923b6bc8ded774edaebdbcd3f954b835575634e5eda41d33",
     "notas": "",
     "publicada_em": "2026-11-18",
     "requer": [
@@ -244,9 +244,9 @@
      "psutil"
     ],
     "revogadas": [],
-    "sha256": "d54c60c5f610606eab89d7fee3f6e1ce5f30306b8813f6ea1a32bc798ea3545b",
-    "tamanho": 46380,
-    "versao": "1.0.12"
+    "sha256": "dd9e4d204549188d54474b5e967e28266f0065fe37afabfd6be639af445e285c",
+    "tamanho": 46402,
+    "versao": "1.0.13"
    }
   },
   "happyshrimp": {
@@ -711,5 +711,5 @@
    }
   }
  },
- "serie": 406
+ "serie": 407
 }
