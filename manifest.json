@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-18 19:18:17",
+ "gerado_em": "2026-11-18 19:21:08",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -145,30 +145,30 @@
   },
   "comparacao_graficos": {
    "1": {
-    "arquivo": "comparacao_graficos/1.0.0.pack",
-    "conteudo": "b7d89bc5d279fe57c70d0ef3444002ffbce2248b041327e04cdd69a3a72673d3",
-    "notas": "1.0.0: 9 modelos (fileira, evolucao, escala, marca, corrida, familia, duelo, altura, mapa) + capa 1280x720 com o ultimo card escondido. Pillow desenha cada quadro (funcao de t, deterministico) e manda rawvideo pro ffmpeg: 30-60 quadros/s em 1080p (6x mais rapido que o Edge). 7 temas (azul_amarelo, ciano_cinza, roxo_neon, verde_dinheiro, vermelho_preto, dourado_classico, claro). Horizontal e vertical. O pacote so desenha: numero vem do app (dadoskit), formatador de numero vem do app.",
+    "arquivo": "comparacao_graficos/1.0.1.pack",
+    "conteudo": "5f8c36d1c72bb67b3472454d32ca506bcda7687af81edaf3cadaa511ab27580e",
+    "notas": "foto certa em tabela colada (predio) e posicao do ranking",
     "publicada_em": "2026-11-18",
     "requer": [
      "PIL"
     ],
     "revogadas": [],
-    "sha256": "1eac8b366ca8a52b016f9a894eeac98d5810149018ef67281bc0efabfcc0d865",
-    "tamanho": 19098,
-    "versao": "1.0.0"
+    "sha256": "9501ea5e802b555944c2e210af736d4dd8b77363f07cec65c7326ed07493c8d6",
+    "tamanho": 19109,
+    "versao": "1.0.1"
    }
   },
   "dados_reais": {
    "1": {
-    "arquivo": "dados_reais/1.0.1.pack",
-    "conteudo": "cac50cb0fb129130baf7e10f6271ddb04eea5ae6b173a691ddf35e2085042d63",
-    "notas": "codigo do pais (iso2) para bandeiras",
+    "arquivo": "dados_reais/1.0.2.pack",
+    "conteudo": "a6f6890104248de3e3e899ca9957cb3b1618ec344e132041ce404dd4907cf2e1",
+    "notas": "foto certa em tabela colada (predio) e posicao do ranking",
     "publicada_em": "2026-11-18",
     "requer": [],
     "revogadas": [],
-    "sha256": "73ea4643afc3c39ea52bd56d3773a1dc1f75ed67675b787622802b2f5df213e5",
-    "tamanho": 25795,
-    "versao": "1.0.1"
+    "sha256": "7a379e577c991eb967fe0961dc5c6ed4beb2307527a2c36711f5710e4417c957",
+    "tamanho": 25810,
+    "versao": "1.0.2"
    }
   },
   "digitacao_voz": {
@@ -739,5 +739,5 @@
    }
   }
  },
- "serie": 409
+ "serie": 410
 }
