@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-19 07:04:50",
+ "gerado_em": "2026-11-19 07:09:35",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -160,15 +160,15 @@
   },
   "dados_reais": {
    "1": {
-    "arquivo": "dados_reais/1.0.3.pack",
-    "conteudo": "feb95176dac1719f0d075066ca85e427743efa51700f22d3c4d4369c2112ca90",
-    "notas": "acha predio/empresa/pais por busca de texto com classe",
-    "publicada_em": "2026-11-18",
+    "arquivo": "dados_reais/1.0.4.pack",
+    "conteudo": "24300787871f33b4e100f1d6e2b17e7ef95f03ef97b4976740ed86ce07acf4a6",
+    "notas": "",
+    "publicada_em": "2026-11-19",
     "requer": [],
     "revogadas": [],
-    "sha256": "54ca2b69d2f9faac5150960406861a2fd76af6cd2a6995ea1e16b186ec072ad0",
-    "tamanho": 26223,
-    "versao": "1.0.3"
+    "sha256": "7345b99e6480b696d03fa6158ed5400c1c83736231b7702734ad6e3952c80899",
+    "tamanho": 37812,
+    "versao": "1.0.4"
    }
   },
   "digitacao_voz": {
@@ -739,5 +739,5 @@
    }
   }
  },
- "serie": 420
+ "serie": 421
 }
