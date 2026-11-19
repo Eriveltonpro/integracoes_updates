@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-19 07:44:02",
+ "gerado_em": "2026-11-19 07:44:10",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -672,8 +672,8 @@
      "certifi"
     ],
     "revogadas": [],
-    "sha256": "be50c230327a1a842e12d40a07d2e9203a735ab326741b8c049bd798ec766a0f",
-    "tamanho": 112970,
+    "sha256": "8fad0288fb8c1411e2903a8f4a414719a92d7350d81ac00811c85371ba764557",
+    "tamanho": 112973,
     "versao": "1.4.39"
    }
   },
