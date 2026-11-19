@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-19 07:09:35",
+ "gerado_em": "2026-11-19 07:27:18",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -677,6 +677,19 @@
     "versao": "1.4.37"
    }
   },
+  "verificar_canal": {
+   "1": {
+    "arquivo": "verificar_canal/1.0.0.pack",
+    "conteudo": "5f84a7a487cacc9d716b25ad2a2a4f99e68f6eea83cc3c52b51e0132e203590c",
+    "notas": "1.0.0 (19/11/2026): verificar_canal(driver, chave) compra numero no SMSBear (servico YouTube/Google achado pelo preco, com estoque), preenche youtube.com/verify (SMS, pais, telefone), espera o SMS do pedido DESTE job, digita o codigo e confere na pagina. Numero recusado ou SMS que nao chega -> pedido cancelado (saldo volta) e tenta outro (3x). Canal ja verificado -> nao compra nada. Chave do cliente vem do painel Like Points (provider smsbear) por chave_do_auth(auth). canal_verificado(driver), preco_youtube(chave), saldo(chave).",
+    "publicada_em": "2026-11-19",
+    "requer": [],
+    "revogadas": [],
+    "sha256": "132abd6d7594a32a756b7ac87b2c26d058979072f7cea5d1f46a83471f9b27ba",
+    "tamanho": 9529,
+    "versao": "1.0.0"
+   }
+  },
   "vibes": {
    "1": {
     "arquivo": "vibes/1.0.11.pack",
@@ -739,5 +752,5 @@
    }
   }
  },
- "serie": 421
+ "serie": 422
 }
