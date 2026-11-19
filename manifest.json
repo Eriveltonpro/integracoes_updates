@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-19 07:52:49",
+ "gerado_em": "2026-11-19 14:07:03",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -145,17 +145,17 @@
   },
   "comparacao_graficos": {
    "1": {
-    "arquivo": "comparacao_graficos/1.0.5.pack",
-    "conteudo": "51c1baf747f9e3b66905299cf7baa10af5df34d095ef9486d26c01bd86bb161e",
-    "notas": "",
+    "arquivo": "comparacao_graficos/1.0.6.pack",
+    "conteudo": "8ddeca9031a9c569450ccdfb88fbe0ef93dc5253f6b78c9c16c02ac75ad784e9",
+    "notas": "card cabe nome em 2 linhas; vencedor acima do card",
     "publicada_em": "2026-11-19",
     "requer": [
      "PIL"
     ],
     "revogadas": [],
-    "sha256": "a81e39fc46f937f3ca2ad975080d453f8b8b9d267ddef675c6152a5fed726a99",
-    "tamanho": 25480,
-    "versao": "1.0.5"
+    "sha256": "ccce15714572aeb80ea84e421dcaeefacc4e0d477521ef89f0f20863586ae9e0",
+    "tamanho": 25633,
+    "versao": "1.0.6"
    }
   },
   "dados_reais": {
@@ -752,5 +752,5 @@
    }
   }
  },
- "serie": 427
+ "serie": 428
 }
