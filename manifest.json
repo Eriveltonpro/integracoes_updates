@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-18 20:07:34",
+ "gerado_em": "2026-11-18 21:28:29",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -145,17 +145,17 @@
   },
   "comparacao_graficos": {
    "1": {
-    "arquivo": "comparacao_graficos/1.0.1.pack",
-    "conteudo": "5f8c36d1c72bb67b3472454d32ca506bcda7687af81edaf3cadaa511ab27580e",
-    "notas": "foto certa em tabela colada (predio) e posicao do ranking",
+    "arquivo": "comparacao_graficos/1.0.2.pack",
+    "conteudo": "d0ec5960c0980c953ced88e4194152e0b7b0b69064295beb7ab3217529004b93",
+    "notas": "",
     "publicada_em": "2026-11-18",
     "requer": [
      "PIL"
     ],
     "revogadas": [],
-    "sha256": "9501ea5e802b555944c2e210af736d4dd8b77363f07cec65c7326ed07493c8d6",
-    "tamanho": 19109,
-    "versao": "1.0.1"
+    "sha256": "b8d7ba52c9b61b98d5f599c887f076864841c9db38b29ed3dffba306fbe11be4",
+    "tamanho": 23063,
+    "versao": "1.0.2"
    }
   },
   "dados_reais": {
@@ -739,5 +739,5 @@
    }
   }
  },
- "serie": 412
+ "serie": 413
 }
