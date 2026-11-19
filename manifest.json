@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-19 07:00:03",
+ "gerado_em": "2026-11-19 07:03:22",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -145,17 +145,17 @@
   },
   "comparacao_graficos": {
    "1": {
-    "arquivo": "comparacao_graficos/1.0.3.pack",
-    "conteudo": "7d813d6cd64e6388158110d713e6e5154029dc7e58534a6876bbe30b8ea140f3",
+    "arquivo": "comparacao_graficos/1.0.4.pack",
+    "conteudo": "3571d5c6301e53c9b87104af5bc740acca372df9c7c9ff32dd401752e1927d82",
     "notas": "",
     "publicada_em": "2026-11-19",
     "requer": [
      "PIL"
     ],
     "revogadas": [],
-    "sha256": "f9698ac2014b561d9b50852b1b9df3a2a3a4a2f572015cd14f572401515fca48",
-    "tamanho": 25487,
-    "versao": "1.0.3"
+    "sha256": "0db4c64e22b983d7824a6b4007ec454ecfd6a347dedd319eb3d85c1d0039bea0",
+    "tamanho": 25490,
+    "versao": "1.0.4"
    }
   },
   "dados_reais": {
@@ -662,8 +662,8 @@
   },
   "tts_likepoints": {
    "1": {
-    "arquivo": "tts_likepoints/1.4.36.pack",
-    "conteudo": "25f6eab7c84a8ca7358e4c18d80809860a9cbbcf61eb18b08380ca1c04cddda2",
+    "arquivo": "tts_likepoints/1.4.37.pack",
+    "conteudo": "9b6e2b7b27ccca6beb62883a7472334adc59b11fe504a4f1078afe21662a65ec",
     "notas": "",
     "publicada_em": "2026-11-19",
     "requer": [
@@ -672,9 +672,9 @@
      "certifi"
     ],
     "revogadas": [],
-    "sha256": "67dcd93a8ce64597d0f98fc63664ecabed5beab49611fcb160dc295668325f67",
-    "tamanho": 112879,
-    "versao": "1.4.36"
+    "sha256": "ed551dbb3c7c8ac5bc7094d0c7f2a0301dbad1f788380d035b66453c0ad37678",
+    "tamanho": 112875,
+    "versao": "1.4.37"
    }
   },
   "vibes": {
@@ -739,5 +739,5 @@
    }
   }
  },
- "serie": 418
+ "serie": 419
 }
