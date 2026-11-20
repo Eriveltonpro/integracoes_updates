@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-20 16:16:12",
+ "gerado_em": "2026-11-20 16:23:34",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -14,6 +14,19 @@
     "sha256": "9f229aa4c9780d4255129da862756ab44afb4370647cb69b7c0043b909d63dff",
     "tamanho": 32385,
     "versao": "1.3.0"
+   }
+  },
+  "ai33": {
+   "1": {
+    "arquivo": "ai33/1.0.0.pack",
+    "conteudo": "be89009565a11dc9b80c0e8efa09f7e1a7fcda840364475aab168ad3e099fe52",
+    "notas": "1.0.0: vozes ElevenLabs, musica Suno e imagens AI33 pela conta Like Points",
+    "publicada_em": "2026-11-20",
+    "requer": [],
+    "revogadas": [],
+    "sha256": "1de38fe71ce2da8ca33f46db18f6397319560b31750b33f16299235feac91b1f",
+    "tamanho": 7469,
+    "versao": "1.0.0"
    }
   },
   "auth_login": {
@@ -752,5 +765,5 @@
    }
   }
  },
- "serie": 435
+ "serie": 436
 }
