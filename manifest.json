@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-21 13:28:34",
+ "gerado_em": "2026-11-21 16:14:39",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -737,15 +737,15 @@
   },
   "youtube_seo": {
    "1": {
-    "arquivo": "youtube_seo/1.3.0.pack",
-    "conteudo": "f39c6384f334c8ebb4e3335bffad470c5893e616117d1a0683827361b2cd962a",
-    "notas": "SEO 2027: 5 variantes por superficie, reprova gancho de 2023/abertura vazia/titulo generico/termo fora dos 40 primeiros, reserva do material",
+    "arquivo": "youtube_seo/1.4.0.pack",
+    "conteudo": "d3affdf9e010ff8dbbe02bf7ddd4b4820aa7bf900579f9c33c098cd30ad209b7",
+    "notas": "1.4.0: descricao organizada em blocos com emoji (opt-in descricao_formatada), validador, promessa futura reprovada",
     "publicada_em": "2026-11-21",
     "requer": [],
     "revogadas": [],
-    "sha256": "d29f0e5ad1448f8e5b48d972369ca5213dce769212e88509651c61edcafa5fab",
-    "tamanho": 28450,
-    "versao": "1.3.0"
+    "sha256": "c9eda92a56a3d88c582b82bf29e224ef4da29fe6de6dfc45e888c397d4db0140",
+    "tamanho": 32205,
+    "versao": "1.4.0"
    }
   },
   "youtube_uploader": {
@@ -765,5 +765,5 @@
    }
   }
  },
- "serie": 442
+ "serie": 443
 }
