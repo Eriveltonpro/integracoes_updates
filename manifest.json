@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-21 10:42:20",
+ "gerado_em": "2026-11-21 10:42:42",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -60,15 +60,15 @@
   },
   "avatar_narrador": {
    "1": {
-    "arquivo": "avatar_narrador/1.0.1.pack",
-    "conteudo": "c9a9b0c4ae2b4c14ea1ae6fa204e78c7efbba93776ce3a9e04ee5b6b590a8f52",
-    "notas": "1.0.1: capa e previa animada geradas para video do cliente que veio de app antigo (previas)",
-    "publicada_em": "2026-10-19",
+    "arquivo": "avatar_narrador/1.1.0.pack",
+    "conteudo": "8296b9d6ae8a72fcf090abb3c098567a0e4d3043fa2d84c789b9aaba5cad6c83",
+    "notas": "",
+    "publicada_em": "2026-11-21",
     "requer": [],
     "revogadas": [],
-    "sha256": "8ac209e0d7f406e3e09934f82407dfb1f5e2dac5adcfe952d50ff254f5517eee",
-    "tamanho": 25605,
-    "versao": "1.0.1"
+    "sha256": "ca17098eb5edd146681fdbffdde72b2e8f8f5bd760bf92b25c70b3bbeb88d582",
+    "tamanho": 26085,
+    "versao": "1.1.0"
    }
   },
   "b_roll": {
@@ -765,5 +765,5 @@
    }
   }
  },
- "serie": 439
+ "serie": 440
 }
