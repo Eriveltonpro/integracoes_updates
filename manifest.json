@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-23 09:24:05",
+ "gerado_em": "2026-11-23 14:17:07",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -750,20 +750,20 @@
   },
   "youtube_uploader": {
    "1": {
-    "arquivo": "youtube_uploader/1.0.29.pack",
-    "conteudo": "2bd89637f3f20a6806a47be6a2d553cf45c8fdc4ee88b10d131bca921f4ca1a9",
-    "notas": "",
-    "publicada_em": "2026-11-18",
+    "arquivo": "youtube_uploader/1.0.31.pack",
+    "conteudo": "a413f349b94f5ccfa400852b3f329fd2383a9e73daad7a7d20e4f79e35775cea",
+    "notas": "1.0.30 (23/11/2026): agendar rascunhos achava 0 no cliente. Deteccao de rascunho agora por 3 sinais (palavra de rascunho na visibilidade/botao em 13 idiomas, linha sem link, ou link) e nao so' 'linha sem link /video/'; espera a lista de Conteudo montar (ate 25s) antes de varrer; abrir rascunho prefere o botao 'Editar rascunho'; quando acha 0, grava no log a amostra das linhas (diag) pra caso novo.",
+    "publicada_em": "2026-11-23",
     "requer": [
      "selenium",
      "requests"
     ],
     "revogadas": [],
-    "sha256": "9ebe9371b879ee39ef5ca386c3361ffb73f9b369e6ca65c9536c99630d5ec6e0",
-    "tamanho": 129070,
-    "versao": "1.0.29"
+    "sha256": "4e8019e63b48bd4e9dbc9eeaf2b5e22c0cdf39fb0e94e1a3887d9e1af2921216",
+    "tamanho": 130083,
+    "versao": "1.0.31"
    }
   }
  },
- "serie": 448
+ "serie": 450
 }
