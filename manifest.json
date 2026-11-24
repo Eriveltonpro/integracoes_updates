@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-24 19:11:15",
+ "gerado_em": "2026-11-24 20:19:56",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -750,20 +750,20 @@
   },
   "youtube_uploader": {
    "1": {
-    "arquivo": "youtube_uploader/1.0.32.pack",
-    "conteudo": "6b13a1c7352febc983dccd0cd02e0f78eb5079967c7e68ff359430afdbd1671d",
-    "notas": "Pausa por limite diario com volta automatica",
+    "arquivo": "youtube_uploader/1.0.33.pack",
+    "conteudo": "29979e5a5964cf4e7abae41ec204d9f5a4a6f33d3eab3f89f19e6df142b4ac6a",
+    "notas": "Limite diario com o assistente aberto: para na 2a tentativa de Programar/Salvar em vez de insistir 15 min.",
     "publicada_em": "2026-11-24",
     "requer": [
      "selenium",
      "requests"
     ],
     "revogadas": [],
-    "sha256": "de876196174f7fbb8d7109dfd60183dea582444e963bab691c0ba97f86852c80",
-    "tamanho": 132829,
-    "versao": "1.0.32"
+    "sha256": "d3539c59c823941a03014cda4cf4ce969435618351745b276a841257d248d629",
+    "tamanho": 132868,
+    "versao": "1.0.33"
    }
   }
  },
- "serie": 458
+ "serie": 459
 }
