@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-24 17:05:03",
+ "gerado_em": "2026-11-24 19:11:15",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -245,17 +245,17 @@
   },
   "flow_music": {
    "1": {
-    "arquivo": "flow_music/1.0.1.pack",
-    "conteudo": "bb4b4fb39759ed1f84e07ccd146aeb83d0ea9cbcd447e4c0d93201d9d30d5ea6",
-    "notas": "fachada gerar_musica/abrir_janela/conta_logada igual ao acekit (Fluxo Musical)",
-    "publicada_em": "2026-10-23",
+    "arquivo": "flow_music/1.0.2.pack",
+    "conteudo": "ad8432417df5c0a3a76dc2cd500daf7264bef6f87a453e1c874a20f2a3cd6b4c",
+    "notas": "login: nunca navega enquanto o cliente esta no Google; abre a tela Entrar sozinho",
+    "publicada_em": "2026-11-24",
     "requer": [
      "selenium"
     ],
     "revogadas": [],
-    "sha256": "8c5816934c4c2f6b9b00b4341417e374e8f01c6fb2c4ee502d5fedec01fe7877",
-    "tamanho": 15800,
-    "versao": "1.0.1"
+    "sha256": "ab4828c4f8c645beb09b5a9365b219803c2dbd45441103f7d29a4b69289cae25",
+    "tamanho": 16217,
+    "versao": "1.0.2"
    }
   },
   "gemini_imagens": {
@@ -765,5 +765,5 @@
    }
   }
  },
- "serie": 457
+ "serie": 458
 }
