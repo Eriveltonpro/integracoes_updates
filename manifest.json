@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-24 10:04:28",
+ "gerado_em": "2026-11-24 13:55:01",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -227,9 +227,9 @@
   },
   "flow": {
    "1": {
-    "arquivo": "flow/1.0.75.pack",
-    "conteudo": "39c46808536c3ca621e348819c4dd78cac6807fd008d71215bd92c01e87090ea",
-    "notas": "",
+    "arquivo": "flow/1.0.76.pack",
+    "conteudo": "4e8fcbec01442b5a8e00b92e8cd02e8388c56773d78d3f8c57be97d8e9df823c",
+    "notas": "Chrome com atualizacao esperando reiniciar: usa o driver da janela aberta",
     "publicada_em": "2026-11-24",
     "requer": [
      "selenium",
@@ -238,9 +238,9 @@
      "websocket"
     ],
     "revogadas": [],
-    "sha256": "dd76cedad59f2b451a6aaedc466c226b041defa3942267fc905c166299ecb23f",
-    "tamanho": 214834,
-    "versao": "1.0.75"
+    "sha256": "45c34cfbdb74bb7bdea6fd62f19403383670ae84e69ebfacfd9ededdc2766274",
+    "tamanho": 215324,
+    "versao": "1.0.76"
    }
   },
   "flow_music": {
@@ -765,5 +765,5 @@
    }
   }
  },
- "serie": 455
+ "serie": 456
 }
