@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-24 21:24:50",
+ "gerado_em": "2026-11-25 11:00:33",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -458,28 +458,28 @@
   },
   "nichos_roteiro": {
    "1": {
-    "arquivo": "nichos_roteiro/1.0.2.pack",
-    "conteudo": "aac3d1ca526aed8bd1e0e6463b82629fe44e21d164be489a1394bf5515ff80ba",
-    "notas": "",
-    "publicada_em": "2026-11-05",
+    "arquivo": "nichos_roteiro/1.1.0.pack",
+    "conteudo": "ce293b6f3edbed269539ccaba9c008c79f0b6daf891c2f0a0668fa1ac6e2cd1d",
+    "notas": "regra da headline de capa e titulo: publico do canal + topico do nicho + curiosidade",
+    "publicada_em": "2026-11-25",
     "requer": [],
     "revogadas": [],
-    "sha256": "0dd4717166bfd613130287d097c90cdd455b393a24235dfe8a85438b1175e958",
-    "tamanho": 30665,
-    "versao": "1.0.2"
+    "sha256": "df89bc8d1695ec984ff90795f7abb239106bef059aa157e8891e1e4f038ab71a",
+    "tamanho": 32467,
+    "versao": "1.1.0"
    }
   },
   "no_ai_slop": {
    "1": {
-    "arquivo": "no_ai_slop/1.0.4.pack",
-    "conteudo": "24ead9fcf919e59fbd3b74d1cb88279f6947e2ab5fc3ef3b9ad2a4654a566ae4",
-    "notas": "",
-    "publicada_em": "2026-11-17",
+    "arquivo": "no_ai_slop/1.1.0.pack",
+    "conteudo": "35965b6bedeaf6c998c644df6213371f2b626ced0d82fd6f28cfa36df6583a94",
+    "notas": "regra da headline de capa e titulo: publico do canal + topico do nicho + curiosidade",
+    "publicada_em": "2026-11-25",
     "requer": [],
     "revogadas": [],
-    "sha256": "4a0a5da89b7cb039a0182b0bafe225ff19a0659e43acd0eeea9e89a4ed5f8bd7",
-    "tamanho": 17950,
-    "versao": "1.0.4"
+    "sha256": "604869d02a94ea3672a4681b7d745c657bcf83db9775c2d1b0ee08fa7caefdee",
+    "tamanho": 26333,
+    "versao": "1.1.0"
    }
   },
   "personalizar_canal": {
@@ -737,15 +737,15 @@
   },
   "youtube_seo": {
    "1": {
-    "arquivo": "youtube_seo/1.4.0.pack",
-    "conteudo": "d3affdf9e010ff8dbbe02bf7ddd4b4820aa7bf900579f9c33c098cd30ad209b7",
-    "notas": "1.4.0: descricao organizada em blocos com emoji (opt-in descricao_formatada), validador, promessa futura reprovada",
-    "publicada_em": "2026-11-21",
+    "arquivo": "youtube_seo/1.5.0.pack",
+    "conteudo": "4d54dd6684b9c88e3fef4042de6022cb3734b9f17097b0e5601913a5a291920d",
+    "notas": "regra da headline de capa e titulo: publico do canal + topico do nicho + curiosidade",
+    "publicada_em": "2026-11-25",
     "requer": [],
     "revogadas": [],
-    "sha256": "c9eda92a56a3d88c582b82bf29e224ef4da29fe6de6dfc45e888c397d4db0140",
-    "tamanho": 32205,
-    "versao": "1.4.0"
+    "sha256": "c7e1d94ae938379e9a83decc9f610ad6482c4ca73aee6c7844eefd2b2124c8c4",
+    "tamanho": 33544,
+    "versao": "1.5.0"
    }
   },
   "youtube_uploader": {
@@ -765,5 +765,5 @@
    }
   }
  },
- "serie": 460
+ "serie": 461
 }
