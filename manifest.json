@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-25 14:52:53",
+ "gerado_em": "2026-11-25 15:00:01",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -101,17 +101,17 @@
   },
   "bonecos_palito": {
    "1": {
-    "arquivo": "bonecos_palito/1.0.0.pack",
-    "conteudo": "020cfba22786f641a48e3fcf39cc2cfb9954f18ddce6f243ef9c3f5a6a2da864",
-    "notas": "1.0.0: bonecos palito desenhados no PC",
+    "arquivo": "bonecos_palito/1.0.1.pack",
+    "conteudo": "44dca246f24123fe1a87c1677f95a607a84a2e1cdcdd0d34db6a0e717fa09e40",
+    "notas": "1.0.1: boneco deitado sempre inteiro no quadro",
     "publicada_em": "2026-11-25",
     "requer": [
      "PIL"
     ],
     "revogadas": [],
-    "sha256": "1d147aff25f04c25d3cdf995bb6c05bd53375efa533e71061d3b3e161408872e",
-    "tamanho": 36489,
-    "versao": "1.0.0"
+    "sha256": "2e21789686464be7e4284152f11194e1ced0dd63cbc90a0f91128c38e92f9e73",
+    "tamanho": 36587,
+    "versao": "1.0.1"
    }
   },
   "busca_web": {
@@ -780,5 +780,5 @@
    }
   }
  },
- "serie": 463
+ "serie": 464
 }
