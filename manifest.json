@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-26 19:03:42",
+ "gerado_em": "2026-11-26 19:23:25",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -338,17 +338,17 @@
   },
   "instagram_uploader": {
    "1": {
-    "arquivo": "instagram_uploader/1.0.8.pack",
-    "conteudo": "01e82c860973d5007ad063bc4c86f641badea2d91490df55b5051ea5a2af4790",
-    "notas": "1.0.8 (25/11/2026): cliente logado no Instagram era dado como deslogado. Login agora tem 3a prova (link /direct/inbox/ da barra, idioma-neutra) alem da API da conta e do link do perfil; espera 15s (antes 8); sem prova grava [ig-login] no log com url, cookies e corpo da pagina.",
-    "publicada_em": "2026-11-25",
+    "arquivo": "instagram_uploader/1.0.9.pack",
+    "conteudo": "be5c5aa4860026f79797470a21945d3687c5397facc0b9b994bbb1513472f48a",
+    "notas": "1.0.9 (26/11/2026): Reel saia quadrado (1:1) cortando o alto e o pe do video. Na tela Cortar o motor agora abre 'Selecionar corte' e escolhe 'Original' (video vertical vai 9:16 inteiro); vale tambem pro carrossel.",
+    "publicada_em": "2026-11-26",
     "requer": [
      "selenium"
     ],
     "revogadas": [],
-    "sha256": "e800dce43291044c4197600667816f62d30adbd24f2b849a3730c9c758ea5632",
-    "tamanho": 24783,
-    "versao": "1.0.8"
+    "sha256": "331f2a63e64ddc8e1c8f0fd55a3791f2d06b19f69729a88dc011d80e5830cb90",
+    "tamanho": 25788,
+    "versao": "1.0.9"
    }
   },
   "interface_janela": {
@@ -780,5 +780,5 @@
    }
   }
  },
- "serie": 469
+ "serie": 470
 }
