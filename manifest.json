@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-26 10:11:32",
+ "gerado_em": "2026-11-26 13:40:02",
  "integracoes": {
   "acemusic": {
    "1": {
@@ -31,18 +31,18 @@
   },
   "auth_login": {
    "1": {
-    "arquivo": "auth_login/1.0.3.pack",
-    "conteudo": "427cf4338c0923b2f3d8fde32b5d4bcfa5b16d87542f5175df3d846bae034a68",
-    "notas": "",
-    "publicada_em": "2026-11-16",
+    "arquivo": "auth_login/1.0.4.pack",
+    "conteudo": "c238ef9880a8ddac3c63a8fb168bd7e69a38c3881f60e1e02be286ef556ba648",
+    "notas": "link fixo dos Termos de uso no login e rodape",
+    "publicada_em": "2026-11-26",
     "requer": [
      "requests",
      "flask"
     ],
     "revogadas": [],
-    "sha256": "cc373ca7be6c3c00b4b978a503195f5d1afd64ae3e109487f7a78172d6e2979d",
-    "tamanho": 19005,
-    "versao": "1.0.3"
+    "sha256": "92288a5b79217baf290ae60faaadfde210385b47437337116d66eae818a65d9e",
+    "tamanho": 19138,
+    "versao": "1.0.4"
    }
   },
   "avatar_falante": {
@@ -780,5 +780,5 @@
    }
   }
  },
- "serie": 466
+ "serie": 467
 }
